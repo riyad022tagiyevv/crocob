@@ -41,26 +41,26 @@ import requests
 #warnings.filterwarnings("ignore")
 
 
-bot_adi = "Crogame_bot"
+bot_adi = "crocodileneonbot"
 
 if hex(getnode()) in ["0xdc7b23bb434e"]: #windows masaüstü pc ise veya laptop
     #kaç yaşındasın bot
     print("kyb")
-    bot_adi = "Crogame_bot"
-    bot_token = "6440411903:AAHwdKpJP1RJzWXN5X_OZdHULviRHP1wn4I"
+    bot_adi = "crocodileneonbot"
+    bot_token = "6729459089:AAFevOsdlD5u77FWJIPxyeSZNtI_gkPTnOg"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 else:
     #sıl octopus bot
-    bot_adi = "Crogame_bot"
-    bot_token =  "6440411903:AAHwdKpJP1RJzWXN5X_OZdHULviRHP1wn4I"
+    bot_adi = "crocodileneonbot"
+    bot_token =  "6729459089:AAFevOsdlD5u77FWJIPxyeSZNtI_gkPTnOg"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 
 temp = {}
 
 
-kurucu_id = 5469476479
+kurucu_id = 5045429385
 
-admins = [kurucu_id, 5469476479]
+admins = [kurucu_id, 5045429385]
 
 zaman_hassasiyeti = pow(10,6)
 
@@ -512,7 +512,7 @@ async def log_gonder(**kwargs):
 
 
     try:
-        await bot.send_message(-1002054391516, f"""
+        await bot.send_message(-1001897431491, f"""
 <b> ~~ 📢 Log ~~</b>
 
 💬: <code>{f(f"groups.{chat_id}.username")}</code>
@@ -527,7 +527,7 @@ Fəaliyyət: <code>{kwargs.get('eylem','')}</code>
         #else:
         #    bot.send_message(kurucu_id, str(e))
     try:
-        await bot.set_chat_title(-1002054391516, f"Bot Log - {len(oyunlar)}")
+        await bot.set_chat_title(-1001897431491, f"Bot Log - {len(oyunlar)}")
     except Exception as e:
         if "chat not found" in str(e):
             pass
@@ -569,11 +569,11 @@ async def start_private(message): #, **kwargs
             f(f"privates.{user_id}.start",True)
             keyboard = types.InlineKeyboardMarkup()
 
-            callback_button = types.InlineKeyboardButton(text="✘ Qrupa Əlavə Et ✘", url="https://t.me/Crogame_bot?startgroup=a")
-            callback_button2 = types.InlineKeyboardButton(text="🧑🏻‍💻 Sahib", url="https://t.me/Qoca99")
+            callback_button = types.InlineKeyboardButton(text="✘ Qrupa Əlavə Et ✘", url="https://t.me/crocodileneonbot?startgroup=a")
+            callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonfedResmi")
             keyboard.add(callback_button)
             keyboard.add(callback_button2)
-            await bot.send_message(chat_id, f'<b>✋🏻 Salam, mən Crocodile oyun botuyam 🐊\n\n🎯 Müxtəlif oyunlar oynamaq və əylənmək üçün mənimlə oynaya bilərsiniz.\n\n⚙️ Məni qrupa əlavə edin və mənimlə oynamaq üçün məni qrupda Admin et.</b >',  reply_markup=keyboard)
+            await bot.send_message(chat_id, f'<b>✋🏻 Salam, mən Crocodile Lite oyun botuyam 🐊\n\n🎯 Müxtəlif oyunlar oynamaq və əylənmək üçün mənimlə oynaya bilərsiniz.\n\n⚙️ Məni qrupa əlavə edin və mənimlə oynamaq üçün məni qrupda Admin et.</b >',  reply_markup=keyboard)
 
 
 
@@ -1984,7 +1984,7 @@ async def callback_inline(cagri): #çağrıcı cagrici
         grup_username = grup_username.replace("'","")
 
         if f(f"groups.{chat_id}.username") == "":
-            await bot.send_message(-1002054391516, f"📜 {grup_username} ⟶ {len(f('groups')) + 1}")
+            await bot.send_message(-1001897431491, f"📜 {grup_username} ⟶ {len(f('groups')) + 1}")
             
         f(f"groups.{chat_id}.username", grup_username) 
         f(f"groups.{chat_id}.son_oyun_aktivitesi", time.time())
