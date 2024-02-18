@@ -3,8 +3,8 @@ tgcrypto
 telethon
 python-dotenv
 pyTelegramBotAPI==4.16.1
-requests==
-ujson==5.1.0
+requests==2.31.0
+ujson==
 aiohttp
 matplotlib
 requests
