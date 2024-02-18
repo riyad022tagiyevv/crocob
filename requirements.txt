@@ -2,7 +2,7 @@ pyrogram==2.0.106
 tgcrypto
 telethon
 python-dotenv
-pyTelegramBotAPI==4.4.0
+pyTelegramBotAPI==
 requests==2.27.1
 ujson==5.1.0
 aiohttp
