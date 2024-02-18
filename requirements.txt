@@ -4,7 +4,7 @@ telethon
 python-dotenv
 pyTelegramBotAPI==4.16.1
 requests==2.31.0
-ujson==
+ujson==5.9.0
 aiohttp
 matplotlib
 requests
