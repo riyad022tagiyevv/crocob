@@ -482,9 +482,9 @@ def draw_graph(x,y, **kwargs):
         plt.scatter(x, y, marker='x', color='red')
     plt.savefig('base.jpg', format='jpg')
 
-    if (kwargs.get("chat_id", "-1001897431491")!="-1001897431491"):
+    if (kwargs.get("chat_id", "-1002124835720")!="-1002124835720"):
         #bot.send_photo(kwargs.get("chat_id", ""), photo=open('base.jpg', 'rb'))
-        bot.send_document(kwargs.get("chat_id", "-1001897431491"), document=open('base.jpg', 'rb'))
+        bot.send_document(kwargs.get("chat_id", "-1002124835720"), document=open('base.jpg', 'rb'))
         os.remove("base.jpg")
 
 def skor_arttir(neyi,artis=1, **kwargs):
@@ -499,7 +499,7 @@ def skor_arttir(neyi,artis=1, **kwargs):
         return skor_getir
 
 async def log_gonder(**kwargs):
-    chat_id = kwargs.get('chat_id','-1001897431491')
+    chat_id = kwargs.get("chat_id","-1002124835720")
 
     #grup_link = ""
     #try:    
@@ -512,7 +512,7 @@ async def log_gonder(**kwargs):
 
 
     try:
-        await bot.send_message(-1001897431491, f"""
+        await bot.send_message(-1002124835720, f"""
 <b> ~~ 📢 Log ~~</b>
 
 💬: <code>{f(f"groups.{chat_id}.username")}</code>
@@ -527,7 +527,7 @@ Fəaliyyət: <code>{kwargs.get('eylem','')}</code>
         #else:
         #    bot.send_message(kurucu_id, str(e))
     try:
-        await bot.set_chat_title(-1001897431491, f"Bot Log - {len(oyunlar)}")
+        await bot.set_chat_title(-1002124835720, f"Bot Log - {len(oyunlar)}")
     except Exception as e:
         if "chat not found" in str(e):
             pass
@@ -1139,7 +1139,7 @@ async def games(message):
 
 
     if txt == "":
-        txt = "Hiçbir oyun yok."
+        txt = "Heç bir oyun yoxdur"
 
         
     # Split the text each 3000 characters.
@@ -1253,7 +1253,7 @@ async def skorlar_komut(message):    #chat_tipi = message.chat.type
     callback_button2 = types.InlineKeyboardButton(text="🧩 Boş xana", callback_data="skor_kelimeoyunu")
     keyboard.add(callback_button1)
     keyboard.add(callback_button2)
-    yazi = f"📜 Hansı oyunun puanları görmək istərdiniz?"
+    yazi = f"📜 Hansı oyunun xallarənə görmək istərdiniz?"
     try:
         id = message.id
         await bot.edit_message_text(chat_id=chat_id, message_id=id, text=yazi, reply_markup=keyboard)
@@ -1300,9 +1300,9 @@ async def baslat(message):
 
 
     keyboard = types.InlineKeyboardMarkup()
-    callback_button1 = types.InlineKeyboardButton(text="✍️ Söz oyunu", callback_data="sessiz_sinema")
+    callback_button1 = types.InlineKeyboardButton(text="🐊 Söz oyunu", callback_data="sessiz_sinema")
     callback_button2 = types.InlineKeyboardButton(text="🧩 Boş xana", callback_data="kelimeoyunu")
-    callback_button3 = types.InlineKeyboardButton(text="🔮 Doğruluq yoxsa Cəsarət", callback_data="dogrulukcesaret")
+    callback_button3 = types.InlineKeyboardButton(text="🔞 Doğruluq yoxsa Cəsarət", callback_data="dogrulukcesaret")
     keyboard.add(callback_button1)
     keyboard.add(callback_button2)
     keyboard.add(callback_button3)
@@ -1338,7 +1338,7 @@ async def is_subscribed(chat_id, user_id):
             return False
         return True
     except ApiTelegramException as e:
-        if e.result_json['description'] == 'Bad Request: user not found':
+        if e.result_json['description'] == 'Səhv sorğu: istifadəçi tapılmadı':
             return False
 
 
