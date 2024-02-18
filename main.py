@@ -482,9 +482,9 @@ def draw_graph(x,y, **kwargs):
         plt.scatter(x, y, marker='x', color='red')
     plt.savefig('base.jpg', format='jpg')
 
-    if (kwargs.get("chat_id", "-1002054391516")!="-1002054391516"):
+    if (kwargs.get("chat_id", "-1001897431491")!="-1001897431491"):
         #bot.send_photo(kwargs.get("chat_id", ""), photo=open('base.jpg', 'rb'))
-        bot.send_document(kwargs.get("chat_id", "-1002054391516"), document=open('base.jpg', 'rb'))
+        bot.send_document(kwargs.get("chat_id", "-1001897431491"), document=open('base.jpg', 'rb'))
         os.remove("base.jpg")
 
 def skor_arttir(neyi,artis=1, **kwargs):
@@ -499,7 +499,7 @@ def skor_arttir(neyi,artis=1, **kwargs):
         return skor_getir
 
 async def log_gonder(**kwargs):
-    chat_id = kwargs.get('chat_id','-1002054391516')
+    chat_id = kwargs.get('chat_id','-1001897431491')
 
     #grup_link = ""
     #try:    
@@ -569,7 +569,7 @@ async def start_private(message): #, **kwargs
             f(f"privates.{user_id}.start",True)
             keyboard = types.InlineKeyboardMarkup()
 
-            callback_button = types.InlineKeyboardButton(text="✘ Qrupa Əlavə Et ✘", url="https://t.me/crocodileneonbot?startgroup=a")
+            callback_button = types.InlineKeyboardButton(text="🇦🇿Qrupa Əlavə Et🇦🇿", url="https://t.me/crocodileneonbot?startgroup=a")
             callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonfedResmi")
             keyboard.add(callback_button)
             keyboard.add(callback_button2)
