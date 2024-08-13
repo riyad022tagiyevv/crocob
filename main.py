@@ -570,9 +570,11 @@ async def start_private(message): #, **kwargs
             keyboard = types.InlineKeyboardMarkup()
 
             callback_button = types.InlineKeyboardButton(text="🇦🇿Qrupa Əlavə Et🇦🇿", url="https://t.me/CrocodileGame_Robot?startgroup=a")
-            callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonfedResmi")
+            callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonGroupResmi")
+            Callback_button3 = types.InlineKeyboardButton(text="🫂Tanışlıq botu", url="http://t.me/tanisliqbot") 
             keyboard.add(callback_button)
             keyboard.add(callback_button2)
+            keyboard.add(callback_button3)
             await bot.send_message(chat_id, f'<b>✋🏻 Salam, mən Crocodile Lite oyun botuyam 🐊\n\n🎯 Müxtəlif oyunlar oynamaq və əylənmək üçün mənimlə oynaya bilərsiniz.\n\n⚙️ Məni qrupa əlavə edin və mənimlə oynamaq üçün məni qrupda Admin et.</b >',  reply_markup=keyboard)
 
 
