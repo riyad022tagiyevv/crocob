@@ -571,7 +571,7 @@ async def start_private(message): #, **kwargs
 
             callback_button = types.InlineKeyboardButton(text="🇦🇿Qrupa Əlavə Et🇦🇿", url="https://t.me/CrocodileGame_Robot?startgroup=a")
             callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonGroupResmi")
-            callback_button3 = types.InlineKeyboardButton(text="🫂Tanışlıq botu", url="http://t.me/tanisliqbot") 
+            callback_button3 = types.InlineKeyboardButton(text="🫂Tanışlıq botu", url="https://t.me/tanisliqbot?start=r815485") 
             keyboard.add(callback_button)
             keyboard.add(callback_button2)
             keyboard.add(callback_button3)
