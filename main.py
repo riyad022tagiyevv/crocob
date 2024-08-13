@@ -41,26 +41,26 @@ import requests
 #warnings.filterwarnings("ignore")
 
 
-bot_adi = "crocodileneonbot"
+bot_adi = "CrocodileGame_Robot"
 
 if hex(getnode()) in ["0xdc7b23bb434e"]: #windows masaüstü pc ise veya laptop
     #kaç yaşındasın bot
     print("kyb")
-    bot_adi = "crocodileneonbot"
-    bot_token = "6729459089:AAFevOsdlD5u77FWJIPxyeSZNtI_gkPTnOg"
+    bot_adi = "CrocodileGame_Robot"
+    bot_token = "7121777107:AAFDKoE7ugf28Invhc3u3uP02vi3yX_3B_U"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 else:
     #sıl octopus bot
-    bot_adi = "crocodileneonbot"
-    bot_token =  "6729459089:AAFevOsdlD5u77FWJIPxyeSZNtI_gkPTnOg"
+    bot_adi = "CrocodileGame_Robot"
+    bot_token =  "7121777107:AAFDKoE7ugf28Invhc3u3uP02vi3yX_3B_U"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 
 temp = {}
 
 
-kurucu_id = 5045429385
+kurucu_id = 5898049921
 
-admins = [kurucu_id, 5045429385]
+admins = [kurucu_id, 5898049921]
 
 zaman_hassasiyeti = pow(10,6)
 
@@ -482,9 +482,9 @@ def draw_graph(x,y, **kwargs):
         plt.scatter(x, y, marker='x', color='red')
     plt.savefig('base.jpg', format='jpg')
 
-    if (kwargs.get("chat_id", "-1002124835720")!="-1002124835720"):
+    if (kwargs.get("chat_id", "-1002119059079")!="-1002119059079"):
         #bot.send_photo(kwargs.get("chat_id", ""), photo=open('base.jpg', 'rb'))
-        bot.send_document(kwargs.get("chat_id", "-1002124835720"), document=open('base.jpg', 'rb'))
+        bot.send_document(kwargs.get("chat_id", "-1002119059079"), document=open('base.jpg', 'rb'))
         os.remove("base.jpg")
 
 def skor_arttir(neyi,artis=1, **kwargs):
@@ -499,7 +499,7 @@ def skor_arttir(neyi,artis=1, **kwargs):
         return skor_getir
 
 async def log_gonder(**kwargs):
-    chat_id = kwargs.get("chat_id","-1002124835720")
+    chat_id = kwargs.get("chat_id","-1002119059079")
 
     #grup_link = ""
     #try:    
@@ -512,7 +512,7 @@ async def log_gonder(**kwargs):
 
 
     try:
-        await bot.send_message(-1002124835720, f"""
+        await bot.send_message(-1002119059079, f"""
 <b> ~~ 📢 Log ~~</b>
 
 💬: <code>{f(f"groups.{chat_id}.username")}</code>
@@ -527,7 +527,7 @@ Fəaliyyət: <code>{kwargs.get('eylem','')}</code>
         #else:
         #    bot.send_message(kurucu_id, str(e))
     try:
-        await bot.set_chat_title(-1002124835720, f"Bot Log - {len(oyunlar)}")
+        await bot.set_chat_title(-1002119059079, f"Bot Log - {len(oyunlar)}")
     except Exception as e:
         if "chat not found" in str(e):
             pass
@@ -569,7 +569,7 @@ async def start_private(message): #, **kwargs
             f(f"privates.{user_id}.start",True)
             keyboard = types.InlineKeyboardMarkup()
 
-            callback_button = types.InlineKeyboardButton(text="🇦🇿Qrupa Əlavə Et🇦🇿", url="https://t.me/crocodileneonbot?startgroup=a")
+            callback_button = types.InlineKeyboardButton(text="🇦🇿Qrupa Əlavə Et🇦🇿", url="https://t.me/CrocodileGame_Robot?startgroup=a")
             callback_button2 = types.InlineKeyboardButton(text="🧬Digər botlar🧬", url="https://t.me/NeonfedResmi")
             keyboard.add(callback_button)
             keyboard.add(callback_button2)
@@ -686,13 +686,13 @@ async def sessiz_sinema_baslat(message, **kwargs):
         #bot.send_message(kurucu_id, str(e))
     
         
-    if user_id in admins and user_id != 5045429385 and user_id != 1016448313:
+    if user_id in admins and user_id != 5898049921 and user_id != 5898049921:
         ayir = text.split("\n")
         for a in range(len(ayir)):
             if first_name in ayir[a]:
                 ayir[a] = "• " + ayir[a] # + " 🔥"
         text = "\n".join(ayir)
-    elif user_id==5045429385 or user_id==1016448313:
+    elif user_id==5898049921 or user_id==5898049921:
         ayir = text.split("\n")
         for a in range(len(ayir)):
             if first_name in ayir[a]:
@@ -709,7 +709,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
     callback_button3 = types.InlineKeyboardButton(text="Sözə baxın 👀", callback_data="kelime_bak")
     callback_button2 = types.InlineKeyboardButton(text="Sözü keçin ♻️", callback_data="siradaki_kelime")
     #callback_button = types.InlineKeyboardButton(text="Kelime Yaz ✏️", callback_data="kelime_gir")
-    callback_button = types.InlineKeyboardButton(text="Öz sözüm 📝", url=f"https://t.me/crocodileneonbot?start={oyun_id}")
+    callback_button = types.InlineKeyboardButton(text="Öz sözüm 📝", url=f"https://t.me/CrocodileGame_Robot?start={oyun_id}")
 
 
     
@@ -1984,7 +1984,7 @@ async def callback_inline(cagri): #çağrıcı cagrici
         grup_username = grup_username.replace("'","")
 
         if f(f"groups.{chat_id}.username") == "":
-            await bot.send_message(-1001897431491, f"📜 {grup_username} ⟶ {len(f('groups')) + 1}")
+            await bot.send_message(-1002119059079, f"📜 {grup_username} ⟶ {len(f('groups')) + 1}")
             
         f(f"groups.{chat_id}.username", grup_username) 
         f(f"groups.{chat_id}.son_oyun_aktivitesi", time.time())
