@@ -1,6 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 import random
 import telebot
 from telebot import types, util
@@ -10,58 +7,37 @@ import asyncio
 import os
 import json
 from uuid import getnode
-
 from telebot.async_telebot import AsyncTeleBot
-
-   
 from telebot import asyncio_filters
 
 print(hex(getnode()))
 
 import datetime
-#import requests
-#from bs4 import BeautifulSoup
-
 import sqlite3
 import ujson as json
-#import json
 import os
-
-
 import matplotlib.pyplot as plt
 import numpy as np
-
 import traceback
-#import tdk.gts #pip install tdk-py
-#import warnings
-
 import requests
-
-#warnings.filterwarnings( "ignore", module = "matplotlib\..*" ) #warnings.filterwarnings("ignore") → all warnings
-#warnings.filterwarnings("ignore")
 
 
 bot_adi = "CrocodileGame_Robot"
 
-if hex(getnode()) in ["0xdc7b23bb434e"]: #windows masaüstü pc ise veya laptop
-    #kaç yaşındasın bot
+if hex(getnode()) in ["0xdc7b23bb434e"]:
     print("kyb")
-    bot_adi = "CrocodileGame_Robot"
-    bot_token = "7121777107:AAFDKoE7ugf28Invhc3u3uP02vi3yX_3B_U"
+    bot_adi = "bit tagin yaz @bunsuz"
+    bot_token = "tokeni bura yaz"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 else:
-    #sıl octopus bot
-    bot_adi = "CrocodileGame_Robot"
-    bot_token =  "7121777107:AAFDKoE7ugf28Invhc3u3uP02vi3yX_3B_U"
+    bot_adi = "bot tagi"
+    bot_token =  "bot tokeni"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 
 temp = {}
 
-
-kurucu_id = 5898049921
-
-admins = [kurucu_id, 5898049921]
-
+kurucu_id = #owneridyaz
+admins = [kurucu_id, #useridyazbura]
 zaman_hassasiyeti = pow(10,6)
 
 
@@ -72,19 +48,11 @@ async def telegram_yedek_al():
             await bot.send_document(kurucu_id,open(i, 'rb'), disable_notification=True)
     await bot.send_message(kurucu_id,"Yedek alındı.", disable_notification=True)
 
-
-
 def get_traceback(e):
     lines = traceback.format_exception(type(e), e, e.__traceback__)
     return ''.join(lines)
 
 
-#if hex(getnode()) != "0xe03f494508ec":
-#    telegram_yedek_al()
-
-
-
-#ayarDosyasi = os.path.dirname(sys.argv[0])+'//db.json'
 ayarDosyasi = 'vt.json'
 sqlDosyasi = "db.db"
 db={}
@@ -110,10 +78,6 @@ hizlar = {}
 async def performans_testi():
     txt = "\n".join([f"{i} → {hizlar[i]}" for i in hizlar])
     await bot.send_message(kurucu_id,txt)
-
-
-
-
 
 def sql_execute(command):
     while True:
@@ -159,8 +123,6 @@ def sql_get(command):
     
     return [i for i in ans]
 
-
-
 def get_js(table,id):
     arr = sql_get(f'SELECT * FROM "{table}" WHERE id="{id}";')
     if arr == []:
@@ -171,15 +133,12 @@ def get_js(table,id):
 def set_js(table,id, js):
     ret = get_js(table,id)
     if ret!=[]:
-        #sql_execute(f"UPDATE '{table}' SET json='{json.dumps(js, ensure_ascii=False)}' WHERE id='{id}';")
         sql_execute("UPDATE '{}' SET json='{}' WHERE id='{}';".format(table,json.dumps(js, ensure_ascii=False),id))
     else:
         sql_execute(f"INSERT INTO '{table}' (id, json) values ('{id}', '{json.dumps(js, ensure_ascii=False)}');")
 
 
-
 headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
-
 
 def anlam_getir(kelime):
     js = json.loads(requests.get("https://www.azleks.az/online-dictionary/"+kelime, headers = headers).content.decode())[0]["anlamlarListe"]
@@ -188,17 +147,6 @@ def anlam_getir(kelime):
     for i in range(len(js)):
         ekle = ekle + [js[i]["anlam"]]
     return ekle
-
-
-
-
-
-
-
-#sql_execute('ALTER TABLE "chats.privates" RENAME TO "privates"')
-#sql_execute('ALTER TABLE "chats.groups" RENAME TO "groups"')
-
-
 
 
 def add_words(kelimeler, tablo = "kelimeler"):
@@ -228,7 +176,7 @@ def f(path, process="$read", **kwargs):
 a.b.c.d şeklinde yazılır ve her birisi bir daldır.
 """
     t0 = time.time()
-    #process read, $del, 
+   
     output = kwargs.get("output", "$one") #$array
     
     if path.startswith("groups") or path.startswith("privates") or path.startswith("games") or path.startswith("kelime_turetme_kelimeler"):
@@ -304,7 +252,7 @@ a.b.c.d şeklinde yazılır ve her birisi bir daldır.
                 set_js(tablo,id,process)
 
             elif len(js)>0:
-                #v = f(".".join(js), process ,db=get_js(tablo,id))
+         
 
                 veri_db = get_js(tablo,id)
 
@@ -403,27 +351,18 @@ a.b.c.d şeklinde yazılır ve her birisi bir daldır.
     hizlar["f"] = time.time() - t0
 
 
-
-
-
-
-
-
 def oyunu_iptal_et(game_id):
     """game_id"""
     konum = f(f"games.{game_id}.konum")
     
     f(f"groups.{konum}.oyun", "")
     
-    #bot.send_message(kurucu_id,f'Oyun iptal edilmiş\nGames: {f(f"games.{game_id}")}\nGrup: {f(f"groups.{konum}.oyun")}')
+    
     sql_execute("DELETE FROM games WHERE id='{}';".format(game_id))
-    #f(f"games.{game_id}", "$del")
 
-#if konumlar != False and (konumlar[0] =="" or konumlar[1] ==""):
-#    konumlar = False
+
 def oyun_var_mi(chat_id):
     """oyun_konum, grup_konum"""
-    ## gerçekten bu kadar kontrole gerek var mı?
     oyun_konum = f(f"groups.{chat_id}.oyun")
     sayisal_mi = str(oyun_konum).isnumeric()
 
@@ -434,8 +373,6 @@ def oyun_var_mi(chat_id):
     return False
 
 def draw_graph(x,y, **kwargs):
-    #plt.figure(figsize=(12,6))
-    #title = kwargs.get("key", "default")
         
     fig, ax = plt.subplots()
 
@@ -443,18 +380,14 @@ def draw_graph(x,y, **kwargs):
     fig.set_figwidth(max(5,kwargs.get("width",int(len(x)/1.1))))
 
     plt.tick_params(axis='x', 
-                    which='major', 
-                    #labelsize=kwargs.get(
-                    #    "labelsize",
-                    #    max(7,int(len(x)/1.1))
-                    #    )
+                    which='major'
                     )
 
 
 
       
 
-    plt.plot(x,y) #biz belirlemediğimiz sürece rengi otomatik kendisi verir.
+    plt.plot(x,y)
 
     m, b = np.polyfit(x, y, 1)
 
@@ -471,9 +404,7 @@ def draw_graph(x,y, **kwargs):
 
     plt.ylabel(kwargs.get("ylabel", ""))
 
-    #print(f"{m}x+{b}")
 
-    #plt.yticks(range(0,max(y) + max(y)%5,5))
     plt.xticks(x, [str(i) for i in x], rotation=12)
 
 
@@ -501,11 +432,7 @@ def skor_arttir(neyi,artis=1, **kwargs):
 async def log_gonder(**kwargs):
     chat_id = kwargs.get("chat_id","-1002119059079")
 
-    #grup_link = ""
-    #try:    
-    #    grup_link = bot.export_chat_invite_link(chat_id)
-    #except:
-    #    pass
+
     oyunlar = f("games")
     if type(oyunlar) is dict:
         oyunlar = [oyunlar]
@@ -531,10 +458,6 @@ Fəaliyyət: <code>{kwargs.get('eylem','')}</code>
     except Exception as e:
         if "chat not found" in str(e):
             pass
-
-
-
-
 
 @bot.message_handler(commands=['start'])
 async def start_private(message): #, **kwargs
@@ -617,17 +540,6 @@ async def sessiz_sinema_baslat(message, **kwargs):
         await bot.send_message(chat_id, f'❌ Hörmətli <a href="tg://user?id={user_id}">{first_name}</a>,Hazırda aktiv oyunlar var. ')
         return
 
-    
-
-    
-
-
-
-
-    #if konumlar != False and (konumlar[0] =="" or konumlar[1] ==""):
-    #    konumlar = False
-
-    # Oyun var.
 
     text = kwargs.get("text", f'<a href="tg://user?id={user_id}">{first_name}</a> 🗣️ sözünü təqdim edir')
 
@@ -674,13 +586,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
                 if first_name in ayir[a]:
                     ayir[a] = "👑 " + ayir[a]
             text = "\n".join(ayir)
-            #text += f'\n\n👑 Bu kişi bu grubun ilk beşinde 👑'
-        #elif kurucu_id == user_id:
-        #    ayir = text.split("\n")
-        #    for a in range(len(ayir)):
-        #        if first_name in ayir[a]:
-        #            ayir[a] = "🔥 " + ayir[a] # + " 🔥"
-        #    text = "\n".join(ayir)
+
             
     except Exception as e:
         # eğer ilk 5te kimse yoksa hata
@@ -721,13 +627,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
     if oyun_modu != "sabit":
         callback_button4 = types.InlineKeyboardButton(text="Aparıcı olmaq istəmirəm ⛔", callback_data="istemiyorum")
         keyboard.add(callback_button4)
-    #bot.send_message(chat_id, text, reply_markup=keyboard)
 
-    #konumlar = oyun_var_mi(chat_id)
-    #if konumlar != False:
-    #    bot.send_message(kurucu_id, f'burası kullanılıyo 456456')
-    #    b¨ot.send_message(chat_id, f'❌ Sayın <a href="tg://user?id={user_id}">{first_name}</a>, şu anda aktif oyun var.')
-    #    return
 
     hata_msg = None
     while 1:
@@ -767,10 +667,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
             skor_arttir(f"groups.{chat_id}.toplam-sunucu-sayısı") 
             skor_arttir(f"groups.{chat_id}.sunucu-sayıları.{user_id}")
 
-            #try:
-            #    f(f"games.{oyun_id}.sozluk", random.sample(anlam_getir(rastgele_kelime),1)[0].replace("'",""))
-            #except:
-            #    pass
+
 
             
 
@@ -790,10 +687,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
                 await bot.send_message(kurucu_id, get_traceback(e))
                 break
 
-    #t = threading.Thread(target=oyun_ac)
-    #t.daemon = True
-    #t.start()
-    #yap()
+
 
 def ireplace(old, new, text):
     idx = 0
@@ -836,13 +730,8 @@ async def kelime_turet_baslat(message, **kwargs):
     keyboard = types.InlineKeyboardMarkup()
     callback_button1 = types.InlineKeyboardButton(text="Növbətiyə keç 🧩", callback_data="pas_gec")
     callback_button2 = types.InlineKeyboardButton(text="İpucu 🔎", callback_data="ipucu_kelime")
-    #callback_button3 = types.InlineKeyboardButton(text="Harf istiyorum 🌟", callback_data="kelimeturet_harf")
-
-    
+   
     keyboard.add(callback_button1, callback_button2) #, callback_button3
-
-
-    # Oyun var.
 
     zorluk = kwargs.get("zorluk", "kolay")
 
@@ -852,11 +741,7 @@ async def kelime_turet_baslat(message, **kwargs):
         rastgele_sec = random_from_table(tablo = "kelime_turetme_kelimeler")
         rastgele_kelime = rastgele_sec["kelime"]
 
-        #js = rastgele_sec["json"]
-        #if "{" in js:
-        #    js = json.loads(js)
-        #    anlam_getir = js["anlam"]
-
+        
     elif zorluk == "zor":
         connection = sqlite3.connect("tdk_kelimeler.db")
 
@@ -868,14 +753,7 @@ async def kelime_turet_baslat(message, **kwargs):
 
         rastgele_kelime = ans[0]["kelime"]
 
-        #js = ans[0]["json"]
-        #if "{" in js:
-        #    js = json.loads(js)
-        #    anlam_getir = js["anlam"]
-
-    #while " " in rastgele_kelime or len(rastgele_kelime)>10:
-    #    rastgele_kelime = random_word()
-
+        
     shuffled = list(rastgele_kelime)
 
     tum_harfler = shuffled.copy()
@@ -898,11 +776,6 @@ async def kelime_turet_baslat(message, **kwargs):
         else:            
             shuffled[i] = "_"
 
-    #tum_harfler = list(rastgele_kelime)
-
-    # tum_harfler - shuffled
-    #  ['d', 'o', 'm', 'a', 't', 'e', 's'] - ['d', '_', '_', 'a', '_', '_', '_']
-
 
 
     while ''.join(tum_harfler) == rastgele_kelime:
@@ -912,45 +785,8 @@ async def kelime_turet_baslat(message, **kwargs):
 
     shuffled = ' '.join(shuffled)
 
-
-    #soru_suresi = f(f"soru_suresi")  
-    #soru_suresi = str(round(soru_suresi/60,1)).replace(".0","")
-
-    #anlamlar = "Maalesef ki yok."
-
     js = {}
     
-    #anlamlar = ""
-    ##if anlam_getir != "":
-##
-    ##else:
-    #try:
-    #    anlam = anlam_getir(rastgele_kelime)
-    #    anlamlar = "\n".join([f"✍️ <b>Tanım {say+1}: </b> {i}" for say, i in enumerate(random.sample(anlam,min(2,len(anlam))))])
-    #    #tdk_getir = tdk.gts.search(rastgele_kelime)[0]
-    #    #for say in range(2):
-    #    #    try:
-    #    #        anlamlar = anlamlar + f"✍️ <b>Tanım {say+1}: </b>" + tdk_getir.meanings[say].meaning + "\n"     
-    #    #    except:
-    #    #        break
-    #except:
-    #    pass
-    #if anlamlar == "":
-    #    anlamlar = "❌ Maalesef ki yok."
-    #elif anlam_getir == "": 
-    #    if zorluk == "zor":
-    #        connection = sqlite3.connect("tdk_kelimeler.db")
-#
-    #        crsr = connection.cursor()
-    #        sql_command = f"UPDATE kelimeler SET json =  {rastgele_kelime}"
-    #        crsr.execute(sql_command)
-    #        connection.commit()
-#
-    #        connection.close()
-
-
-        
-    #anlamlar = ireplace(rastgele_kelime, '<span class="tg-spoiler">' + shuffled + ' </span>', anlamlar).strip()
 
     katsayi = 0.1
     if zorluk == "zor":
@@ -959,12 +795,7 @@ async def kelime_turet_baslat(message, **kwargs):
 
     round_sayisi = kwargs.get("round",1)
     toplam_round = kwargs.get("toplam_round",30)
-#🧩 İpucu sayısı: <code>{ipucu_sayisi}</code>
-#⌛️ Oyun Süresi: <code>{soru_suresi} dk</code>
-#💯 Harf sayısı: <code>{harf_sayisi}</code>
-#
-#📖 TDK Tanımları:
-#{anlamlar}
+
 
     text = kwargs.get("text",f"""
 💰 Veriləcək xal: <b>{puan:.1f}</b>
@@ -976,14 +807,6 @@ async def kelime_turet_baslat(message, **kwargs):
     text = kwargs.get("header","") + text
 
 
-
-    
-    
-    #konumlar = oyun_var_mi(chat_id)
-    #if konumlar != False:
-    #    bot.send_message(kurucu_id,"burası kullanılıyormuş 778899")
-    #    bot.send_message(chat_id, f'❌ Değerli <a href="tg://user?id={user_id}">{first_name}</a>, şu anda zaten aktif bir oyun var.')
-    #    return
         
 
     hata_msg = None
@@ -1029,9 +852,7 @@ async def kelime_turet_baslat(message, **kwargs):
             return rastgele_kelime
         except Exception as e:
             if "Too Many" in str(e):
-                #bot.send_message(chat_id, "❌ Siz çok hızlı oynuyorsunuz değerli oyuncular! Bu da bir hataya yol açtı.")
-                #bot.send_message(chat_id, str(e))
-                #pass
+
                 if hata_msg == None:
                     hata_msg = bot.send_message(chat_id, "⌛️ Əziz oyunçular, sizi çox az gözlətəcəyəm.").id
                 time.sleep(1)
@@ -1039,9 +860,7 @@ async def kelime_turet_baslat(message, **kwargs):
                 bot.send_message(chat_id, "❌ Xəta baş verdi. Zəhmət olmasa bir daha cəhd edin.")
                 bot.send_message(kurucu_id, str(e))
                 bot.send_message(kurucu_id, get_traceback(e))
-                break
-    #yap()
-    
+                break   
 
 @bot.message_handler(commands=['oban'])
 def oban(message):
@@ -1101,8 +920,6 @@ Heç bir adam sitat gətirməyib!
     elif len(ayrik) == 3:
         bot.send_message(chat_id, f"Zəhmət olmasa əmri belə daxil edin: /oban {ayrik[2]}", reply_markup=keyboard, reply_to_message_id=message.id)
 
-
-
 @bot.message_handler(commands=['games'])
 async def games(message):
     chat_id = message.chat.id #değişken, private veya group
@@ -1143,9 +960,6 @@ async def games(message):
     if txt == "":
         txt = "Heç bir oyun yoxdur"
 
-        
-    # Split the text each 3000 characters.
-    # split_string returns a list with the splitted text.
     splitted_text = util.smart_split(txt, chars_per_string=3000)
 
     for text in splitted_text:
@@ -1190,7 +1004,6 @@ async def cesaret(message):
         username = first_name
         username = username.replace("'","").replace("<","").replace(">","")
 
-    #chat_tipi = message.chat.type
 
     chat_id = message.chat.id #değişken, private veya group
     user_id = message.from_user.id #sabit    
@@ -1222,8 +1035,7 @@ async def dogruluk(message):
         username = first_name
         username = username.replace("'","").replace("<","").replace(">","")
 
-    #chat_tipi = message.chat.type
-
+   
     chat_id = message.chat.id #değişken, private veya group
     user_id = message.from_user.id #sabit    
     
@@ -1237,12 +1049,6 @@ async def dogruluk(message):
     getir = sql_get(f"SELECT * FROM dogruluk_cesaret WHERE tur LIKE 'd' ORDER BY RANDOM() LIMIT 1;")
     yazi = yazi + getir["yazi"]
     await send_msgimg(chat_id,yazi)
-
-
-
-
-
-
 
 @bot.message_handler(commands=['reytinq'])
 async def skorlar_komut(message):    #chat_tipi = message.chat.type
@@ -1276,9 +1082,7 @@ async def baslat(message):
         return
     elif sql_get(f"SELECT * FROM ban_listesi WHERE id LIKE '{user_id}'") != []:
         return
-
-
-    
+       
     konumlar = oyun_var_mi(chat_id) #oyun_konum grup_konum
     if chat_tipi == "private":
         await bot.send_message(message.chat.id, "Bu əmr yalnız qrup üçün istifadə edilə bilər.")
@@ -1319,18 +1123,13 @@ async def kelime_gir(message, grup_id): #grup_id
 
     if f(f"games.{oyun_id}.açan_id") == user_id:
         yeni_kelime = message.text[:500]
-        #keyboard = types.InlineKeyboardMarkup()
-        #callback_button1 = types.InlineKeyboardButton(text="Oyuna geri dön .", url=f"tg://user?id={grup_id}")
-        #keyboard.add(callback_button1)
+
         await bot.send_message(user_id,"👍 İndi yeni sual: "+yeni_kelime) #, reply_markup=keyboard
         f(f"games.{oyun_id}.kelime", yeni_kelime)
 
         with open('girilen_kelimeler.txt', 'a') as myfile:
             myfile.write(yeni_kelime+"\n")
 
-        #keyboard = types.InlineKeyboardMarkup()
-        #callback_button = types.InlineKeyboardButton(text="Sunucuya geri dön", url="tg://user?id="+grup_id)
-        #keyboard.add(callback_button)
 
 async def is_subscribed(chat_id, user_id):
     try:
@@ -1350,17 +1149,9 @@ async def skor_master(cagri):
     sorgu = cagri.data
     chat_id = str(cagri.message.json["chat"]["id"]) #değişken
     user_id = cagri.from_user.id #sabit        
-
-
-    # chat_tipi = cagri.message.chat.type
-
+   
     keyboard = types.InlineKeyboardMarkup()
-    # if chat_tipi == "private":
-    #     callback_button1 = types.InlineKeyboardButton(text="❌ Sil", callback_data='sil')
-    #     callback_button3 = types.InlineKeyboardButton(text="🔙 Geri dön", callback_data=f'skor_')
-    #     keyboard.add(callback_button1, callback_button3)
-    #     bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text="• Bu komut sadece gruplarda çalışır.", reply_markup=keyboard)
-    #     return
+
     
     first_name = None
     if cagri.from_user.first_name != None:
@@ -1425,12 +1216,7 @@ async def skor_master(cagri):
                             txt += "👑 "
                         else:
                             txt += "▫️ "
-                            #if n+1 == 1:
-                            #    txt += " 👑"
-                            #elif n+1 == 2:
-                            #    txt += " 👑"
-                            #elif n+1 == 3:
-                            #    txt += " 👑"
+                            
                         first_name = f(f'privates.{i}.first_name')
                         username = f(f'privates.{i}.username')
                         if first_name != "":
@@ -1442,9 +1228,7 @@ async def skor_master(cagri):
 
 
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text=txt, reply_markup=keyboard)
-                #elif not "list" in str(type(skorlar)):
-                #    bot.send_message(chat_id,"Skorlarınızda bir hata vardı, düzelttim!")
-                #    f(f"groups.{chat_id}.bilme-sayıları", "$del")
+                
                 else:
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text="Hələ heç bir xal yoxdur.", reply_markup=keyboard)
             elif tip == "skorum":                  
@@ -1577,8 +1361,6 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
                             txt += f"<b>{n+1}</b>. {username} - <code>{skorlar[i]}</code> cavab\n"
 
 
-                        #txt += "\n".join([f"<b>{n+1}</b>. {f('privates.{i}.first_name')} - {skorlar[i]} cevap" for n,i in enumerate(skorlar_list)])
-                        
                     txt += "\n"
 
                     txt += f"\n💎 Sən {sira} sıradasan {first_name}"
@@ -1586,11 +1368,6 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
                 else:
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text="Hələ heç bir xal yoxdur.", reply_markup=keyboard)
             elif tip == "haftalikskorprivate":
-                #chat_tipi = message.chat.type
-
-                #chat_id = message.chat.id #değişken, private veya group
-                #user_id = message.from_user.id #sabit
-
 
                 ww = f(f"haftalık-bilme-sayıları")        
                 skorlar = ww
@@ -1642,12 +1419,7 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
                 else:
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text="Hələ xal yoxdur.", reply_markup=keyboard)
             elif tip == "haftalikskorgroup":
-                #chat_tipi = message.chat.type
-
-                #chat_id = message.chat.id #değişken, private veya group
-                #user_id = message.from_user.id #sabit
-
-
+               
                 ww = f(f"grup-haftalık-bilme-sayıları")        
                 skorlar = ww
 
@@ -1845,12 +1617,6 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
                             txt += "👑 "
                         else:
                             txt += "▫️ "
-                            #if n+1 == 1:
-                            #    txt += " 👑"
-                            #elif n+1 == 2:
-                            #    txt += " 👑"
-                            #elif n+1 == 3:
-                            #    txt += " 👑"
                         first_name = f(f'privates.{i}.first_name')
                         username = f(f'privates.{i}.username')
 
@@ -1862,9 +1628,6 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
                         txt += "\n"
 
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text=txt, reply_markup=keyboard)
-                #elif not "list" in str(type(skorlar)):
-                #    bot.send_message(chat_id,"Skorlarınızda bir hata vardı, düzelttim!")
-                #    f(f"groups.{chat_id}.bilme-sayıları", "$del")
                 else:
                     await bot.edit_message_text(chat_id=chat_id, message_id=cagri.message.message_id, text="Hələ heç bir xal yoxdur.", reply_markup=keyboard)
             elif tip == "kureselgrup":
@@ -1929,14 +1692,6 @@ Tapdığı cavablar: \t{f(f"privates.{user_id}.bilme-sayısı")}
         else:
             await bot.answer_callback_query(cagri.id, text="😞")
 
-    #loop = asyncio.new_event_loop()
-    #asyncio.set_event_loop(loop)
-    #try:
-    #    return loop.run_until_complete(yap())
-    #finally:
-    #    loop.close()
-    #    asyncio.set_event_loop(None)
-
 @bot.callback_query_handler(func=lambda call: True)
 async def callback_inline(cagri): #çağrıcı cagrici
     #grup veya kullanıcı id
@@ -1991,9 +1746,6 @@ async def callback_inline(cagri): #çağrıcı cagrici
         f(f"groups.{chat_id}.username", grup_username) 
         f(f"groups.{chat_id}.son_oyun_aktivitesi", time.time())
 
-    #f(f"privates.{user_id}.first_name", first_name)
-    #f(f"privates.{user_id}.username", username)        
-    #f(f"privates.{user_id}.son-oyun-oynama",time.time())
     if sorgu == "kelimeturet_harf":
         await bot.answer_callback_query(cagri.id, f'Yaxında... ☺️', show_alert=False)
         return
@@ -2016,17 +1768,12 @@ async def callback_inline(cagri): #çağrıcı cagrici
             await bot.delete_message(chat_id, cagri.message.id)
 
             await sessiz_sinema_baslat(cagri.message, mod = mod)
-        
-        #t = threading.Thread(target = sessiz_sinema_baslat, kwargs = {"message" : cagri.message})
-        #t.daemon = True
-        #t.start()
+
         return
     elif sorgu.startswith("kelimeoyunu"):       
         if oyun_var_mi(chat_id) != False:
             await bot.answer_callback_query(cagri.id, f'❌ Hörmətli {first_name}, hazırda aktiv oyunlar var.', show_alert=False)
             return
-
-        #bot.delete_message(chat_id, cagri.message.id)
 
         if sorgu.startswith("kelimeoyunu_"):   
             ayir = sorgu.split("_")
@@ -2047,13 +1794,6 @@ async def callback_inline(cagri): #çağrıcı cagrici
                     ayir[1] = 999999
                 await kelime_turet_baslat(cagri.message, toplam_round = int(ayir[1]), zorluk = ayir[2])                
                 await bot.delete_message(chat_id, cagri.message.id)
-                #t = threading.Thread(target = kelime_turet_baslat, kwargs = {
-                #        "message" : cagri.message, 
-                #        "toplam_round" : int(ayir[1]),
-                #        "zorluk" : ayir[2]
-                #    })
-                #t.daemon = True
-                #t.start()
             else:
                 await bot.send_message(chat_id, f'🤷')
         else:
@@ -2088,12 +1828,7 @@ async def callback_inline(cagri): #çağrıcı cagrici
             try:
                 anlam = anlam_getir(kelime)
                 anlamlar = "\n".join([f"✍️ Tərif {say+1}: {i}" for say, i in enumerate(random.sample(anlam,min(2,len(anlam))))])
-                #tdk_getir = tdk.gts.search(rastgele_kelime)[0]
-                #for say in range(2):
-                #    try:
-                #        anlamlar = anlamlar + f"✍️ <b>Tanım {say+1}: </b>" + tdk_getir.meanings[say].meaning + "\n"     
-                #    except:
-                #        break
+
             except:
                 pass
             if anlamlar == "":
@@ -2107,20 +1842,15 @@ async def callback_inline(cagri): #çağrıcı cagrici
                 await bot.answer_callback_query(cagri.id, f'🔎 Məsləhətlər:\n{anlamlar[:100]}', show_alert=True)
 
     elif sorgu.startswith("istiyorum"):
-        #bot.answer_callback_query(cagri.id, "Sen — sunucusun, senin kelimen kagawa", show_alert=True)
-        #sunucu_olma_sureleri[chat_id] = [user_id,time.time()]
-
         oyun = oyun_var_mi(chat_id)
         if oyun != False:
             await bot.answer_callback_query(cagri.id, "📜 Oyun onsuzda başladı.", show_alert=False)
             return
 
-        #bot.delete_message(chat_id, cagri.message.id)
-
         if "sinema_" in sorgu:
             ayir = sorgu.split("_")
             mod = ayir[3]
-            # istiyorum_sessiz_sinema_mod_userid
+         
             if len(ayir) == 4: #istiyorum_mod
                 await sessiz_sinema_baslat(cagri.message, mod = mod)
             elif len(ayir) == 5: # istiyorum_mod_userid
@@ -2137,9 +1867,6 @@ async def callback_inline(cagri): #çağrıcı cagrici
         else:
             await sessiz_sinema_baslat(cagri.message)
 
-        #t = threading.Thread(target = sessiz_sinema_baslat, kwargs = {"message" : cagri.message})
-        #t.daemon = True
-        #t.start()
         return    
     elif sorgu == "pas_gec":
         konumlar = oyun_var_mi(chat_id) #oyun_konum grup_konum
@@ -2160,45 +1887,14 @@ async def callback_inline(cagri): #çağrıcı cagrici
                 zorluk = f(f"games.{oyun_id}.zorluk")
 
                 oyunu_iptal_et(oyun_id)
-                #bot.send_message(chat_id,f'❌ <a href="tg://user?id={user_id}">{first_name}</a> kelimeyi pas geçti! Doğru cevap → <b>{kelime}</b> idi.')
+               
                 await kelime_turet_baslat(cagri.message, toplam_round = toplam_round, round = round, skorlar = skorlar, zorluk = zorluk, header = f'❌ <a href="tg://user?id={user_id}">{first_name}</a> söz keçdi!\nDüzgün cavab → <b>{kelime}</b> idi.\n')
-                #t = threading.Thread(target = kelime_turet_baslat, kwargs = {
-                #    "message" : cagri.message, 
-                #    "toplam_round" : toplam_round, 
-                #    "round" : round, 
-                #    "skorlar" : skorlar, 
-                #    "zorluk" : zorluk
-                #})
-                #t.daemon = True
-                #t.start()
+
             else:
                 await bot.answer_callback_query(cagri.id, f"♦️ Bu əmr yalnız wordplay oyununda işləyir!")
         else:
             await bot.answer_callback_query(cagri.id, f"♦️ Aktiv söz oyunu yoxdur.")
-    # elif sorgu.startswith("consequatur"):
-        # if oyun_var_mi(chat_id) == False:
-        #     bot.answer_callback_query(cagri.id, "📜 Aktif oyun yok", show_alert=False)
-        #     return
-
-        # ayir = sorgu.split("_")
-        # sayi1 = int(ayir[1])
-        # sayi2 = int(ayir[2])
-
-        # rst = random.randint(1,sayi2)
-
-        # if rst <= sayi1:
-        #     try:
-        #         oyun_id = f(f"groups.{chat_id}.oyun")
-        #         kelime = f(f"games.{oyun_id}.kelime")
-                
-        #         bot.answer_callback_query(cagri.id, f'🍀 Çok şanslısın! Sayın: {rst}, {sayi1}/{sayi2} ihtimal gerçekleşti! Cevap: {kelime}', show_alert=True)
-        #         bot.delete_message(chat_id, cagri.message.id)
-        #         bot.send_message(chat_id, f'🍀 <a href="tg://user?id={user_id}">{first_name}</a> cevabı şans sayesinde öğrendi!')
-        #     except:
-        #         bot.answer_callback_query(cagri.id, f'🍀 Çok şanslı olsan da hata sonucu cevabı öğrenemiyorsun :(', show_alert=True)
-        #         bot.delete_message(chat_id, cagri.message.id)
-        # else:
-        #     bot.answer_callback_query(cagri.id, f"❌ Maalesef olmadı :(, sayı {sayi1}'den küçük olmalı, senin sayın {rst} idi.", show_alert=True)
+    
     elif sorgu == "sil":    
         try:
             if cagri.message.reply_to_message.from_user.id != user_id and not await is_admin(chat_id, user_id):
@@ -2289,16 +1985,7 @@ async def callback_inline(cagri): #çağrıcı cagrici
 
     # or " " + first_name +" kelime" in cagri.message.text
         if acan_id == user_id:
-
-            #if sorgu == "kelime_gir":
-            #    bot.answer_callback_query(cagri.id, url = "t.me/HariboGameBot?start=test")
-                #try:
-                #    sent = bot.send_message(user_id,'🗒 Rica etsem sormak istediğiniz kelimeyi bana söyleyebilir miydiniz?:')
-                #    bot.register_next_step_handler(sent, kelime_gir, chat_id)
-                #except:
-                #    bot.answer_callback_query(cagri.id, url = "telegram.me/HariboGameBot?start=start")
-                #    #bot.answer_callback_query(cagri.id, f'🤖 Önce botla sohbeti başlatmalısınız.', show_alert=False)
-
+           
             if sorgu == "kelime_bak":
                 #def yap():
                 kelime = f(f"games.{oyun_id}.kelime")
@@ -2316,39 +2003,20 @@ async def callback_inline(cagri): #çağrıcı cagrici
                 
                 if sozluk != "yok":
                     txt += sozluk
-                #try:
-                #    #getir = ""#getir = tdk.gts.search(kelime)[0].meanings
-                ##    getir = random.sample(anlam_getir(kelime),1)[0]
-                #    #uzunluk = len(getir)
-                #    #txt += getir[random.randint(0,uzunluk-1)].meaning
-                #    txt += getir
-                #except:
-                #    pass
+
 
                 await bot.answer_callback_query(cagri.id, txt, show_alert=True)
 
-                #t = threading.Thread(target=yap)
-                #t.daemon = True
-                #t.start()
             elif sorgu == "siradaki_kelime":
                 #def yap():
                 yeni_kelime = random_from_table()["kelime"].replace("'", "")
 
                 txt = "🔄 Yeni sözün: " +yeni_kelime + "\n\n"
 
-                    #try:
-                    #    getir = tdk.gts.search(yeni_kelime)[0].meanings
-                    #    uzunluk = len(getir)
-                    #    txt += getir[random.randint(0,uzunluk-1)].meaning
-                    #except:
-                    #    pass
-
                 await bot.answer_callback_query(cagri.id, txt, show_alert=True)
                 f(f"games.{oyun_id}.sozluk","")
                 f(f"games.{oyun_id}.kelime", yeni_kelime)
-                #t = threading.Thread(target=yap)
-                #t.daemon = True
-                #t.start()
+                
             elif sorgu == "istemiyorum":
                 gecen = int(time.time() - oyun_id/zaman_hassasiyeti)
                 if gecen < 3:
@@ -2365,29 +2033,9 @@ async def callback_inline(cagri): #çağrıcı cagrici
                 
                 #f(f"games.{oyun_id}", "$del")
                 oyunu_iptal_et(oyun_id)
-
-        #elif acan_id == "" or not str(oyun_id).isnumeric():
-        #elif oyun_id == "":
-        #    bot.answer_callback_query(cagri.id, f'❓ Şu anda aktif bir oyun yok. Başlatmak için lütfen /game yazınız.', show_alert=True)
         else:
             acan_user = f(f"games.{oyun_id}.açan_user")
             await bot.answer_callback_query(cagri.id, f'❌ Sən izah etmirsən.\n{acan_user} izah edir..!', show_alert=False)
-
-
-    #else:
-    #    bot.answer_callback_query(cagri.id, f'😔 Bu buton artık işlevsiz.', show_alert=False)
-
-
-
-
-    #cagrici(cagri)
-    # sunucu ol butonu vb sıkıntı
-    #if sorgu == "sessiz_sinema" or sorgu.startswith("kelimeoyunu") or sorgu == "istiyorum" or sorgu == "pas_gec":
-    #yap()
-    #else:
-    #t = threading.Thread(target=yap)
-    #t.daemon = True
-    #t.start()
 
 
 async def is_admin(chat_id, user_id):
@@ -2514,12 +2162,6 @@ async def rehber(message):
 """)
 
 
-
-#def Diff(li1, li2):
-#    return list(set(li1) - set(li2)) + list(set(li2) - set(li1))
-
-
-#@bot.message_handler(func=lambda message: True, content_types=['text'])
 @bot.message_handler(content_types=['text', "photo"])
 async def messages(mesaj):
     t0 = time.time()
@@ -2529,7 +2171,6 @@ async def messages(mesaj):
     user_id = mesaj.from_user.id #sabit
 
     content_type = mesaj.content_type
-
 
 
 
@@ -2548,26 +2189,6 @@ async def messages(mesaj):
     else:
         msg = content_type
 
-    #msgl = msg.lower()
-
-
-    #now = datetime.datetime.now() + datetime.timedelta(hours=3)
-
-
-    #elif " gece" in msgl:
-    #    if now.hour > 22 or now.hour < 6: 
-    #        bot.send_sticker(chat_id, "CAACAgQAAxkBAAEEF8NiJ9jAojgD3NMK24VXVddMn--tIAACTwwAAjbX2FC5HwvH7z517CME", reply_to_message_id=mesaj.message_id)
-    #    else: 
-    #        bot.send_message(chat_id,random.choice([
-    #            "iyi gecelerr",
-    #            "iyi geceler tatlı rüyalar :p",
-    #            "görüşürüz"
-    #        ]), reply_to_message_id=mesaj.message_id)
-    #elif "günaydın" in msgl:
-    #    bot.send_message(chat_id,random.choice([
-    #        "selam günaydın",
-    #        "günaydınn"
-    #    ]), reply_to_message_id=mesaj.message_id)
 
     first_name = None
     if mesaj.from_user.first_name != None:
@@ -2610,14 +2231,7 @@ async def messages(mesaj):
                 return
             elif msg == "yedek":
                 await telegram_yedek_al()
-            # elif "/" in msg and msg.split("/")[0].isdigit() and msg.split("/")[1].isdigit() and "group" in chat_tipi:
-            #     sayi = int(msg.split("/")[0])/int(msg.split("/")[1])
-            #     oran = sayi * 100
-
-            #     keyboard = types.InlineKeyboardMarkup()
-            #     callback_button = types.InlineKeyboardButton(text="🍀 Şansını dene", callback_data=f'consequatur_{msg.split("/")[0]}_{msg.split("/")[1]}')
-            #     keyboard.add(callback_button)
-            #     bot.send_message(chat_id,f"🎰 Bu buton %{oran:.2f} ihtimalle şanslı kişiye cevabı gösterecek.", reply_markup=keyboard)
+               
             elif msg.lower() == "/id":
                 keyboard = types.InlineKeyboardMarkup()
                 callback_button = types.InlineKeyboardButton(text="❌ Sil", callback_data='sil')
@@ -2643,18 +2257,9 @@ async def messages(mesaj):
         return
     
     
-
-
-
-
-
-        
-
     oyun_id = konumlar[0]
         
     oyun_json = f(f"games.{oyun_id}")
-
-    #if "dict" in str(type(oyun_json)):
 
     oyun_tipi = ""
     if "oyun_tipi" in oyun_json:
@@ -2687,51 +2292,20 @@ async def messages(mesaj):
 
         
         skor_arttir(f"games.{oyun_id}.atılan_mesaj")
-        #atilan = 
-        #f (atilan == 25):
-        #    bot.send_message(chat_id, "2️⃣5️⃣")            
-        #if (atilan == 50):
-        #    bot.send_message(chat_id, "Bu soruya atılan 50. mesaj 🤔")
-        #elif (atilan == 100):
-        #    bot.send_message(chat_id, "Soruyu çözmek için 100 tane mesaj atılmış 😳")
-        
-        #if (random.randint(0,1000) == 50):
-        #    bot.send_message(chat_id, random.choice([
-        #    "Yüzümüzün ve gözlerimizin rengi ne olursa olsun, gözyaşlarımızın rengi aynıdır.", 
-        #    "Kar taneleri ne güzel anlatıyor, birbirlerine zarar vermeden de yol almanın mümkün olduğunu.", 
-        #    "Mükеmmеl kişiyi aramaktan vazgеç. Tеk ihtiyacın olan sana sahip olduğu için şanslı olduğunu düşünеn biridir.", 
-        #    "Doğuştan sahip olduklarınızla yaşamayı öğrenmek bir süreç, bir katılım, yani yaşamınızın yoğrulmasıdır.", 
-        #    "Aşktan korkmak, yaşamdan korkmak demektir ve yaşamdan korkanlar şimdiden üç kez ölmüşlerdir.", 
-        #    "Bazı insanlar yağmuru hissеdеr, bazıları isе sadеcе ıslanır."
-        #    ]))
-        
-        #if acan_id == user_id:
-        #    bot.delete_message(chat_id, mesaj.message_id)
-        #    bot.send_message(chat_id, f"<b>🔈 Anlatıcı {first_name}:</b> {msg}")
 
-
-        # cevap bilindi mi
         if (
-        #yazilan == kelime or
-        #len(Diff(list(yazilan), list(kelime))) < 3 or
         yazilan.replace(" ","") == kelime.replace(" ","") or
         " " + kelime + " " in " " + yazilan + " " or
-        #yazilan.endswith(" " + kelime) or
-        #yazilan.startswith(kelime + " ") or
+        
         (mesaj.reply_to_message != None and "text" in mesaj.reply_to_message.json and (mesaj.reply_to_message.json["text"].replace('I', 'ı').replace('İ', 'i').lower() + yazilan == kelime.replace(" ","")) ) or
         (user_id in admins and (msg == "*" or msg == "**"))
         ): # and soran kişi değilse
             if acan_id != user_id or msg == "**":
-                #f(f"groups.{chat_id}.oyun")
-                #oyunu_iptal_et(oyun_id)
+                
                 mod = f(f"games.{oyun_id}.oyun_modu")
                 acan_id = f(f"games.{oyun_id}.açan_id")
                 acan_user = f(f"games.{oyun_id}.açan_user")
 
-
-                #sozluk = f(f"games.{oyun_id}.sozluk")
-                #if sozluk != "" and sozluk != "yok":
-                #    bot.send_message(chat_id, sozluk)
 
 
                 if first_name == "Channel" or first_name == "Group":
@@ -2741,14 +2315,6 @@ async def messages(mesaj):
                 
                 oyunu_iptal_et(oyun_id)
 
-                #sessiz_sinema_baslat(cagri.message)
-                #if user_id == kurucu_id:
-                #    bot.send_sticker(chat_id, random.choice([
-                #        "CAACAgQAAxkBAAEEBiJiHRo3vdRGWEZRpix7EBqT0swVWwACpwMAAqN9MRXSPF-iQgNb-iME",
-                #        "CAACAgQAAxkBAAEEBipiHRqsybgXsfTGy1CAvoh8DytCBwACtQMAAqN9MRWgz3Z23dwI_yME",
-                #        "CAACAgEAAxkBAAEEBixiHRrnNL3nMuAd2gm46IUxF76JwAACwCIAAnj8xgWCnglbp1nzEiME",
-                #        "CAACAgIAAxkBAAEEBi5iHRr-xJwZOBSFQYsRgCw_rMD0_gACBQADO2AkFDwYiAABJUt2MSME"
-                #    ]))
 
                 if mod == "sabit":
                     sec = random.choice(["📍", "📌"])
@@ -2775,10 +2341,6 @@ async def messages(mesaj):
                 if anlatma_sayisi % 100 == 0:
                     await bot.send_message(chat_id,f'{anlatma_sayisi}. uğurla dediniz {acan_user} 😊')
 
-
-            #keyboard = types.InlineKeyboardMarkup()
-            #callback_button = types.InlineKeyboardButton(text="Sunucu olmak istiyorum! 📢", callback_data="istiyorum")
-            #keyboard.add(callback_button)
                 f(f"privates.{user_id}.username",username)
                 f(f"privates.{user_id}.first_name",first_name)
 
@@ -2793,13 +2355,6 @@ async def messages(mesaj):
                 if bilme_sayisi % 100 == 0:
                     await bot.send_message(chat_id,f'{bilme_sayisi}. dəfə düz bildi, təbrik edirəm {first_name} 😊')
 
-                    # sayi = int(bilme_sayisi / 10)
-
-                    # keyboard = types.InlineKeyboardMarkup()
-                    # callback_button = types.InlineKeyboardButton(text="🍀 Şansını dene", callback_data=f'consequatur_{1}_{sayi}')
-                    # keyboard.add(callback_button)
-                    # oran = 100 / sayi
-                    # bot.send_message(chat_id,f"🎰 Senin hatrına, bu buton %{oran:.2f} ihtimalle şanslı kişiye cevabı gösterecek.", reply_markup=keyboard)
                 elif bilme_sayisi == 1:
                     await bot.send_message(chat_id,f'Hörmətli {first_name} ilk dəfə tapdı 🌟') # ve sorusunu anlatıyor
 
@@ -2881,23 +2436,15 @@ async def messages(mesaj):
         
         yazilan = msg.replace('I', 'ı').replace('İ', 'i').lower()
 
-        #if user_id in admins:
-        #    if msg == "*":
-        #        yazilan = kelime
-
-        # cevap bilindi mi
         if (
-        #yazilan == kelime or
         yazilan.replace(" ","") == kelime.replace(" ","") or
         " " + kelime + " " in " " + yazilan + " " or
-        #yazilan.endswith(" " + kelime) or
-        #yazilan.startswith(kelime + " ") or
+
         (user_id in admins and (msg == "*" or msg == "**"))
-        ): # and soran kişi değilse
+        ):
 
             if acan_id != user_id or msg == "**":
-                #bot.send_message(chat_id,f'<a href="tg://user?id={user_id}"><b>{first_name}</b></a> Doğru bildi bildi! → <b>{kelime}</b> ✅')
-
+                
                 f(f"privates.{user_id}.username",username)
                 f(f"privates.{user_id}.first_name",first_name)
                 
@@ -2967,8 +2514,7 @@ async def game_master():
     t0 = time.time()
     soru_suresi = f(f"soru_suresi")
 
-    #games = sql_get(f"SELECT * FROM games WHERE {soru_suresi} < {int(time.time())} - id/{zaman_hassasiyeti}")
-
+    
     games = f("games")
 
     if "dict" in str(type(games)):
@@ -3000,12 +2546,7 @@ async def game_master():
                 if str(id) != str(f(f'groups.{konum}.oyun')):
                     oyunu_iptal_et(id)
                     continue
-#                    username = f(f"groups.{konum}.username")
-#                    bot.send_message(kurucu_id, f'''
-#id: {id}
-#konum: {konum}
-#konum username: {username}
-#                    ''')
+
 
                 if oyun_tipi == "sessiz_sinema":
                     uyari = f(f"games.{id}.uyarı")
@@ -3057,12 +2598,11 @@ async def game_master():
                         
                         ]))
                         f(f"games.{id}.uyarı", 1)
-                    #elif (sunucu_son_mesaji != "" and 90 < time.time() - sunucu_son_mesaji < 95) and uyari == 1:
+                       
                     elif (sunucu_son_mesaji == "" and 90 < time.time() - id/zaman_hassasiyeti < 95) and uyari == 1 and f(f"games.{id}.oyun_modu") != "sabit":
                         acan_user = games_js["açan_user"]
                         acan_id = games_js["açan_id"]
 
-                        #user = f'<a href="tg://user?id={acan_id}">{acan_user}</a>'
                         user = f'{acan_user}'
 
                         kelime = games_js["kelime"]
@@ -3077,23 +2617,8 @@ async def game_master():
                         
                         
                         ]), reply_markup=keyboard)
-                        #f(f"games.{id}.uyarı", 1)
                         oyunu_iptal_et(id)
-                    #elif 50 < time.time() - sunucu_son_mesaji < 55 and uyari == 1:
-                    #    acan_user = games_js["açan_user"]
-#
-                    #    bot.send_message(konum, random.choice([
-                    #        f'Hala bir şeyler söylemeyecek misin değerli {acan_user} 🥺🥺',
-                    #        f'Hala konuşmamakta kararlı mısın {acan_user} :C',
-                    #        f'Beni biraz üzdün {acan_user}, keşke anlatsaydın :('
-                    #    ]))
-                    #    f(f"games.{id}.uyarı", 2)
-                    #elif 70 < time.time() - sunucu_son_mesaji < 75 and uyari == 2:
-                    #    bot.send_message(konum, f'☹️')
-                    #    f(f"games.{id}.uyarı", 3)
-                    #elif 120 < time.time() - sunucu_son_mesaji < 125 and uyari == 3:
-                    #    bot.send_message(konum, f'😢')
-                    #    f(f"games.{id}.uyarı", 4)
+
                 elif oyun_tipi == "kelimeoyunu":
                     kelime_soru_suresi = f("kelime_oyunu_sure")
                     if kelime_soru_suresi < int(time.time()) - id/zaman_hassasiyeti:
@@ -3103,8 +2628,6 @@ async def game_master():
 
                         if str(id) == str(f(f"groups.{konum}.oyun")):
                             skorlar = f(f"games.{id}.skorlar")
-                            #round = int(f(f"games.{oyun_id}.round")) + 1
-                            #toplam_round = f(f"games.{oyun_id}.toplam_round")
 
                             skorlar = dict(sorted(skorlar.items(), key=lambda item: item[1]))
                             skorlar_list = list(skorlar)[::-1]
@@ -3135,8 +2658,7 @@ async def game_master():
                             oyunu_iptal_et(id)
                         elif oyun_var_mi(konum) == False:
                             oyunu_iptal_et(id)
-                #elif not (oyun_tipi == "kelimeoyunu" or oyun_tipi == "sessiz_sinema"):
-                #    oyunu_iptal_et(id)
+            
 
 
             except Exception as e:
@@ -3225,22 +2747,11 @@ def reset_kontrol():
 
 async def yedek_kontrol():
     if time.time() - int(f(f"yedek-zamanı")) > 3600 * 1 : #bir saat 3600 sn
-        #ad = datetime.datetime.now().strftime("%d.%m.%Y")
-        #try:
-        #    os.mkdir("yedekler/"+ad)
-        #except FileExistsError:
-        #    #Exception has occurred: FileExistsError [WinError 183] Halen varolan bir dosya oluşturulamaz: 'yedekler/30.01.2022'
-        #    pass
-        #for i in os.listdir():
-        #    ayir = i.split(".")
-        #    if len(ayir)>1 and ayir[0]!="":
-        #        shutil.copyfile(i, "yedekler/"+ad+"/"+i)
         for _ in range(5):
             try:
                 await telegram_yedek_al()
                 break
             except Exception as e:
-                #bot.send_message(kurucu_id,str(e)+", yedek alırken bir sıkıntı çıktı.")
                 pass
             
 
