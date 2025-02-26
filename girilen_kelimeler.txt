@@ -1,35 +1,35 @@
-mareşal
+mareÅŸal
 gazi
-mübadele
+mÃ¼badele
 Muhippi
 caber
 Muhammed Alparslan
 Hasancan
 Ahmed sencer
-Karakeçili
-Begim şehver
+KarakeÃ§ili
+Begim ÅŸehver
 Prometheus
 Nato
-Savcı
+SavcÄ±
 Yavuzsultanselim
 Alaaddin ali
-Kıtmir
+KÄ±tmir
 Biz
 Nahl
-Akşemseddin
-mâder
+AkÅŸemseddin
+mÃ¢der
 Hipernova
-kılavuz hatice
-Selçukluda dinden sapanlar haşhaşi gibi
+kÄ±lavuz hatice
+SelÃ§ukluda dinden sapanlar haÅŸhaÅŸi gibi
 Karmati
-Yoğurt
+YoÄŸurt
 Tahta
-İkincimahmud
-Nüsha
+Ä°kincimahmud
+NÃ¼sha
 katvan
 tiz
 Romen diyojen
-Muammer Güler
+Muammer GÃ¼ler
 seri
 Sefih
 Miha zajc
@@ -40,42 +40,30 @@ Tuna
 Memati
 Sohbetgox
 DAYI
-/start
 Doktor
 Bozkurt
-Eğer bana sahipsen, beni paylaşmak istersin. Beni paylaşırsan, bana sahip değilsindir. Peki, ben neyim?
-Eğer bana sahipsen, beni paylaşmak istersin. Beni paylaşırsan, bana sahip değilsindir. Peki, ben neyim?
-/start 1648149896248650
-beamng drive
 Sedat
 Derdest
 Zirve
 Derdest
-Jövedü
-İt
-/start 1648150098020190
-Muhsin Yazıcıoğlu
-Su
-/start 1648150134481501
-/start 1648150188627382
 Psikoloji
 Selim
 JOKER
 Antalya
 panteizm
-Değişik
+DeÄŸiÅŸik
 Galatasaray
 Atom
 Sivas
 teizm
 Banana
-Soğukkanlı
+SoÄŸukkanlÄ±
 Dil
-Ali Kınık
-Erol özvar
+Ali KÄ±nÄ±k
+Erol Ã¶zvar
 Muhammed tapar
 Harezmi
-Halis Aygün
+Halis AygÃ¼n
 2+2=
 Ecel
 2+2=5
@@ -88,10 +76,10 @@ Santiago
 Caracas
 Afganistan
 Fas
-Mülahaza
+MÃ¼lahaza
 Konstantin
-mürtebit
-ezcümle
+mÃ¼rtebit
+ezcÃ¼mle
 Hasret
 Yol
 Kan
@@ -99,8 +87,8 @@ celp
 def
 50
 ruz
-Kürşad
-Böğürtlen
+KÃ¼rÅŸad
+BÃ¶ÄŸÃ¼rtlen
 hindistan
 Koltuk
 Elif
@@ -108,77 +96,71 @@ memalik
 sensodyne
 Tropikal bir meyve
 Arnavutluk
-/start 1648169981363406
-Yüksek okul
-Okul öncesi yapılan alışveriş
-Süleyman Çakır
+SÃ¼leyman Ã‡akÄ±r
 doktrin
 merhamet
-Osman Pamukoğlu
-Akın
-Kürşad
+Osman PamukoÄŸlu
+AkÄ±n
+KÃ¼rÅŸad
 Gaffar okkan
 Soysuz
 Selim kiraz
-Bayraklı
+BayraklÄ±
 Osman kavala
-Eren bülbül
+Eren bÃ¼lbÃ¼l
 Ferhat gedik
-Pazarcı
-Ölüm
+PazarcÄ±
+Ã–lÃ¼m
 Breaking Bad
-şükür
+ÅŸÃ¼kÃ¼r
 Erendiz
 Mefkure
 Viyol
 Viyol
-Canhıraş
+CanhÄ±raÅŸ
 Rakka
-İşbirliği
+Ä°ÅŸbirliÄŸi
 Husuf
-Karikatür
+KarikatÃ¼r
 Vefa
 Sakat
 Namaz
-Oruç
+OruÃ§
 Ozan Tufan
 Ayran
-kütüphane
+kÃ¼tÃ¼phane
 selma
-Burak Yılmaz
-Alkış
-Kızıl
+Burak YÄ±lmaz
+AlkÄ±ÅŸ
+KÄ±zÄ±l
 su-i kast
 Dodge Shadow
 Sha
-Menekşe
+MenekÅŸe
 Mescidi aksa
 Herbokolog
-İsmet
+Ä°smet
 Desen
-Altıncı
+AltÄ±ncÄ±
 Put
 Ordu
 sohbetgox
 Sevgi
 hakim
-x
 Cesur
 Akis
 Lizbon
-İki
+Ä°ki
 Halo
-❤️
+â¤ï¸
 iktiza
-Şirinela
-Beş
+Åirinela
+BeÅŸ
 Siirt
 katrei matem
-Beş
-İki
-J
-En çok patates üreten ülke
-Düzce
+BeÅŸ
+Ä°ki
+DÃ¼zce
 Ayva
 Hilal
 Dalak
@@ -188,11 +170,11 @@ Heyecan
 Kurt
 Cuma
 Pelikan
-Büyük
-Muş
+BÃ¼yÃ¼k
+MuÅŸ
 Kurt
-Yıldız
-Tatlı
+YÄ±ldÄ±z
+TatlÄ±
 Baba
 Deniz
 Koala
@@ -202,97 +184,84 @@ Bir
 El
 Mezkur
 telgraf
-işçi
+iÅŸÃ§i
 Tortu
 Posa
-eğilmek
+eÄŸilmek
 Mendil
 Portakal
 Accuracy
 Mesud
-Çapkın
+Ã‡apkÄ±n
 Urfa
-Şempanze
-X
-Özlemek
+Åempanze
+Ã–zlemek
 /start
-Yâd etmek
+YÃ¢d etmek
 Akrep
 45
 Bayezid
 Salata
-Yağmur
+YaÄŸmur
 Karizma
 Ayva
 Lila
-Enver Paşa
+Enver PaÅŸa
 Enver
-İtiyatlı
-Hümamla
+Ä°tiyatlÄ±
+HÃ¼mamla
 Deve
 Rimel
 Elif
 T
-Müthiş
+MÃ¼thiÅŸ
 Lacivert
-cüzi
+cÃ¼zi
 Anahtar
 Hakim
-Otobüs
+OtobÃ¼s
 Beyin
 Lila
 Kalu bela
 Bulut
-külli
-Boğaz
+kÃ¼lli
+BoÄŸaz
 isnadat
-X
-W
 ifrat
 Lacivert
 Fener
 Pembe
-X
-52
 Oksijen
-Soğan
+SoÄŸan
 Kapris
-10
 Napolyon
 Yekpare
 Fisil
 marshall
-şentürk
+ÅŸentÃ¼rk
 Memleket
-/start 1648228674404128
 Akademisyen
-Valentina Tereşkova
+Valentina TereÅŸkova
 Nikah
-Çorum
+Ã‡orum
 hedwig
-İndirim
-Çatı
+Ä°ndirim
+Ã‡atÄ±
 makro
 standart
-Trabzon nesi meşhur
-Trabzon nesi meşhur
 Balkan
-Üzüm
+ÃœzÃ¼m
 Vankedisi
-22haziran1997
-1Ağustos1992
-S.urfa
-Çekirdek
-İnvisalign
-Kaplumbağa
-takviye edici gıda
-Deniz anası
+Ã‡ekirdek
+Ä°nvisalign
+KaplumbaÄŸa
+Deniz anasi
 Yufka
-Deniz anası
-Elazığ
-Emlakçı
-Kaşağı
-Mülkiyet
+Deniz anasÄ±
+ElazÄ±ÄŸ
+EmlakÃ§Ä±
+KaÅŸaÄŸÄ±
+MÃ¼lkiyet
 Zeplin
 evet
 Mursi
@@ -303,40 +272,38 @@ John Proust
 John Proust
 Ruh adam
 Yay
-Gladyatör
-Tebük
+GladyatÃ¶r
+TebÃ¼k
 Rusya
 Glikoz
-Nizamülk mülk
-Nizamül mülk
+NizamÃ¼lk mÃ¼lk
+NizamÃ¼l mÃ¼lk
 florence nightingale
 Mei jin
 amanullah
-Gülşehri
+GÃ¼lÅŸehri
 Platon
-/start 1648239795806584
 Turan
-Kızılelma
+KÄ±zÄ±lelma
 sultan
-nakkaş
-saraydüzü
-Gölbaşı
-kadı
-betül
+nakkaÅŸ
+saraydÃ¼zÃ¼
+GÃ¶lbaÅŸÄ±
+kadÄ±
+betÃ¼l
 Asperox
 Ahtapot
 macaristan
-taşnak
-müşevveş
+taÅŸnak
+mÃ¼ÅŸevveÅŸ
 idea
 Sabahattin Ali
 Sanii
-yeniçeri
-/start 1648243795956420
-beşiktaş
+yeniÃ§eri
+beÅŸiktaÅŸ
 Kurdele
-şerit
-Üsküp
+ÅŸerit
+ÃœskÃ¼p
 desatir
 zambak
 incele
@@ -344,371 +311,341 @@ kavanin
 malak
 Ferdinand
 Falez
-/start 1648244851202931
 Ozan
 Kolit
 kemal
 Tufan
-Gökhan
+GÃ¶khan
 Beril
-kırmızı balık
-Küçük kurbağa
+kÄ±rmÄ±zÄ± balÄ±k
+KÃ¼Ã§Ã¼k kurbaÄŸa
 Zonguldak
 meleke
 Devamke
 mahur
 moskova
-Sarı
+SarÄ±
 Anoreksiya
 putin
-yavşak
-Çarmıh
+yavÅŸak
+Ã‡armÄ±h
 Koltuk
 Kalem
 Pc
-kerhane tatlısı
+kerhane tatlÄ±sÄ±
 Hud
 patates
 Taylor Swift
 Cassie
 volkan konak
-Cok duygusal 😔
+Cok duygusal ğŸ˜”
 Akar
 Baza
-İyi Geceler
+Ä°yi Geceler
 alem-i ervah
 Nesli ne yapar
 nisa
 bakara
 bana kitap alanin 40 yil kolesi olurum.
 tefrit
-Yastık
+YastÄ±k
 Halojen
 tayyip
 sucuk
-29
 Papaya
-İşletim sistemi?
+Ä°ÅŸletim sistemi?
 Polyglot
 taltif
 Misket
 Merkel
 Ruh
 noluyo ya
-X
 Muz
 Bej
-Kütahya
+KÃ¼tahya
 Brokoli
 61
 Mikrodalga
-İmdat
-Savcı
+Ä°mdat
+SavcÄ±
 Tablet
 Fer
-Çay TV
-Salep
-T
+
 Emin
 Fer
 Saat
 Halhal
-Bıyık
-Kımız
+BÄ±yÄ±k
+KÄ±mÄ±z
 mavi
 Don
 Ekler
-İnkılap
+Ä°nkÄ±lap
 buketsena
 Kaz
 Onur belgesi
-İkizler
-İskender
-Maşa
-Zımba
-İstiklal marşı
+Ä°kizler
+Ä°skender
+MaÅŸa
+ZÄ±mba
+Ä°stiklal marÅŸÄ±
 Mira
 Komut
-Çeyiz
-Yüzük
-Fırında tavuk
+Neon
+Ã‡eyiz
+YÃ¼zÃ¼k
+FÄ±rÄ±nda tavuk
 Balkon
 Kevgir
-/skorlar
-Yapıştırıcı
 Polis
 Cif
 Bileklik
 Helva
 Nergis
-Bartın
-Ç
-*
-Kızım
-Şili
-Şile
-41
+BartÄ±n
+KÄ±zÄ±m
+Åili
+Åile
 Temmuz
 Bina
-🤢🤢
+ğŸ¤¢ğŸ¤¢
 Mor
 Kilis
 Bayrak
 Kamyon
-Küçük dil
-İnternet
+KÃ¼Ã§Ã¼k dil
+Ä°nternet
 Kaval
-Ş
+Åğ
 Sek sek
-Menekşe
+MenekÅŸe
 Kola
 Ceviz
 Limon
 Fen
 Kafiye
-Mısra
-Fer
-Fer
+MÄ±sra
 Fer
 Kuymak
-X
-Çad
-Çukurova
+Ã‡ad
+Ã‡ukurova
 Medcezir
 Papatya
 Bedir
-Perşembe
+PerÅŸembe
 Oklava
-Kına
-Süt
-Kayısı
+KÄ±na
+SÃ¼t
+KayÄ±sÄ±
 Tavuk
 Arif
-Oda parfümü
-Tırnak
+Oda parfÃ¼mÃ¼
+TÄ±rnak
 Bidolu
-Kamçı
+KamÃ§Ä±
 Kirpi
-Ü
+Ãœ
 90
-İncir
+Ä°ncir
 Siyah
-Boğa
+BoÄŸa
 Trafik bilgisi
-Akrostiş
+AkrostiÅŸ
 Hande
-Üzüm
-ẞ
-Niğde
+ÃœzÃ¼m
+áº
+NiÄŸde
 Gemi
-Şanlıurfa
+ÅanlÄ±urfa
 Kitap
 Trigonometri
 Jant
 Sevgililer
-Büt
-aksesuar değil
-Yakışıklı
-Yakışıklı
-İlgi
+BÃ¼t
+aksesuar deÄŸil
+YakÄ±ÅŸÄ±klÄ±
+YakÄ±ÅŸÄ±klÄ±
+Ä°lgi
 jota
 kars
 Laz
 Frankenstein
-Dünyanın en büyük klübü nesnel tartışmam
+tartÄ±ÅŸmam
 Galatasaray
-kudüs
+kudÃ¼s
 Tersine
 babel
-Aleyküm selam
-Akdeniz bölgesinde bi şehir
+AleykÃ¼m selam
+Akdeniz bÃ¶lgesinde bi ÅŸehir
 Arnavut
 Celil
-/start 1648286986653236
-Soğan çorbası
-Sinemözürdilerim
+SoÄŸan Ã§orbasÄ±
+SinemÃ¶zÃ¼rdilerim
 Edamelektir
 Edabirmelektir
-Çivi
+Ã‡ivi
 Yorgan
-/start 1648288180248901
 Enginar
-Ğ
-Fındık
-Kayısı
+Ä
+FÄ±ndÄ±k
+KayÄ±sÄ±
 Helal et
 81
 Serum
-Uçmağ
-İneklerde 4 tane insanlarda 2 tane
-Ö
-Evlilik döneminde ne yapmak isterdiniz?
-Kaşık
-Iğdır
-Halı
+UÃ§maÄŸ
+KaÅŸÄ±k
+IÄŸdÄ±r
+HalÄ±
 Eve
 Ece
 Karizma
 Tantuni
-/start 1648290905159723
-Canım
+CanÄ±m
 Sivas
 Avukat
-Baldız
+BaldÄ±z
 Makale
-Büşra
+BÃ¼ÅŸra
 Aseneeeee
 Selami
 Muz
 Enginar
 Baddo
 Bardo
-İntravenöz
-Herşeye inanan balık türü ❌❌❌😁😁
+Ä°ntravenÃ¶z
+HerÅŸeye inanan balÄ±k tÃ¼rÃ¼ âŒâŒâŒğŸ˜ğŸ˜
 Ben
-Ünlü düşmesi
-Karın zarı
+ÃœnlÃ¼ dÃ¼ÅŸmesi
+KarÄ±n zarÄ±
 Bej
 Batman
 Mikail
 Hawaii
 nelsonmandela
-Bülbül
-Bülbül
-Mısır
-/start 1648297535496466
+BÃ¼lbÃ¼l
+BÃ¼lbÃ¼l
+MÄ±sÄ±r
 mayoz
 Enginar
-içtihad
+iÃ§tihad
 Perhiz
-Çernobil
-meşveret
+Ã‡ernobil
+meÅŸveret
 tedbir
-münzevi
-teşekkül
-Ğ
-/start 1648298874275829
+mÃ¼nzevi
+teÅŸekkÃ¼l
 Galatasaray
 Enginar
 kepaze
-müracaat
+mÃ¼racaat
 romanov
 Telegraf
-Ğ
-yüksek Askeri şura
+Ä
+yÃ¼ksek Askeri ÅŸura
 43
 Fon
 Enginar
-şairler
-şuara
-Alıç
-/start 1648299662602680
-Çığlık
-Elagözlüm
+ÅŸairler
+ÅŸuara
+AlÄ±Ã§
+Ã‡Ä±ÄŸlÄ±k
+ElagÃ¶zlÃ¼m
 Penaldo
-teşrik
+teÅŸrik
 Hande
 pepsi
 Kenan karaman
 I
 PKK
 timo werner
-Diyarbakır
+DiyarbakÄ±r
 Marcao
 Enginar
 Antalya
 fabri
 Sweatshirt
-Çelik
-Fransız
+Ã‡elik
+FransÄ±z
 Sor
-Ayakkabı
+AyakkabÄ±
 Bal
-Bülbül
-Ü
+BÃ¼lbÃ¼l
+Ãœ
 Hadi
 Melih
-Yengeç
+YengeÃ§
 Bimar
-Lüleburgaz
+LÃ¼leburgaz
 Kemal sunal
 49
 Dalak
-Eşşek
-Tüp
-Çivi yazısı
-T
-Zımba
+EÅŸÅŸek
+TÃ¼p
+Ã‡ivi yazÄ±sÄ±
+ZÄ±mba
 Mecburiyet
 Menemen
-Şikemperver
-muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine
+Åikemperver
 Ase
-Araç
+AraÃ§
 Balans
 Fairspace
 Papatya
 Trabzon
-İbrahim yinal
-fuşya
+Ä°brahim yinal
+fuÅŸya
 Hasret
-Açım
-/start
-Polimiyozit
-🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️🗣️
 Meyitzade
 kremlin
-Karamürver
-Bir ülke
+KaramÃ¼rver
+Bir Ã¼lke
 Andorra
 Sivas
-Meriç
+MeriÃ§
 Habur
 Nova
 Victor hugo
 Gox
-X dayı
 yuri gagarin
-Kuzey ırak
-Okulda Bir Eşya
+Kuzey Ä±rak
+Okulda Bir EÅŸya
 Elvan
 Efkan ala
-Maçka
-Hatıra
-büllük
+MaÃ§ka
+HatÄ±ra
+bÃ¼llÃ¼k
 glukagon
 Recep
 Mutasyon
 Navtex
-yas yass yass gleyheheheee nedir
 Sinem
 Etiket
 Zeki
 Sinek
 Sinem
 sifon
-Ömer
+Ã–mer
 Tabak
 sucuk
 kedicik ve sedrik
-Kavanozkapağı
+KavanozkapaÄŸÄ±
 sivilce
-Aslısu
+AslÄ±su
 kiraz mevsimi
-limbeş
-Aslıhan Güner
+limbeÅŸ
+AslÄ±han GÃ¼ner
 mavi
 /start 1648311780238225
 Nuh
-yaprak sarması
+yaprak sarmasÄ±
 Lahmacun
-Yandı
+YandÄ±
 en sevdigim yemek pizza
 /start 1648312308430721
 Mor
-adaçayı
+adaÃ§ayÄ±
 ayaz
-vinç
+vinÃ§
 Caner
 espri
 Perde
@@ -719,10 +656,10 @@ bitanem
 birtanem
 58
 Kalorifer
-Ü
-Endülüs emevi
+Ãœ
+EndÃ¼lÃ¼s emevi
 Yatak..
-Aybastı
+AybastÄ±
 mezar
 galyum
 pizza
@@ -730,84 +667,74 @@ kafkas
 Hercai
 Rubai
 geometri
-Gurbetçi Şaban
-Ayrılık
-gelmeye gör
+GurbetÃ§i Åaban
+AyrÄ±lÄ±k
+gelmeye gÃ¶r
 Dost
-Sıcak içecek
-Sıcak içecek
-Nankör
-Sıcak içecek ❌❌❌
-Sıcak içecek ❌❌❌❌
-Sıcak içecek
+SÄ±cak iÃ§ecek
+SÄ±cak iÃ§ecek
+NankÃ¶r
 Salep
-Şeytan
-Ç
-GİTMEK
+Åeytan
+GÄ°TMEK
 Porno
-Beşiktaş
+BeÅŸiktaÅŸ
 Yalaka
-X
-Kız
-Yazgı
+KÄ±z
+YazgÄ±
 Devrim
-Satranç
+SatranÃ§
 Oda
 Esrar
-Simyacı
+SimyacÄ±
 Katarsis
 Vuslat
-meşveret
-Kaplumbağa
-Aşk
-müstesna
+meÅŸveret
+KaplumbaÄŸa
+AÅŸk
+mÃ¼stesna
 Orak
 ananas
-dimağ
-Ben gerizekalı
+dimaÄŸ
+Ben gerizekalÄ±
 Koymak
 Malatya
 Timsah
-Göleviz
-Süpürge
-Sarı
-Kırmızı
-İdea
-Çekya
+GÃ¶leviz
+SÃ¼pÃ¼rge
+SarÄ±
+KÄ±rmÄ±zÄ±
+Ä°dea
+Ã‡ekya
 Kanat
-Şah
+Åah
 Arjantin
 Fukukum
 Aras
-Zeynayı seviyoruz
-İnsanlarda yüzüne bak m.. ..... Yok derler 😂😂😂😂
-Ğ
-Kütahya
-Dar bir yere zorla girmek
+KÃ¼tahya
 Gece
 Pera
 Allah
-4
 Avize
 ney
-Başkent
+BaÅŸkent
 qrandofobi
 Fban
-Birgül
-Müzeyyen
+BirgÃ¼l
+MÃ¼zeyyen
 Karadeniz
-Oruç
-Müthiş
+OruÃ§
+MÃ¼thiÅŸ
 Nergis
 Tango
 Karina
-Tereşkova
+TereÅŸkova
 Masaj
 En uzun gece
-Güneş
+GÃ¼neÅŸ
 Silah
 Lut
-Meriç
+MeriÃ§
 Kabil
 Nemrut
 safari
@@ -816,13 +743,13 @@ Renk
 Hicaz
 Turkuaz
 Ankara
-Şapel
+Åapel
 Sergeilavrov
 Karakter
 astrozeneca
-Endülüs
-Minör
-Plütonyum
+EndÃ¼lÃ¼s
+MinÃ¶r
+PlÃ¼tonyum
 Muganniye
 Akkuyu
 Harvard
@@ -830,119 +757,110 @@ Sana
 Ganimet
 Papaya
 Spacex
-🥕?
+ğŸ¥•?
 8
-Havuç sembolü
+HavuÃ§ sembolÃ¼
 Q
-Türk hava yolları
-Şansa karşılaşmak 🧨🧨🧨🧨
-en yakışıklı erkek ismi .....
-en yakışıklı erkek ismi .....
-Sos
-1
+sos
 Hollanda
-en yakışıklı erkek ismi.....
+en yakÄ±ÅŸÄ±klÄ± erkek ismi.....
 mesele
 O
 Kitap
 Ordu
 Cezayir
-Müzik
+MÃ¼zik
 V
 3
-Büşra
+BÃ¼ÅŸra
 52
 Van
-Halısaha
+HalÄ±saha
 Yok
 Sus
 Lost
-Akdeniz'de bir şehir
-Ölmek
-Aşk
+Akdeniz'de bir ÅŸehir
+Ã–lmek
+AÅŸk
 Kalpsiz
-Sabır
+SabÄ±r
 Patron
 1
-Fetiş
-Kızıl
-Rüzgar
-Sevişmek
+FetiÅŸ
+KÄ±zÄ±l
+RÃ¼zgar
+SeviÅŸmek
 Bahar
-Yağmur
+YaÄŸmur
 Kahkaha
 Yasak
 Su
 Notada ara ses
-Ü
-Yağ
+Ãœ
+YaÄŸ
 Lila
 Bayrak
 Almira
 I
-Ç
+Ã‡
 Muz
 Bursa
 Gamze
 Tesbih
 Nefi
-Kılıç
-Uğur böceği
-Zımba
+KÄ±lÄ±Ã§
+UÄŸur bÃ¶ceÄŸi
+ZÄ±mba
 Fosforlu kalem
-Çanta
+Ã‡anta
 Tv8
 Takke
 Kumanda
-Ğ
 Mekruh
 Selena
 Kontak
 Sazan
-Kızıl sakal
-Nevşehir
+KÄ±zÄ±l sakal
+NevÅŸehir
 Fevkaladenin fevkinde
 Akasya
-Ş
 Siirt
-Aga bune oyunda hep yabancı kelimeler var
+Aga bune oyunda hep yabancÄ± kelimeler var
 Muhafazakar
-Ğ
+Ä
 Rayiha
-Yeşil
-Ahlaksız
-Çömlekçi
+YeÅŸil
+AhlaksÄ±z
+Ã‡Ã¶mlekÃ§i
 15
-Gülizar
+GÃ¼lizar
 Hagi mi alex mi
 Pontus
 Nasil sunacazz
-Alıç
-123
+AlÄ±Ã§
 irticalen
-Kitaplık
+KitaplÄ±k
 Erotik
 Harakiri
 MELAHAT
 SAMSUNG
-Balıkesir
+BalÄ±kesir
 Alanya
 Rockefeller
-Aleyküm selam
+AleykÃ¼m selam
 kelek
 60
 Kahta
 SodyumHipoklorit
-Çamaşır suyu
+Ã‡amaÅŸÄ±r suyu
 Ortodoks
 Ayn
-Gümrük
+GÃ¼mrÃ¼k
 Cengizhan
 42
-Eşhedü en la ilahe illallah ve eşhedü enne Muhammeden abdühü ve resulühü"
 Ambulans
 hedwig
-Zürafa
+ZÃ¼rafa
 Damlaya damlaya
 Seruyu sorudkm
 Damlaya damlaya?
@@ -954,112 +872,112 @@ rusya
 safahat
 Gagarin
 Su
-Kişinev
-Çin
-Sarhoş
-Ç
+KiÅŸinev
+Ã‡in
+SarhoÅŸ
+Ã‡
 Vaduz
 moskova
 Fakirler
 afganistan
 Evrim
 512
-Solucan deliği
+Solucan deliÄŸi
 adana
 Epeymen
-İstiare
+Ä°stiare
 Empirizm
-Sayı
-İstifham
-Simgenin eş anlamlısı Nedir
+SayÄ±
+Ä°stifham
+Simgenin eÅŸ anlamlÄ±sÄ± Nedir
 asit
 Lima
-Fiş
+FiÅŸ
 Mitomani
 Anahtar
 Varyasyon
 Nib
-Şinasi
+Åinasi
 Renk
-Bingöl
+BingÃ¶l
 Harare
 Kazakistan
 Eyeliner
-İkiyüzlülük
-Delgeç
+Ä°kiyÃ¼zlÃ¼lÃ¼k
+DelgeÃ§
 Egzoz
-Hayalkırıklığı
+HayalkÄ±rÄ±klÄ±ÄŸÄ±
 Sadrazam
 Gayret
-Çakmak
+Ã‡akmak
 Kredi
 Serseri
 Masum
-Geçmiş
+GeÃ§miÅŸ
 Binnaz
 Libas
 Okul
 Ciguli
 Hacim
 Cam
-inönü
+inÃ¶nÃ¼
 Umut
 Damper
 Ozan manas
-Doğaçlama
-Ardıç
+DoÄŸaÃ§lama
+ArdÄ±Ã§
 Mahcubiyet
-Işınım
-Yunanlılar
-Gözlüklü
-Kırbaç
+IÅŸÄ±nÄ±m
+YunanlÄ±lar
+GÃ¶zlÃ¼klÃ¼
+KÄ±rbaÃ§
 Kamera
 Bir para birimi
 Siyasal islam
 18
 9
-Ayakkabı kutusu
+AyakkabÄ± kutusu
 Kelle
 Mektep
 Ayran
 Aslan
-Nankör
+NankÃ¶r
 Cahit Arf
 Beyin
 ankara
-Çikolata
-Bu dünyada ne için varız
+Ã‡ikolata
+Bu dÃ¼nyada ne iÃ§in varÄ±z
 futbol
-Mustafa Kemal Atatürk
-Bisküvi
+Mustafa Kemal AtatÃ¼rk
+BiskÃ¼vi
 Mazot
-Ren geyiği
-Mütevazi
+Ren geyiÄŸi
+MÃ¼tevazi
 Gazoz
-Künefe
-Işık
-Işık
-Kornişon
-Çiğköfte
+KÃ¼nefe
+IÅŸÄ±k
+IÅŸÄ±k
+KorniÅŸon
+Ã‡iÄŸkÃ¶fte
 Ordu
 Pitbull
 56
-Gülmek
-Bir şarkı ismi
+GÃ¼lmek
+Bir ÅŸarkÄ± ismi
 Kurufasulye
-💫
+ğŸ’«
 Anahtar
 Sentetik
-Dengbeş
+DengbeÅŸ
 Rica ederim
 voyvoda
-Salatalık
+SalatalÄ±k
 eyeliner
 Pelin
-Hızlı
-Aşk
+HÄ±zlÄ±
+AÅŸk
 Osman
-Yeşilçam
+YeÅŸilÃ§am
 Polis
 kevin durant
 Seven
@@ -1069,9 +987,9 @@ Ubeyt
 9
 60
 Trabzonspor
-Aksülamel
+AksÃ¼lamel
 Besmele
-Güvenilir
+GÃ¼venilir
 Merve
 Antipsikotik
 Barbie
@@ -1079,172 +997,164 @@ Evlenmek
 Evet
 laktoz
 atp
-Ş
-Dayı
+Å
+DayÄ±
 sinek
-Döner
-Ş
+DÃ¶ner
+Å
 Karizma
 Ela
-Anıtkabir
-Anıtkabir
-İlk Mescid nere
+AnÄ±tkabir
+AnÄ±tkabir
+Ä°lk Mescid nere
 Tarih
-Fenerbahçe
-🐱
+FenerbahÃ§e
+ğŸ±
 2048
 40
 Cinayet
 Personel
-kısaca
+kÄ±saca
 orlando
 burak elmas
 almeida
-sabri sarıoğlu
-çay
-Erman Toroğlu
+sabri sarÄ±oÄŸlu
+Ã§ay
+Erman ToroÄŸlu
 kerimcan durmaz
 Moussa sow
-güney kore
+gÃ¼ney kore
 iPhone
 araba
-eşsiz
+eÅŸsiz
 Rim
 Kral
-lüleburgaz
+lÃ¼leburgaz
 yatmak
-Aşk mı sekusek mi ?
+AÅŸk mÄ± sekusek mi ?
 linea
-neden bu kadar salaksınız
-Sordum soruyu ….. boruyu
-Recep Tayyip Erdoğan
-ayaksız kız
+neden bu kadar salaksÄ±nÄ±z
+Sordum soruyu â€¦.. boruyu
+Recep Tayyip ErdoÄŸan
+ayaksÄ±z kÄ±z
 Malcolmx
-Ö
+Ã–
 eleman
 Berlin
 dert
 Burda
 Bursa
-Şarap
-Hangi şehirde balık çok
-ANKARA MI GÜZEL İZMİR Mİ
+Åarap
+Hangi ÅŸehirde balÄ±k Ã§ok
+ANKARA MI GÃœZEL Ä°ZMÄ°R MÄ°
 Silah
 sex
-Domuzlar Körfezi
-Çin
+Domuzlar KÃ¶rfezi
+Ã‡in
 battaniye
 Tribal enfeksiyon
-Ölü
+Ã–lÃ¼
 Gestapo
-Yağız
-Sergüzeşt
+YaÄŸÄ±z
+SergÃ¼zeÅŸt
 Tomris hatun
 kpss
 maskara
-başarılar betül
+baÅŸarÄ±lar betÃ¼l
 atanmak
 Alp Arslan
 limon
 Merve
-Ş
-aybüke
-tarihçi
+Å
+aybÃ¼ke
+tarihÃ§i
 Bursa
-çekik
-..... çengi
-Tarihçi değil
+Ã§ekik
+TarihÃ§i deÄŸil
 laklak
 Karizma
-Fıstık
-Kavuşmak
+FÄ±stÄ±k
+KavuÅŸmak
 Lens
-Özür dilerim
-yakışıklı
+Ã–zÃ¼r dilerim
+yakÄ±ÅŸÄ±klÄ±
 1453
-çatlamak
+Ã§atlamak
 400
 Sinem
-🎈
+ğŸˆ
 56
 43
 limit
-Kadınların morali bozuldukça şifa aradıkları yer
+KadÄ±nlarÄ±n morali bozuldukÃ§a ÅŸifa aradÄ±klarÄ± yer
 oxford
 limited
 Yengen
 Anyone
 Fakirlik
-İnan
-Kardeş
+Ä°nan
+KardeÅŸ
 Susam
 Ekmek
-Topluluktan kaçan yanlız başına kalmayı seven
+Topluluktan kaÃ§an yanlÄ±z baÅŸÄ±na kalmayÄ± seven
 KANDIRDIM
 Buruk
-X
 Mars
 Nar
 Lila
 77
 Sinop
 Burcu
-Bartın
-Yeni dünya
-KUŞ TÜRÜ
-Fizikçi
+BartÄ±n
+Yeni dÃ¼nya
+KUÅ TÃœRÃœ
+FizikÃ§i
 Erik
-Gümüshane
-Ayı
-33 nerenin plakası
+GÃ¼mÃ¼shane
+AyÄ±
+33 nerenin plakasÄ±
 Merve
-Tesettür
+TesettÃ¼r
 Anahtar
 Ceket
 bursa
 Octopus
-Kapısız
-Z
-Ğ
-Mürdüm
+MÃ¼rdÃ¼m
 Batman
 Peki
-Bingöl
+BingÃ¶l
 Lacivert
 29
-🐻
-Sıpa
+ğŸ»
+SÄ±pa
 Bordo
 Kiraz
 Gamze
-ERKEK İSMI SAYIN
-Eşref
-Anneler günü
+ERKEK Ä°SMI SAYIN
+EÅŸref
+Anneler gÃ¼nÃ¼
 23 Nisan
-Müezza
+MÃ¼ezza
 Mezar
-Mühendis
+MÃ¼hendis
 Gece
-Selçuklularda  yeniçerilere3 ayda bir verilen  Maaş
-Sevgilim
 Zeynep
 Elma
 Nebula
-Yağmur
+YaÄŸmur
 Limited
 Mat satan
 Yumurta
 Odun
-çay
+Ã§ay
 Pilot
-Ölüm
-Konyanın meşhur yemeği nedir
-Öküz
+Ã–lÃ¼m
+Ã–kÃ¼z
 Fransa
 Taburcu
-İlay
-Muş
-Ç
+Ä°lay
+MuÅŸ
+Ã‡
 38
 Kivi
 Domates
@@ -1252,129 +1162,129 @@ Kars
 Lavinia
 Kars
 Kumpas
-Maşrapa
+MaÅŸrapa
 Mhp
 Elma
 Kartal
 Kusva
 Kaban
 Culuk
-Diriliş
+DiriliÅŸ
 Ecem
 Patik
-Adın ne
-Ponçik
-V
-Hiç yenilmeden şampiyon olana verilen unvan
+AdÄ±n ne
+PonÃ§ik
+neonsahib
+verilen unvan
 Sinop
 Vasiyet
 Ahududu
 Peyami
 Gri
-Fuşya
+FuÅŸya
 Er
-Belçika başkenti
+BelÃ§ika baÅŸkenti
 kalimba
-Kadirşinas
-İkaz
-Kırgızistan
+KadirÅŸinas
+Ä°kaz
+KÄ±rgÄ±zistan
 Mavi
-Yılan
-Başak
-Tavuk mu yumurtadan çıkar? Yumurta mı tavuktan?
-Vaşak
+YÄ±lan
+BaÅŸak
+Tavuk mu yumurtadan Ã§Ä±kar? Yumurta mÄ± tavuktan?
+VaÅŸak
 Tavuk yumurtadan
-🧬
+ğŸ§¬
 Volkan
 Erzurum
 Kocaeli
-İnsan
+Ä°nsan
 Aras bulut iynemli
 Maymun
 Trip
-Dayı
+DayÄ±
 Alaska
-Yağmur
+YaÄŸmur
 Muhammet
-Barış murat yağcı
+BarÄ±ÅŸ murat yaÄŸcÄ±
 Hayat
-Uçak
-Kaşar
+UÃ§ak
+KaÅŸar
 Embriyo
 Parmakta bulunur
-Çekiliş
-Balık
+Ã‡ekiliÅŸ
+BalÄ±k
 Fuzuli
 4096
-Saksı
-Ölü
-Mıdıgome
+SaksÄ±
+MÄ±dÄ±gome
 Kun
+neonkurucu
 Pazar
-İzmir
+Ä°zmir
 Kedi
 Basit
 Merhamet
-Şair
+Åair
 Atalet
 Boks
-Akıl
-🐄
+AkÄ±l
+ğŸ„
 Sazan
 53
-Pirinç
-Dansöz
+PirinÃ§
+DansÃ¶z
 Deli
-Eşeğe binek mi
-canlı
+EÅŸeÄŸe binek mi
+canlÄ±
 Jilet
 Ronaldo
 Hamile
-Küfür
+KÃ¼fÃ¼r
 Sivas
-Güzel
+GÃ¼zel
 Aslan
 Kalimba
-Onurun mesleği nedir
+Onurun mesleÄŸi nedir
 Bitti
-Mürdüm
+MÃ¼rdÃ¼m
 Nereye gitmek isterdim
-İklim
+Ä°klim
 Nebula
 Fil
 Tiramisu
 Saat
-Böğürtlen
+BÃ¶ÄŸÃ¼rtlen
 Jokeriniz
 Sinek
-Uzaylı
-Çilek
+UzaylÄ±
+Ã‡ilek
 Cici bebe
-Ğ
+Ä
 Portakal
 Sakarya
 Domuz
 Oktay
-Yeni dünya
+Yeni dÃ¼nya
 Elma
 Sohbetgox
 54
-Taç
+TaÃ§
 incil
 Limonata
 Fil
-Laz böreği
+Laz bÃ¶reÄŸi
 40
 Serasker
 Pilot
-Nevşehir
+NevÅŸehir
 Yavuzsultanselim
 Kocaeli
-Yargı
-Künefe
+YargÄ±
+KÃ¼nefe
 Yahudi
-İzmir
-Kapı....
+Ä°zmir
+KapÄ±....
 Kalem
 topuz
 Maske
@@ -1382,49 +1292,49 @@ gargara
 Elim
 Kazak
 Sel
-Fındık
+FÄ±ndÄ±k
 Kundak
-Hırt
+HÄ±rt
 kelime
-Sözlük
-Bülent Ecevit
+SÃ¶zlÃ¼k
+BÃ¼lent Ecevit
 florence nightingale
 Telabyad
 italya
-KUVEYT DİNARİ
-Sarkaç
+KUVEYT DÄ°NARÄ°
+SarkaÃ§
 ulufe
 Ablak
 Sandalye
 Evlilik
 3
 Maymun
-odtü
+odtÃ¼
 Karizma
-İsim
-Ç
-Çita
+Ä°sim
+Ã‡
+Ã‡ita
 Kilo
 Hatay
 Lavanta
 Burun
 Adam
-Yürek
-İsrail
+YÃ¼rek
+Ä°srail
 Yetki
 Testesteron
-Tatlı
-Karın
+TatlÄ±
+KarÄ±n
 Nadir
-Ğ
-Bartın
-Keşkül
-Müge
+Ä
+BartÄ±n
+KeÅŸkÃ¼l
+MÃ¼ge
 Dut
-Düşürmek
-Düşmek
-Düşürmek
-Yarın bugün
+DÃ¼ÅŸÃ¼rmek
+DÃ¼ÅŸmek
+DÃ¼ÅŸÃ¼rmek
+YarÄ±n bugÃ¼n
 Oje
 Mevlana
 limbo
@@ -1433,63 +1343,62 @@ harakiri
 ilim
 will smith
 hasar
-ayran gönüllü
+ayran gÃ¶nÃ¼llÃ¼
 smokin
 Batum
 aaron ramsey
 gaf
-kılıbık
+kÄ±lÄ±bÄ±k
 Kahve
-😂😂😂😂
-Hasbıhal
+ğŸ˜‚ğŸ˜‚ğŸ˜‚ğŸ˜‚
+HasbÄ±hal
 teke
-açığa çıkarma
-aklı selim
+aÃ§Ä±ÄŸa Ã§Ä±karma
+aklÄ± selim
 Dondurma
 Dondurma
-Kornişon
+KorniÅŸon
 Dondurma
-İce cream
+Ä°ce cream
 Oda
 6
 0
-beyin zarının ilk katmanı
+beyin zarÄ±nÄ±n ilk katmanÄ±
 Kim
 Spacex
-Özel bir fonkisyon
+Ã–zel bir fonkisyon
 1881
 Polinom
-mübadele
-Dondurma kornişon gıdı
+mÃ¼badele
+Dondurma korniÅŸon gÄ±dÄ±
 Emre
 Ney
 Zurna
-Balıkesir
-Berillllllllllllllllllll
-Hoşlanmak
+BalÄ±kesir
+HoÅŸlanmak
 Astana
-Küfür
+KÃ¼fÃ¼r
 77
 tefrika
-Yakışıklı
-Taş
+YakÄ±ÅŸÄ±klÄ±
+TaÅŸ
 Diken
-Gül
+GÃ¼l
 Tebrikler
 Sohbet online
-Tazı
+TazÄ±
 Hadi
 Bot gg
 Misafir gelir
 Otostop
-Yerli insansız hava aracı
-Sarı lacivert bir takım
-Her sınavda bulunur
+Yerli insansÄ±z hava aracÄ±
+SarÄ± lacivert bir takÄ±m
+Her sÄ±navda bulunur
 Pulbier
-Papağan
-Yeteneksizsiniz Türkiye
-Ayakkabı markası
-Aydın üniversitesi
+PapaÄŸan
+Yeteneksizsiniz TÃ¼rkiye
+AyakkabÄ± markasÄ±
+AydÄ±n Ã¼niversitesi
 Vezir
 Tokyo
 Boru
@@ -1501,12 +1410,11 @@ Limit
 beyaz
 Tonik
 Mihver
-Öksürmek
-Nasil soracağımız bilmiyom ki arkadaşlar yeniyim
+Ã–ksÃ¼rmek
 Yeliz
-Yağmur
+YaÄŸmur
 Jakuzi
-Ömer panda
+Ã–mer panda
 Plankton
 Yeliz
 Yonca
@@ -1514,420 +1422,381 @@ Hilal
 fatma
 Papatya
 Lavinia
-Östrojen
+Ã–strojen
 Yaymak
-Yağmak
+YaÄŸmak
 Musti
-🐞
-Aşk
+ğŸ
+AÅŸk
 Lazca
-Türkçe
+TÃ¼rkÃ§e
 Samsun
 X
 45
 Hostes
 Barometre
-süblimleşme
-Sağır
+sÃ¼blimleÅŸme
+SaÄŸÄ±r
 Helikopter
 Okul
 binek
-Merkür
+MerkÃ¼r
 Kalp
 Jumbo
 Sevgili
 99
 Ruh
-Çay
+Ã‡ay
 L
 Ela
-Aralık
+AralÄ±k
 Kivi
 Melisa
-Rakı
-Kış
+RakÄ±
+KÄ±ÅŸ
 Sarp
-Futbol değil
-Borçka
+Futbol deÄŸil
+BorÃ§ka
 Bayraktar
 Bismillahirrahmanirrahim
-Aleykümselam
+AleykÃ¼mselam
 Cem
 Sinop
 Lahmacun
 Hastane
-Şeyh Edebali
+Åeyh Edebali
 Maskara
-Satranç
+SatranÃ§
 Gaziantep
 5
-🐬
+ğŸ¬
 Veba
 86
 Merve
 Kocaeli
-Sümeyye
+SÃ¼meyye
 45
 Mezitli
-Ü
+Ãœ
 Oslo
 Makarna
-2
 Bonzai
 istiklal
-şam
+ÅŸam
 Banlamak
-Bu bir meyve yakın zamanda çıkacak ekşi olur
-atatürk
-Gümüşhane
+atatÃ¼rk
+GÃ¼mÃ¼ÅŸhane
 Jeffbezos
 0
 Blueorigin
-❌
+âŒ
 Crop
-İtalya
+Ä°talya
 Pip
 Bir renk
 Bir renk
 Mola
-Sahra çölü
-Bir renk 💥💥💥💥
+Sahra Ã§Ã¶lÃ¼
+Bir renk ğŸ’¥ğŸ’¥ğŸ’¥ğŸ’¥
 Muzaffer
 Charles Dickens
 Vize
 Lila
 kanuniesasi
 29
-kaçmak gibi
+kaÃ§mak gibi
 Kolonya
 Demirci
-Buharlaşmak
+BuharlaÅŸmak
 Papaya
 Dolmaki
 Muhammed tapar
-Öksüz
-Kuvvetimira
-Deri
-Pisagor
-KIYMA CEKTIRMEK İSTERSEK NEREYE GİDERİZ
-W
-Kars
-Simya
-İçel
-Charles Dickens
+Ã–ksÃ¼z
 Crop
-İngiltere
-Çavdar
+Ä°ngiltere
+Ã‡avdar
 Pip
-Sıla
+SÄ±la
 Rize
-Rımel
+RÄ±mel
 Joe
 82
 Edirne
 Rahip
-Aslısu
+AslÄ±su
 Ermeni
 Hakkari
-Şifonyer
+Åifonyer
 Hasan
 Merhaba
-Küçük kilise
+KÃ¼Ã§Ã¼k kilise
 Mustafa kemal
-İsrail
+Ä°srail
 Olmayan
-Likör
+LikÃ¶r
 Itri
 Alo
 Veli
 Fenveteknoloji
 99
 Anakart
-bu şey
-şey
-İkinci
+bu ÅŸey
+ÅŸey
+Ä°kinci
 Araba
 Acth
 Malatya
-Kitapçı
-Adrenokortikotropikhormon
+KitapÃ§Ä±
 LG
 Pazar
-Küsmek
-İmam hatipler kapatılsın
-Sam
-Philip
-3
-6
-9
-Peristaltik
-140
-150
-145
-Dimağ
+KÃ¼smek
+Ä°mam hatipler kapatÄ±lsÄ±n
+Eldəniz
+Təpə
+Dayaq
+Məntiq
+Məntəqə
+Rəy
+DimaÄŸ
 Cennet
 Harare
 meydan
-İstek
+Ä°stek
 Pazar
 Dokuz
-Abdullah Öcalan
-Kızıl elma
+Abdullah Ã–calan
+KÄ±zÄ±l elma
 tekfir
-Kitaplık
-Yükseklik
+KitaplÄ±k
+YÃ¼kseklik
 Sisi
 Roket
 Kurt
-Karmaşık
-Tijen karaş
+KarmaÅŸÄ±k
+Tijen karaÅŸ
 Korona
 Emare
 Giri
-Aşk
+AÅŸk
 Caillou
 Mahur
 Mars
-kıymetlimiz
+kÄ±ymetlimiz
 Mikail
 Klima
 Mesud
-şükufezar
-Diyarbakır
+ÅŸÃ¼kufezar
+DiyarbakÄ±r
 japonya
 Liparit
-Diyarbakır
+DiyarbakÄ±r
 kayseri
-Erenköy
-pozantı
-Yılan
+ErenkÃ¶y
+pozantÄ±
+YÄ±lan
 Enosis
 58
-Gayrımuayyen
-Ağır
+GayrÄ±muayyen
+AÄŸÄ±r
 Sscb
-Eşek
-Subaşı
+EÅŸek
+SubaÅŸÄ±
 Kutay
 Termos
 Kazasker
 Podyum
 Fakir
-Sıcak su koyduğumuz kap
-Sıcak su koyduğumuz kap
 Afyon
 Sakak
-Sıcak su koyduğumuz kap
-Diego simeone
-Motogb2 de yarışan ilk türk :)
 Tenor
 Eklenti
 Kutay
 Matematik
-Reisülküttap
+ReisÃ¼lkÃ¼ttap
 Kutup
-şerif
-Ekvator çizgisi
+ÅŸerif
+Ekvator Ã§izgisi
 Q
 Karaktersiz
 rusya
 Matematik
 Thalus
-Müthiş
-Yağmur
+MÃ¼thiÅŸ
+YaÄŸmur
 sultan
-Kaplumbağa
+KaplumbaÄŸa
 bernard baruch
 Pripyat
-saraydüzü
+saraydÃ¼zÃ¼
 Sokollu mehmet
 22
 Sakarya
 Ekmek
 01
 Ice cream
-Bartın
+BartÄ±n
 At
 Horse
 Etliekmek
-Kısrak
+KÄ±srak
 Matrak
 Avustralya
 Kalede
 Kara delik
 Tunceli
-Hatırlamak
+HatÄ±rlamak
 Minimum
 limit
 klima
-Memur olmak için girilen sınav
+Memur olmak iÃ§in girilen sÄ±nav
 Doktor
 Muson
-Neyse açıyorum
+Neyse aÃ§Ä±yorum
 Sahra
-özüm
+Ã¶zÃ¼m
 DEA
 Adolf Hitler
 Leninizm
-İskender
-Mühendishaneyi bahri hümayun
-İtalya
-Zümer
-Zümer
-Meşrutiyet
+Ä°skender
+MÃ¼hendishaneyi bahri hÃ¼mayun
+Ä°talya
+ZÃ¼mer
+ZÃ¼mer
+MeÅŸrutiyet
 Hakikat
 Honiara
 Asimptot
 Sis
 Falez
-İzin
-Şinto
-Lökosit
+Ä°zin
+Åinto
+LÃ¶kosit
 Kadim
-Üzengi
+Ãœzengi
 Kartal
 Rektum
-göl
+gÃ¶l
 Alevi
 Alevi
 Beyin
 Salyangoz
-İnce bağırsak
-Sıkılmak
-27
-pırlanta
-2
-İki
-63
+Ä°nce baÄŸÄ±rsak
+SÄ±kÄ±lmak
+pÄ±rlanta
+Ä°ki
 Kivi
 Rakip
-Söğüt
+SÃ¶ÄŸÃ¼t
 Zelenskiy
-Kaplumbağa
+KaplumbaÄŸa
 Matbaa
 Sakal
-Şeytan
-Hıyar
-Halkın
+Åeytan
+HÄ±yar
+HalkÄ±n
 Dorian Grayin Portresi
 Deniz kurdu
-istidraç
-Kireçtepe
+istidraÃ§
+KireÃ§tepe
 Nonsteroidantienflamatuar
 sfigmomanometre
-Compton saçılması
+Compton saÃ§Ä±lmasÄ±
 pulseoksimetre
-spino musküler atrofi
+spino muskÃ¼ler atrofi
 metronom
 Bilal
-L
 Podyum
-halüsinasyon
-Soğuk
+halÃ¼sinasyon
+SoÄŸuk
 Fakir
-36
-Nescafe
 Suriye
-7
-Zıbarmak
-S
+ZÄ±barmak
 Domates
 Okul
 Bayburt
 Bej
-G
-Moğolistan başkenti
-İbrahim müteferrika
+MoÄŸolistan baÅŸkenti
+Ä°brahim mÃ¼teferrika
 Papaya
-9
-Yiğit
+YiÄŸit
 Para
 Komidin
 Evet
-😱
-Parasızlık
-G
+ğŸ˜±
+ParasÄ±zlÄ±k
 Osmaniye
-Şinasi
+Åinasi
 86
-Sapık
-9
-Tijen Karaş
+SapÄ±k
+Tijen KaraÅŸ
 Bern
-Vişne
+ViÅŸne
 Sedat
 54
 95
 Adana
 Porsuk
-Çanta yapan satan kimse
-Çanta
+Ã‡anta yapan satan kimse
+Ã‡anta
 Ezgi
 Lila
-Zürafa
-Röfle
-Q
-Anahtar
-45
-Ödem
+ZÃ¼rafa
+RÃ¶fle
 Urfa plaka kodu
 Kuyruk
 Kivi
-&
 Sibel
-Özdemir Asaf
-Ağustos
+Ã–zdemir Asaf
+AÄŸustos
 63
 Erken
-İstanbul
+Ä°stanbul
 Mussolini
 Derya
-Hüsnünün karısı
+HÃ¼snÃ¼nÃ¼n karÄ±sÄ±
 Suat
-Mariana çukuru
+Mariana Ã§ukuru
 9
 9
-Cebelli tarık
+Cebelli tarÄ±k
 Cebeli
-Cebelitarık
-Jüpiter
+CebelitarÄ±k
+JÃ¼piter
 Nakavt
-İslamiyetim simgesi
-Gardaş doğru söyledinde
+Ä°slamiyetim simgesi
+GardaÅŸ doÄŸru sÃ¶yledinde
 Yesrib
 Terakki perver
-Alışveriş
+AlÄ±ÅŸveriÅŸ
 Selma
 Tahran
 8/2
-Kuş
+KuÅŸ
 Vacip
 Hilal
 Tunceli
 Adana
-B
 Ordu
 Mor
 Timsah
 Pilav
 Tersinir
-Güney kuzey amerika arasindaki kanal
+GÃ¼ney kuzey amerika arasindaki kanal
 Panama
 87
 Menemen
-📘
 Bibliyofil
 Merve
 Oyun
 Seni seviyorum
-Fişne suyu
+FiÅŸne suyu
 Soruyorum
 (X-5)/3
 Su
 Siirt
 17
 Haset
-Koç
+KoÃ§
 Kevser
 Madrir
 Benim burcum ne
@@ -1935,7 +1804,7 @@ Madrid
 65
 26
 Haki
-Düzce
+DÃ¼zce
 Sukamoz
 Zonguldak
 Ulanbatur
@@ -1943,53 +1812,50 @@ Pazartesi
 Ceza
 9
 Ahtapot
-Yumurta hücresi
+Yumurta hÃ¼cresi
 Mihriban
-Özgecan aslan
-Ağrı
-TSK rütbesi
-TSK rütbesi
+Ã–zgecan aslan
+AÄŸrÄ±
+TSK rÃ¼tbesi
+TSK rÃ¼tbesi
 Soruyu
 Awm
 Uzay
 Feza
-Yadsımak
+YadsÄ±mak
 Aglet
 5050
 Dolu
-Boş
+BoÅŸ
 Arjantin
 Elif
-Eyşan
-Kaşık
-İntibah
+EyÅŸan
+KaÅŸÄ±k
+Ä°ntibah
 Kefen
 Titanik
-Çimento
+Ã‡imento
 Karpuz
 Piton
 Everest
-Vezirparmağı
+VezirparmaÄŸÄ±
 Evde cay icilen yer
-Yadsımak
+YadsÄ±mak
 Berlin
 Teskere
 Ahududu
 Kolezyum
-Öküz
+Ã–kÃ¼z
 Fil
 Osena
 Tiramisu
 7
 Koala
-Triliçe
+TriliÃ§e
 Toplar
-Cahit sıtkı tarancı
+Cahit sÄ±tkÄ± tarancÄ±
 Jaguar
 Pars
-İş güç meşguliyet. Çaba harcamak
-weatshırtlarda
-At
 Kerpeten
 Kobra
 Ankara
@@ -1998,12 +1864,12 @@ Elma
 60
 Vahiy
 keder
-Kapı kolu
-Çay
+KapÄ± kolu
+Ã‡ay
 Zeynep
 Alex de souza
 Hamsi
-Sıkıldım ben
+SÄ±kÄ±ldÄ±m ben
 Hamai
 Hamsi
 sigara
@@ -2011,37 +1877,36 @@ Siyah
 Sabah
 42
 Lacivert
-Ülkü
+ÃœlkÃ¼
 K
 Ankara
 Memati
 Ronaldo
 Bilhassa
 Meyve
-Yukarı
-Hiç yenilmeden sampiyonluga verilen ad
+YukarÄ±
 Susurluk
-Hayatta şansı hiç yaver gitmeyen
+Hayatta ÅŸansÄ± hiÃ§ yaver gitmeyen
 0
 Halk
-Ben çok kızınca ne oluyorum
+Ben Ã§ok kÄ±zÄ±nca ne oluyorum
 senkimsinya
 J
 Kimya
 Hastane
 Papatya
 44
-Akşam
-ismin ne?😂😂
+AkÅŸam
+ismin ne?ğŸ˜‚ğŸ˜‚
 8
 Ahududu
 112
-İnek
+Ä°nek
 Kartal
 Batum
 Patpat
-Osmanlı da okul
-Osmanlı da okul
+OsmanlÄ± da okul
+OsmanlÄ± da okul
 malak
 5
 Limonata
@@ -2050,28 +1915,25 @@ Trabzon
 limuzin
 Liman
 Mor
-ə
 Bardak
 Husuf
-80
 Deivid
-Uğur boral
-Rüştü Reçber
-9
-Karı
-PAYİTAHT
-Güzel
+UÄŸur boral
+RÃ¼ÅŸtÃ¼ ReÃ§ber
+KarÄ±
+PAYÄ°TAHT
+GÃ¼zel
 Ervah
 Elisa
-İndigo
-Kapı
+Ä°ndigo
+KapÄ±
 Mine
 Selin
 Puma
-Öküz
+Ã–kÃ¼z
 Hatay
 Mango
-Ağrı
+AÄŸrÄ±
 Nane
 Yuhanna
 Palamut
@@ -2081,18 +1943,18 @@ Dere
 Saat
 G
 22
-Hülagü han
+HÃ¼lagÃ¼ han
 Gassal
 Alpaguhan
 Tefo
 30
-Ayrılık
+AyrÄ±lÄ±k
 2
 Umutsuzluk
 3
 Marif perver
 72
-Türkiye şehri
+TÃ¼rkiye ÅŸehri
 Putin
 Mango
 Cif
@@ -2100,47 +1962,44 @@ Ekrem
 Takvim
 Tokat
 Kulun
-Soğuk
+SoÄŸuk
 hazar devleti
-Bir çay
-Kızılelma
-Böğürtlen
+Bir Ã§ay
+KÄ±zÄ±lelma
+BÃ¶ÄŸÃ¼rtlen
 ribaund
 Mutfak
 Filistin
 boylam
-Çoban
+Ã‡oban
 Siverek
-Akçaağaç
+AkÃ§aaÄŸaÃ§
 Selanik
 Menopoz
 Menapoz
-Yeşilay
+YeÅŸilay
 Hilal
 Bircan
 Bayburt
-Soru yazıyorum
+Soru yazÄ±yorum
 Parol
 Deskartes
 Metin Oktay
-İris
-Sarılmak
+Ä°ris
+SarÄ±lmak
 Voyager
-Plörezi
+PlÃ¶rezi
 Aksaray
 Tere
 Zaza
-Bingöl
-Grönland
+BingÃ¶l
+GrÃ¶nland
 Superego
-Bandırma
+BandÄ±rma
 Haziran
-Mustafanin profilinde agzinda sigara olan foto da arkadaki arabanin rengi
-Kırmızı
-Açılış
 21
 Galya
-Kadeş
+KadeÅŸ
 Manas
 Beyaz
 Armut
@@ -2149,18 +2008,18 @@ Azot
 Twerk
 Claymore
 Muz
-Şerefli
-Taş
-Buşa
+Åerefli
+TaÅŸ
+BuÅŸa
 Cahil
 Vichy
-İslamofobi
+Ä°slamofobi
 Tim
 Joe Biden
-Aybastı
-Yetmişaltı
+AybastÄ±
+YetmiÅŸaltÄ±
 Kahve
-Alıcı
+AlÄ±cÄ±
 limnoloji
 Bircan
 limoni
@@ -2172,48 +2031,47 @@ Esendere
 kelebek
 Musnt
 Konya
-Ötüken
+Ã–tÃ¼ken
 monoton
-Şırnak
-Fırtına obüs
-Sıkıldım ben gidiyorum
+ÅÄ±rnak
+FÄ±rtÄ±na obÃ¼s
+SÄ±kÄ±ldÄ±m ben gidiyorum
 Ankara
 61
 61
 medine
 Z
-İki şehrin hikayesi
+Ä°ki ÅŸehrin hikayesi
 Hala
 Esenyurt
-Kapıkule
+KapÄ±kule
 Aksaray
 Ceza
 Klorofil
-Ziya Gökalp
+Ziya GÃ¶kalp
 600
-Reçete
+ReÃ§ete
 hakkari
-Yeğen
+YeÄŸen
 Duran emmi
 Nobran
-Matruşka
-Ayıp değil mi lan
+MatruÅŸka
+AyÄ±p deÄŸil mi lan
 Mantalite
-1
 Esame
-Belçika
-Örgü
+BelÃ§ika
+Ã–rgÃ¼
 Musammat
 Yalan
 Maval
-Sırnaşık
-Sogukta oynanır elle toplanır
+SÄ±rnaÅŸÄ±k
+Sogukta oynanÄ±r elle toplanÄ±r
 Kardan adam olur
 Entansif
 Dert tasa soru bu
 2+2
-Hayır
-Çeltik
+HayÄ±r
+Ã‡eltik
 Endemik
 Spinoza
 Erzurum
@@ -2225,45 +2083,45 @@ Falso
 Farabi
 Denk
 Gergedan
-Zümer
-İphone
+ZÃ¼mer
+Ä°phone
 Humus
-Cebelitarık
-Süveyş
+CebelitarÄ±k
+SÃ¼veyÅŸ
 Evrim
 limuzin
 muallim
 Kalem
-Müsvedde
+MÃ¼svedde
 Edebiyat
-Türkçe
+TÃ¼rkÃ§e
 Gandhi
 Evlenmek
 11
 Balon
 Orgazm
-Böcek
+BÃ¶cek
 bilim
 Makarna
 alim
-devlet bahçeli
+devlet bahÃ§eli
 Aseton
 Maskara
 Yaya
-İnce bağırsak
+Ä°nce baÄŸÄ±rsak
 Melek
 Tabak
 Zizek
 Volkan
 Sucre
-Papağan
+PapaÄŸan
 Osmoz
 Volkan
 Selena
-İdrak
+Ä°drak
 Berber
 Matine
-Hava trafik kontrolörü
+Hava trafik kontrolÃ¶rÃ¼
 Manav
 Edirne
 Alfabe
@@ -2279,19 +2137,19 @@ fatman
 180
 John Steinbeck
 Ester
-Dükkan
-Turkiyede bir takım❤️
-Dükkan
+DÃ¼kkan
+Turkiyede bir takÄ±mâ¤ï¸
+DÃ¼kkan
 Osmaniye
 200
 Soru
 124
-Lüleburgaz
-Maç
+LÃ¼leburgaz
+MaÃ§
 Metal
 Kahve
 Volkanik
-İdea
+Ä°dea
 Viyana
 Yioo
 Yioo
@@ -2301,47 +2159,45 @@ Bergen
 Bergen
 54
 54
-Yıkmak
-Yıkmak
+YÄ±kmak
+YÄ±kmak
 Erik
 Erik
 Rana
 Rana
 Emek
 Kanat
-Cünüp
-Götü
-Elazığ depremine kim sebep oldu
-Göt
-Çay
+CÃ¼nÃ¼p
+GÃ¶tÃ¼
+Ã‡ay
 Molla ramazan
-Yılmaz Güney
+YÄ±lmaz GÃ¼ney
 Joni sins
 Mistonun first sevgilisi
 Gamze
-Jöle
+JÃ¶le
 Londra
 Remzi king
-İbrahim müteferrika
+Ä°brahim mÃ¼teferrika
 34
-Kütüphane
+KÃ¼tÃ¼phane
 Sanatkar
 53
 S
 Lila
 Mango
-Kaplumbağa
-Kaplumbağa
+KaplumbaÄŸa
+KaplumbaÄŸa
 Havyar
 Araf
 Einstein
-Muş
+MuÅŸ
 Kertenkele
-Şemsiye
+Åemsiye
 Apple
 Kahraman deniz
-❤️
-Barış özcan
+â¤ï¸
+BarÄ±ÅŸ Ã¶zcan
 Domino
 9
 Televizyon
@@ -2350,42 +2206,42 @@ Hz musa
 Moldova
 Terfi
 Tecil
-Dayanıksız
-Bilinç altı
+DayanÄ±ksÄ±z
+BilinÃ§ altÄ±
 Nebula
 Muktedir
-Komünist
+KomÃ¼nist
 Pusula
 Filtre kahve
-Yüz
+YÃ¼z
 Jant
 Trabzonspor
 Hamsi
 Ellik
 bulgaristan
-Sarhoş
+SarhoÅŸ
 Mercimek
 Trakya da bir il.
 Mutasyon
 Mehmet Selim kiraz
-İncil
+Ä°ncil
 Sirius
-İllegal
+Ä°llegal
 Kamer
 Hadi
 Opsiyon
 Seri
-Fıkra
-İnek
+FÄ±kra
+Ä°nek
 ney
 ser
 seri
-Vaşak
+VaÅŸak
 evet
-Akü
-Balıkesir
+AkÃ¼
+BalÄ±kesir
 Ramazan
-Sakız
+SakÄ±z
 Dior
 Mehmet Selim kiraz
 Orgazm
@@ -2396,201 +2252,201 @@ Dinozor
 11
 0
 Solucan
-Bükreş
+BÃ¼kreÅŸ
 Mutasyon
 Hep bana hep bana
 derleme
 Kuma
-Ayrılık
+AyrÄ±lÄ±k
 Clavicula
-kördüğüm
+kÃ¶rdÃ¼ÄŸÃ¼m
 Trabzon
 Film
 Fil
 Erzurum
-güçlü
-ağlama sesi
-İnönü
+gÃ¼Ã§lÃ¼
+aÄŸlama sesi
+Ä°nÃ¶nÃ¼
 400
-don Kişot
-Selçuk Şahin
-Bir şehir
-Muş
+don KiÅŸot
+SelÃ§uk Åahin
+Bir ÅŸehir
+MuÅŸ
 Metehan
 Ali
-Yerçekimi
+YerÃ§ekimi
 Yatak
 Vaduz
 Terane
-Gözlük
+GÃ¶zlÃ¼k
 mihver
-Ömer Faruk
+Ã–mer Faruk
 Tedric
 Dulda
 Cevahir
 Dore
 Yurt
-Şanlıurfa
+ÅanlÄ±urfa
 9
-Muş
+MuÅŸ
 memnu
 tezyin
 Nebula
 Leylak
-müyehayyir
-mütehayyir
+mÃ¼yehayyir
+mÃ¼tehayyir
 Teravih
 400
 Edu dracena
 Gaz
-Gökkuşağı
+GÃ¶kkuÅŸaÄŸÄ±
 Mehmet Selim kiraz
 Adana 1 porsiyon
 Papatya
-fatoş
+fatoÅŸ
 Tiner
 Robert lewandowski
-Kerem Aktürkoğlu
+Kerem AktÃ¼rkoÄŸlu
 Muslera
 Fazr
-Lüzüm
+LÃ¼zÃ¼m
 Ay
 Noel
-Nahçivan
-İsmail
+NahÃ§ivan
+Ä°smail
 Tarife
 Nana
 Cuma
 furkan
 Geometri
-Börülce
+BÃ¶rÃ¼lce
 Bahar
-İtaatkâr
+Ä°taatkÃ¢r
 Vicdan
 Saka
 17
 At
 Helikopter
-Açma
+AÃ§ma
 Kokpit
-İcat
+Ä°cat
 Tevrat
 Cogito ergo sum
 720
 Mine
 Antalya
-Gül
-12 levha kanunları
+GÃ¼l
+12 levha kanunlarÄ±
 Hak
-Sahra çölü
-Gönül
+Sahra Ã§Ã¶lÃ¼
+GÃ¶nÃ¼l
 Beyni olmayan hayvan
 Fyodor dostoyevski
-Aşk
+AÅŸk
 400
 Dans
-hoşbulduk
-Tarihçi
+hoÅŸbulduk
+TarihÃ§i
 Kumanda
-Aşiyan
+AÅŸiyan
 Samsun
-Aşiyan
-Fenerbahçe
+AÅŸiyan
+FenerbahÃ§e
 54
 kabiliyet
 Bir film adi. ...damacana
 J
 uzunlar
 Astronot
-Uzay adamı
-Kağıt
-Azer Bülbül
-Doğan
-Napıyosun
-Göz
+Uzay adamÄ±
+KaÄŸÄ±t
+Azer BÃ¼lbÃ¼l
+DoÄŸan
+NapÄ±yosun
+GÃ¶z
 79
 Q
-konuşlandırma
-Hemşire
+konuÅŸlandÄ±rma
+HemÅŸire
 tahakkuk
-Ben çıkıyorum
+Ben Ã§Ä±kÄ±yorum
 Kaplan
-Nilüfer
+NilÃ¼fer
 intibah
 Kelebek
 Leyla
 vasat
-Gülseren
+GÃ¼lseren
 Sille
-Uçurum
+UÃ§urum
 irtidat
-2022 dünya kupası nerede oynayacak
+2022 dÃ¼nya kupasÄ± nerede oynayacak
 Primitif
 tebrik
 91
 Payidar
 Kola
-Sıvı olarak bulunan gümüş renginde bir element
-Yazı
+SÄ±vÄ± olarak bulunan gÃ¼mÃ¼ÅŸ renginde bir element
+YazÄ±
 ferahlamak
 derk
-şerif
+ÅŸerif
 9
-Rafızi
+RafÄ±zi
 abd
-dumlupınar
+dumlupÄ±nar
 millet
 elbise
-inşa
+inÅŸa
 iskender
 hastane
 avusturya
 1 Nisan
-dört
-kırım
-tiftik keçisi
-hıyar
+dÃ¶rt
+kÄ±rÄ±m
+tiftik keÃ§isi
+hÄ±yar
 2 nisan
 trabzon
 63
-Ömer Halis Demir
+Ã–mer Halis Demir
 olta
-özür dilerim enes
+Ã¶zÃ¼r dilerim enes
 man kafa
-Bakteri alanjnda çalışan kimse
+Bakteri alanjnda Ã§alÄ±ÅŸan kimse
 Sakura
 23
 Karabina
 30
 2
 42
-Çarnaçar kelimesinin anlamı
-ertem şener
+Ã‡arnaÃ§ar kelimesinin anlamÄ±
+ertem ÅŸener
 Blues
 seri
 of
-çabuk
+Ã§abuk
 manolya
 kedi
 Beyza
-Bjklilere soylenilen ve sahip oldukları lakap argo
-nankör
+Bjklilere soylenilen ve sahip olduklarÄ± lakap argo
+nankÃ¶r
 makro
 ramsey
 rezil esra
-hüviyet
+hÃ¼viyet
 wish
 Gerund
 gerund
 Plantar fleksiyon
 Kavun
 mal
-︎︎
+ï¸ï¸
 beyin
 Ayran
 Ase
 ben prensesim
-eşşek
+eÅŸÅŸek
 5
 Hollanda
 Yumurta
@@ -2598,7 +2454,7 @@ Yumurta
 Korku
 kerimcan durmaz
 Kamil
-güzel
+gÃ¼zel
 duygu
 Bahane
 Friedrich Nietzsche
@@ -2607,29 +2463,29 @@ Abdest
 Madik
 Volkan
 Mart
-Kıyamet
+KÄ±yamet
 Isparta
 Fatma
 istirham
 Tokyo
-estağfurullah
+estaÄŸfurullah
 SubhanAllah
 subhanallah
-müşfik
+mÃ¼ÅŸfik
 felaket
 iyi geceler lim
 Kuyruk sokumu
 Zar
-Kötü
+KÃ¶tÃ¼
 muallak
-Mutemi kaldırın
-mütenevvi
-nakışlı
+Mutemi kaldÄ±rÄ±n
+mÃ¼tenevvi
+nakÄ±ÅŸlÄ±
 intizam
-mütebaki
+mÃ¼tebaki
 Tip
 Sucre
-müşahade
+mÃ¼ÅŸahade
 Havva
 2 Nisan
 59
@@ -2640,33 +2496,33 @@ Nietzsche
 63
 Hamsi
 Ediz
-İmdat
+Ä°mdat
 Mesaj
 Mercimek
 Doktor
-Ayı
+AyÄ±
 Prenses
 Allame
 Aspova
-Ayyaş Yunus
-Havuç
-Şeker
+AyyaÅŸ Yunus
+HavuÃ§
+Åeker
 lenovo
 Perihan
-söğüt
+sÃ¶ÄŸÃ¼t
 Bayburt
 5137
 Beyan
 Mango
-gözlük
-Beş
+gÃ¶zlÃ¼k
+BeÅŸ
 klostrofobi
 Lor
 Of
 deniz
 Gaziantep
-Bir hayvan kanatları var uçamıyor
-Ejderha. Kanatlı
+Bir hayvan kanatlarÄ± var uÃ§amÄ±yor
+Ejderha. KanatlÄ±
 Sahil
 Merak
 Hedef
@@ -2677,152 +2533,152 @@ Teyyare
 Cesaretsiz
 Fren
 evet
-Yakışıklı
+YakÄ±ÅŸÄ±klÄ±
 bulgaristan
 Xenon
 Pembe
 Lacivert
 Rugby
-Kıbrıs
+KÄ±brÄ±s
 Beyazcikolata
 Giresun
 Romatizma
 79
-Ehvenişer
-Diyarbakır
+EhveniÅŸer
+DiyarbakÄ±r
 Ne kesersin
-Yakışıklı
-Flüt
-Dünyada kaç kişi insan yasıyor
+YakÄ±ÅŸÄ±klÄ±
+FlÃ¼t
+DÃ¼nyada kaÃ§ kiÅŸi insan yasÄ±yor
 Emir
 Ayak
 1881
-Sümük
+SÃ¼mÃ¼k
 91
 X
-Koşul
-En iyi rapçi
-..... mülkün temelidir
-Çirkin
-İyilikten anlamaz
+KoÅŸul
+En iyi rapÃ§i
+..... mÃ¼lkÃ¼n temelidir
+Ã‡irkin
+Ä°yilikten anlamaz
 Sagopa kajmer
 Kivi
-Atatürkçü
+AtatÃ¼rkÃ§Ã¼
 68
 Kestane
-İlgi
+Ä°lgi
 Aristoteles
 Soyunmak
 Sirius
 Yar
 Zar
-Mematibaş
+MematibaÅŸ
 Demirci
 Semah
 Hamsi
-İzmir
-Mülteci
+Ä°zmir
+MÃ¼lteci
 Farz
-Kurbağalama
+KurbaÄŸalama
 Ssd
 Para
-Amaç
-Zühtü
+AmaÃ§
+ZÃ¼htÃ¼
 Pembe
 Kablo
 8
 Etli pide
-Edirnekapı
-Çilek
+EdirnekapÄ±
+Ã‡ilek
 Ahtapot
-⛱❌
+â›±âŒ
 0
 Ordu
 M
 69
 Karakter
-Çölde görülen hayal
+Ã‡Ã¶lde gÃ¶rÃ¼len hayal
 Lityum nedir
-Yunanistan başkenti
-Acemiyim ne yapayım
-İzobat
-Padişah?
+Yunanistan baÅŸkenti
+Acemiyim ne yapayÄ±m
+Ä°zobat
+PadiÅŸah?
 Akis
-Ayşe
+AyÅŸe
 Melez
-İnek
+Ä°nek
 Maymun elif
-Adıyaman
-Ramazan ayı
-नमस्ते
+AdÄ±yaman
+Ramazan ayÄ±
+à¤¨à¤®à¤¸à¥à¤¤à¥‡
 Periton
-2017=2018 şampiyonu kim
+2017=2018 ÅŸampiyonu kim
 Ananas
 68
-İskender Büyük
+Ä°skender BÃ¼yÃ¼k
 Bana
 91
 6
 229
-Nasıl soruluyor
-Sınır
+NasÄ±l soruluyor
+SÄ±nÄ±r
 Piyade
 Putin
-İmparator
-Dövme
-İblis
+Ä°mparator
+DÃ¶vme
+Ä°blis
 Duygu
 Civciv
 Schopenhauer
 Bukalemun
 Karaca
 Ozan
-Taşak
+TaÅŸak
 Prosesus
-Sevgilin varmı
-Şikemperver
-Sevgilin varmı
-Atilla İlhan
+Sevgilin varmÄ±
+Åikemperver
+Sevgilin varmÄ±
+Atilla Ä°lhan
 Nbr yvrm
-Kazım Karabekir
+KazÄ±m Karabekir
 Askerlerin giyindigi
 narsist
-Aksülamel
+AksÃ¼lamel
 Bralet
 Haymana
-Selülit
+SelÃ¼lit
 Lavinia
 Hidrojen
-Maça
-ilaç
+MaÃ§a
+ilaÃ§
 Zebun
-Pejmürde
+PejmÃ¼rde
 Meyus
 Mutasyon
-Müşkülpesent
-Şnorkel
-İroni
-Doğum
+MÃ¼ÅŸkÃ¼lpesent
+Ånorkel
+Ä°roni
+DoÄŸum
 Bizans
 Peaky blinders
 NASA
-YURİ
-Arapsaçı
+YURÄ°
+ArapsaÃ§Ä±
 Kaju
 Q
 95
 Ela
 ela
 Esendere
-Büstiyer
-Bilmece bildirmece el üstünde kaydırmaca
+BÃ¼stiyer
+Bilmece bildirmece el Ã¼stÃ¼nde kaydÄ±rmaca
 Ankara
 Bagatarkan
 Akreo
 Akrep
 Ekim
-Subaşı
-Şah İsmail
+SubaÅŸÄ±
+Åah Ä°smail
 pangram
 Engizisyon
 Betelgeuse
@@ -2835,34 +2691,34 @@ Aksaray
 Aksaray
 Mussolini
 Helsinki
-İmam hatip
-Hilalin Kocası
+Ä°mam hatip
+Hilalin KocasÄ±
 22
 Rize
-Şanlıurfa
-İshak
-İris
-Acve hurması
-15+16 kaç eder
-15+16 kaç eder
+ÅanlÄ±urfa
+Ä°shak
+Ä°ris
+Acve hurmasÄ±
+15+16 kaÃ§ eder
+15+16 kaÃ§ eder
 Platon
 Nasilsin
 Galatasaray
 Ahahaha
 Kartal
-Göz
-sarnıç
+GÃ¶z
+sarnÄ±Ã§
 Bismillahirrahmanirrahim
-Beşiktaş
+BeÅŸiktaÅŸ
 Libido
 Jason Statham
-Ligimize gelmiş en kaliteli kanat oyuncusu
+Ligimize gelmiÅŸ en kaliteli kanat oyuncusu
 Quaresma
 Alex
 Rica
 Abdest
-❤️
-Buşa
+â¤ï¸
+BuÅŸa
 Kastamonu
 Sadakatsiz
 1984
@@ -2871,40 +2727,40 @@ muhakeme
 beyin
 The Punisher dizisindeki ana karakter olan oyuncunun dizideki ismi nedir ? Frank
 kolluk
-Yıldız
-Fişne
+YÄ±ldÄ±z
+FiÅŸne
 Etkisiz
-ondört
+ondÃ¶rt
 beyin
-güzel
+gÃ¼zel
 Elite
 76
 Lila
-Özenti
-❤️
+Ã–zenti
+â¤ï¸
 altay
-gökbey
+gÃ¶kbey
 ney
 Adalet
 Erzurum
-İmtihan
+Ä°mtihan
 Gelecek
-gayrı meşru
-Şarkı
+gayrÄ± meÅŸru
+ÅarkÄ±
 Tarikat
 Finlandiya
-münakaşa
-Gıcık
-Abdülhey
+mÃ¼nakaÅŸa
+GÄ±cÄ±k
+AbdÃ¼lhey
 Ali
 Emirin yolu
 Hayalhanem
 Rezervasyon
 Abiye kuzu
 menemen
-İbo
-İsimsiz  kahraman
-sütü yoğurt yapan şey
+Ä°bo
+Ä°simsiz  kahraman
+sÃ¼tÃ¼ yoÄŸurt yapan ÅŸey
 Folklor
 thales
 sual
@@ -2912,71 +2768,71 @@ Afyon
 65
 Ronaldo
 Vergi
-kısır
-mürteci
+kÄ±sÄ±r
+mÃ¼rteci
 Manita
-yengeç
+yengeÃ§
 Zeus
 kanguru
-ağrı dağı
+aÄŸrÄ± daÄŸÄ±
 galatasaray
-Balıkçı
+BalÄ±kÃ§Ä±
 3
-Ördek
+Ã–rdek
 ikinci
 68
 Edirne
 yunanistan
 Mal
-İblis
+Ä°blis
 kibar feyzo
-Yukarı
+YukarÄ±
 Oreo
 televole
 Patojen
 19 nisan
 ruhsar
-Hüseyin Nihal Atsız
+HÃ¼seyin Nihal AtsÄ±z
 Patik
 Baba
 Tilki
 Sezen aksu
-Aydının plaka kodu
-Aydının plaka kodu
+AydÄ±nÄ±n plaka kodu
+AydÄ±nÄ±n plaka kodu
 09
 09
 Nihavent
 28
-Enver Paşa
+Enver PaÅŸa
 beyin bedava
 Ezel
-Şattülarap
-Yakışıklı
+ÅattÃ¼larap
+YakÄ±ÅŸÄ±klÄ±
 Flamingo
 Erhan
 aptal
-Uçmağ
-şerif mardin
-Yıldız
-Koç
-🚬
-Ü
+UÃ§maÄŸ
+ÅŸerif mardin
+YÄ±ldÄ±z
+KoÃ§
+ğŸš¬
+Ãœ
 Anglo Sakson
 Tavlamak
 yuhanna
-Teyemmüm
-Şeker
-Gusül
-Ölmek için 13 sebep
+TeyemmÃ¼m
+Åeker
+GusÃ¼l
+Ã–lmek iÃ§in 13 sebep
 Bigbang
-Saçma
-Borç
+SaÃ§ma
+BorÃ§
 Z
 Hayal
-Tavşan
-Zıplamak
+TavÅŸan
+ZÄ±plamak
 Ted bundy
-Yargılamak
+YargÄ±lamak
 Sefiller
 Embriyo
 Persona non grata
@@ -2984,25 +2840,25 @@ fransa
 Taliban
 Kokain
 52
-Sevişmek
-Ş
+SeviÅŸmek
+Å
 Memleketsiz
 Erzincan
 Cariye
 Bilal
 Televizyon
-Çırpıcı alet
+Ã‡Ä±rpÄ±cÄ± alet
 Kaos
 Ase
 Harakiri
 Paragraf
-Gençlik
+GenÃ§lik
 Amir
 Mete Han
-Mübaşir
-Kımız
-Savcı
-Uzağı göremeyen kişi ?
+MÃ¼baÅŸir
+KÄ±mÄ±z
+SavcÄ±
+UzaÄŸÄ± gÃ¶remeyen kiÅŸi ?
 Esnaf
 Adalet
 Kekik
@@ -3012,138 +2868,138 @@ Sakin?
 Zeki olmayan?
 Kibir
 Aragnafobi
-Güzel
-Cümlenin sonunda ?
+GÃ¼zel
+CÃ¼mlenin sonunda ?
 Ney
 .
 Daktilo
 ingiltere
 florance nightingale
-Sonsuz boşluk?
+Sonsuz boÅŸluk?
 Yarbay
 Parlemento
 Ney
-yeğlemek
-İttihat ve Terakki
-İ
+yeÄŸlemek
+Ä°ttihat ve Terakki
+Ä°
 Havlu
 999
 M
 Mango
-Meşe
+MeÅŸe
 I
 Malatya
 Kumanya
 J
 73
-Oruç
+OruÃ§
 58
 14
-Alıç
+AlÄ±Ã§
 87
 3 harfli
-Ğ
+Ä
 Hakkari
-Halı
+HalÄ±
 Penguen
 65
 '
-🚬
+ğŸš¬
 Karizma
-Ü
+Ãœ
 45
 Kimsesiz ?
-Başarmak
+BaÅŸarmak
 Volvo
 Hizmet yapilan yer
 Tatikat
 Sivilce
 Atom
 Bir konuyu haddinden fazla ...?
-Padişah
-İskelet
-Düşünmek
-İyileştirmek
+PadiÅŸah
+Ä°skelet
+DÃ¼ÅŸÃ¼nmek
+Ä°yileÅŸtirmek
 Pompalamasyon
 Iletken
 Iletken
 Einstein
-Şikemperver
+Åikemperver
 Pulsar
 Apple
 Mal
-Yalancı
+YalancÄ±
 Abaza
 Corona
-Kılcal damar
+KÄ±lcal damar
 Zeka
 Ameliyat
 Maydonoz
 Kenevir
-Dağınık
-Başlat
+DaÄŸÄ±nÄ±k
+BaÅŸlat
 Belki
 Mektep
 Takva nedir
 Saygisiz
 Uyurgezer
 Apandist
-ATATÜRK
-Yastık
-Yastık
+ATATÃœRK
+YastÄ±k
+YastÄ±k
 Kitap
-Elazığ
+ElazÄ±ÄŸ
 Xiaomi
 Ekmek
-Hacı
+HacÄ±
 drogba
 Kornea
 Kemik
-Süperego
+SÃ¼perego
 John Katzenbach
 Salyangoz
-YüZ Temizleme suyu
+YÃ¼Z Temizleme suyu
 Murat kekili
 Premier
-Büyükamiral
+BÃ¼yÃ¼kamiral
 Gereksiz
 Seher
 0
-İkinci dünya savaşından sonra intihar eden lider
+Ä°kinci dÃ¼nya savaÅŸÄ±ndan sonra intihar eden lider
 Adolf Hitler
 Paradise
-Samandağ
-Açlık
-Doğrudur şarkısını seslendiren kişi?
-Doğrudur şarkısını seslendiren kişi?
-İnsan
-Amık rus mu
+SamandaÄŸ
+AÃ§lÄ±k
+DoÄŸrudur ÅŸarkÄ±sÄ±nÄ± seslendiren kiÅŸi?
+DoÄŸrudur ÅŸarkÄ±sÄ±nÄ± seslendiren kiÅŸi?
+Ä°nsan
+AmÄ±k rus mu
 Adolf Hitler
-Gül
+GÃ¼l
 Volkan Konak
-müphem
-dört
+mÃ¼phem
+dÃ¶rt
 hazar
-türkiye
+tÃ¼rkiye
 pcr
 Saz
 Kelebek
-birinci dünya savaşı
+birinci dÃ¼nya savaÅŸÄ±
 Romeo ve Juliet
-Nilüfer
+NilÃ¼fer
 Regl
 murat kurum
 goril
 aselsan
-Jüpiter
+JÃ¼piter
 yeni zelanda
 taraftar
 Kafkasya
 Kalem
-Aşk
+AÅŸk
 Defter
 Karpuz
-Rüya
+RÃ¼ya
 Euro
 Urfa
 Medusa
@@ -3157,136 +3013,127 @@ Narsist
 fransa
 kreatif
 Endoplazmik
-hatırlamak
+hatÄ±rlamak
 Organik kimya
 Dakar
-Yaşlı kadınlar için  kulanıla bir ses ürü
+YaÅŸlÄ± kadÄ±nlar iÃ§in  kulanÄ±la bir ses Ã¼rÃ¼
 Dior
 Erzurum
 Almanya
-Tatlı
-İltifat
+TatlÄ±
+Ä°ltifat
 Kanyelele
-kavşak
+kavÅŸak
 Okyanus
 Hilekar
 Hayvanat
-İltifat
+Ä°ltifat
 Tahliye
 Hijyen
-Umbrella Türkçesi
-Şemsiye
-5
-10
+Umbrella TÃ¼rkÃ§esi
+Åemsiye
 Ebu Talip
 tirit
 Rize
-Kâle almak
-Bangladeş
-7
-İzlanda
-cancık
+KÃ¢le almak
+BangladeÅŸ
+Ä°zlanda
+cancÄ±k
 Jennifer
 Sakarya
-çatal  şeklinde   tarım  aleti,  tırmık  türevi
+Ã§atal  ÅŸeklinde   tarÄ±m  aleti,  tÄ±rmÄ±k  tÃ¼revi
 Manda
 Soysuz
-Ahmet Ümit
-Müşrik
-karaborsacılık
-Oruç
+Ahmet Ãœmit
+MÃ¼ÅŸrik
+karaborsacÄ±lÄ±k
+OruÃ§
 Ney
 Bateri
 Pasinler
-Hafızaya dayalı eğitim oğretim yöntemi
-İftar
+HafÄ±zaya dayalÄ± eÄŸitim oÄŸretim yÃ¶ntemi
+Ä°ftar
 Renk
-Kütübü sitte
-Çiğköfte
+KÃ¼tÃ¼bÃ¼ sitte
+Ã‡iÄŸkÃ¶fte
 Tasfiye
 Selim Kiraz
-Talat Paşa
+Talat PaÅŸa
 Ayak
 Sivas
-Aydın
-cancık
+AydÄ±n
+cancÄ±k
 Kars
-Kına
-Smaç
-Kayısı
+KÄ±na
+SmaÃ§
+KayÄ±sÄ±
 Arka sokaklar
 Avrupa
-Kelepçe
+KelepÃ§e
 Fitness
 Berkay
 Kanal
 Tahin
-N
 9000
-Ne zaman doğdun
-68
-K
+Ne zaman doÄŸdun
 Temmuz
-23
-Şeyh Sait
+Åeyh Sait
 Murat Soner
 Bitlis
-54
 Bej
-Mübariz İbrahimov
-Tavşan
-Çiçero
+MÃ¼bariz Ä°brahimov
+TavÅŸan
+Ã‡iÃ§ero
 54
-Kelepçe
-Vahşi
+KelepÃ§e
+VahÅŸi
 87
-Nötr
+NÃ¶tr
 Trip
 Mum
-Şevval
-Dayı
+Åevval
+DayÄ±
 Hilal
-Feriştah
-Tütsü
+FeriÅŸtah
+TÃ¼tsÃ¼
 Fotokobi makinesi
-0
-Hayâ
+HayÃ¢
 Uhuvvet
-Ritüel
-Ritüel
+RitÃ¼el
+RitÃ¼el
 Organ
 Bayan
-Tefekkür
-Şamil Basayev
+TefekkÃ¼r
+Åamil Basayev
 Klavye
-Lâl
+LÃ¢l
 Wi-fi
-Şattülarap
-Nankörlük
+ÅattÃ¼larap
+NankÃ¶rlÃ¼k
 Abajur
 Muhakeme
 Oduncu
 Oyun
-Dünya
+DÃ¼nya
 Hazan
 Mantar
 Avukat
-İdrak
+Ä°drak
 Hilmi
 Serra
-Çiğköfte
-Arapsaçı
+Ã‡iÄŸkÃ¶fte
+ArapsaÃ§Ä±
 Makbule
-Şerbet
+Åerbet
 Sosyoloji
 Kalemlik
 Hatice
-Şiir
-Cadı
+Åiir
+CadÄ±
 Mavi
 Pist
 Seri
-Alaaddinpaşa
+AlaaddinpaÅŸa
 Manda
 Kurt
 Talas
@@ -3294,78 +3141,78 @@ Soru
 Fatma Aliye
 Latin
 Dangalak
-Şef
+Åef
 Naat
 Yunanistan
 Benjamin Franklin
 55
 Jale
-Ben sana gülüm demem
-Gülün ömrü az olur.
-kızıldeniz
+Ben sana gÃ¼lÃ¼m demem
+GÃ¼lÃ¼n Ã¶mrÃ¼ az olur.
+kÄ±zÄ±ldeniz
 Sokrates
-Kalın bağırsak
-Kürdistan
-Aşk
+KalÄ±n baÄŸÄ±rsak
+KÃ¼rdistan
+AÅŸk
 James Webb
 Pil
 68
 Erwin Rommel
-Tükürmek
+TÃ¼kÃ¼rmek
 37
 Mango
-Reflü
+ReflÃ¼
 Jason Statham
 Zaman
 Ben efsaneyim
 Kitap
-Rümeysa
+RÃ¼meysa
 Cehalet
 74
 Gana
 Maydanoz
 Davul
-İncinmek
-Menü
+Ä°ncinmek
+MenÃ¼
 Ney
 Bedhah
-Zannımca
+ZannÄ±mca
 David Beckham
 Rivayet
 Kalu bela
-Baldız
-İhtilal
-Orhun Yazıtları
+BaldÄ±z
+Ä°htilal
+Orhun YazÄ±tlarÄ±
 Josef Stalin
-ayarsız
+ayarsÄ±z
 Optik
 Bulmak
 Minimum
-Balık
-İşgüzar
+BalÄ±k
+Ä°ÅŸgÃ¼zar
 Farabi
 anorak
-Menisküs
+MeniskÃ¼s
 hazar
 Kola
-Çifte standart
-Şu ayrılık olmasaydı
-yetişim
-Platonik aşk
+Ã‡ifte standart
+Åu ayrÄ±lÄ±k olmasaydÄ±
+yetiÅŸim
+Platonik aÅŸk
 Sinir krizi
 Gazel
 Cihat
-Domates çorbası
+Domates Ã§orbasÄ±
 Cihan
-avantür
-Öküz
+avantÃ¼r
+Ã–kÃ¼z
 Liyakat
 ibadullah
 liberalizm
 Semaver
 Kalp
-güllaç
-yaş hurma
+gÃ¼llaÃ§
+yaÅŸ hurma
 regresyon
 Yobaz
 aha
@@ -3373,20 +3220,20 @@ ihram
 taliban
 Sevmek
 amblems
-Fıkıh
+FÄ±kÄ±h
 gundi
-böğürmek
+bÃ¶ÄŸÃ¼rmek
 Sevgi
 Gibi
-Şanlıurfa
+ÅanlÄ±urfa
 Kene
 Murat Boz
 anormallik
 Nau nau
 Parsel
 zalim
-hünkar beğendi
-Şehit emniyet kuduru
+hÃ¼nkar beÄŸendi
+Åehit emniyet kuduru
 hakan ural
 Naziler
 Ruh
@@ -3395,35 +3242,32 @@ harika
 Semaver
 enes
 Ecel
-fünun
+fÃ¼nun
 Buray
-Yakışıklı
+YakÄ±ÅŸÄ±klÄ±
 Cevahir
-sözel değil
+sÃ¶zel deÄŸil
 Osman Batur
-mükemmel
-74
+mÃ¼kemmel
 Menemen
-25
-tefekkür
-Yakınmak
+tefekkÃ¼r
+YakÄ±nmak
 teravih
 gizli
-44
 medrese
 rusya
 Racon
-aydınlık çağı
-Çakır
-Bu bir kız adı
+aydÄ±nlÄ±k Ã§aÄŸÄ±
+Ã‡akÄ±r
+Bu bir kÄ±z adÄ±
 AlPacino
 Huni
-antlaşma
-Çeyiz
-satürn
-neşretmek
-kerebiç
-Kalın bağırsak
+antlaÅŸma
+Ã‡eyiz
+satÃ¼rn
+neÅŸretmek
+kerebiÃ§
+KalÄ±n baÄŸÄ±rsak
 Odun
 limoncu
 Ulna
@@ -3433,128 +3277,123 @@ Kemal
 milim
 Araba
 Charles Babbage
-Sıla
-Sovyetler Birliği
-sarı
+SÄ±la
+Sovyetler BirliÄŸi
+sarÄ±
 Mustang
 Ayran
 hellim
-Çay ocağı
-Y
-Mahmut Özer
+Ã‡ay ocaÄŸÄ±
+Mahmut Ã–zer
 Dilan
 Bezelye
-dansöz
+dansÃ¶z
 Mustafa
 Takva
 Soda
-Özel eğitim
-🌱
-
+Ã–zel eÄŸitim
+ğŸŒ±
 Bu nedir
-29
 Mor
-Güdül
+GÃ¼dÃ¼l
 refraktometre
 Dalkavuklar Gecesi
 submaksimal
 Bergen
-Latife Hanım
+Latife HanÄ±m
 Fikriye
 Peyami
-Mağrur
+MaÄŸrur
 Lila
-Çorum
-Tesettür
+Ã‡orum
+TesettÃ¼r
 Maymun
 Selim Pusat
 Gri
 bakire
-Çarpılmak
-Röpdeşembır
-Araçların neyi vardır
-Ayakkabı
+Ã‡arpÄ±lmak
+RÃ¶pdeÅŸembÄ±r
+AraÃ§larÄ±n neyi vardÄ±r
+AyakkabÄ±
 Platin
 Galerici
-Kırmızı sert
+KÄ±rmÄ±zÄ± sert
 Aferin
-Sert kırmızı
-Kırmızı sert
-Üzüntü
-Üzüntü
+Sert kÄ±rmÄ±zÄ±
+KÄ±rmÄ±zÄ± sert
+ÃœzÃ¼ntÃ¼
+ÃœzÃ¼ntÃ¼
 Merhaba nasilsiniz
-Çalıkußu
-Elçi
+Ã‡alÄ±kuÃŸu
+ElÃ§i
 majeste
 Kaylule
 Ulu camii
 Emek
 Girdap
-Meblağ
+MeblaÄŸ
 Kara kedi
 Sedat pekmez
 Sedat tahin
 Minimum
-Kapatıcı
+KapatÄ±cÄ±
 Avar
 Duygu
 Anamur
-Saklambaç
+SaklambaÃ§
 Koala
 Avukat
 Enflasyon
-Höşmerim
+HÃ¶ÅŸmerim
 Pvsk
 Ordu
 Hilal
 Bafra
 Noksan
-İnsan
+Ä°nsan
 Porsuk
 Nonsteroidantienflamatuar
-Sarhoş kek e ne denir
-Doğubayazıt
-Beşiktaş
-Baş agrisi
-Polis teşkilatının kuruluş yılı
-Uçuk
+SarhoÅŸ kek e ne denir
+DoÄŸubayazÄ±t
+BeÅŸiktaÅŸ
+BaÅŸ agrisi
 Noksan
-Şampiyon
-Diyarbakır
+Åampiyon
+DiyarbakÄ±r
 Samsun
 Cinsiyetle ilgili
 Cinsiyetle ilgili
 Cinsiyetle ilgili
-Şaka yapmasını seven
+Åaka yapmasÄ±nÄ± seven
 ADIYAMAN
 Ramazan
 35
-Büşra
+BÃ¼ÅŸra
 Kadir
 78
 Astroloji
-Bandırma vapuru
+BandÄ±rma vapuru
 BEYPAZARI
 Hedef
 halel
-Tecrübe
+TecrÃ¼be
 Cent
 Rize
 Q
 Elif
-Şırnak
+ÅÄ±rnak
 Silkilmek
-Muğla
+MuÄŸla
 339
 Berlin
 571
-Çorum
-KIRKLARELİ
-İncir
+Ã‡orum
+KIRKLARELÄ°
+Ä°ncir
 Kartal
 cezeri
-Bartın
-Baldız
+BartÄ±n
+BaldÄ±z
 Bumerang
 Zeynep
 Elma
@@ -3564,40 +3403,40 @@ cephe
 Esmer
 Yara
 Kahve
-İlah
+Ä°lah
 Yaprak sarma
 Ayak
-Cerrahpaşa
-İnsomnia
-Amentü
-Saygı
+CerrahpaÅŸa
+Ä°nsomnia
+AmentÃ¼
+SaygÄ±
 Sekreter
 Bergen
 Sadakatsiz
-Şarkı
-Künefe
-Güneş
+ÅarkÄ±
+KÃ¼nefe
+GÃ¼neÅŸ
 Sahtekar
 Sebep
-Aşık
+AÅŸÄ±k
 Anadolu
-Ölüm
+Ã–lÃ¼m
 Sakal
-Güzel
-Hüzün
+GÃ¼zel
+HÃ¼zÃ¼n
 Kordon
-Çiselemek
-Sıfır
+Ã‡iselemek
+SÄ±fÄ±r
 Portakal
-Gökyüzü
+GÃ¶kyÃ¼zÃ¼
 Nesin
-Mürekkep
+MÃ¼rekkep
 Nesin
 Boyoz
 Susam
-Muş
-Dağılmak
-Tırnak
+MuÅŸ
+DaÄŸÄ±lmak
+TÄ±rnak
 Volkan
 Helin
 Feyyaz
@@ -3607,24 +3446,24 @@ Kara sevda
 kubilay
 istiklal
 izmir
-kazımkarabekir
-Düzce
+kazÄ±mkarabekir
+DÃ¼zce
 Ela
 Fare
-Uğurböceği
-Ayrılık
+UÄŸurbÃ¶ceÄŸi
+AyrÄ±lÄ±k
 lila
 Amasya
 Mor
-Rümeysa
+RÃ¼meysa
 1
 Ordu
-Ç
+Ã‡
 Lacivert
 Damla
 7
 2.mahmut
-Kelepçe
+KelepÃ§e
 Horse
 19
 Red
@@ -3633,7 +3472,7 @@ Serdar
 Hindi
 Dnipro
 27
-Adıyaman
+AdÄ±yaman
 Masa
 676
 Ordu
@@ -3641,167 +3480,167 @@ Geyik
 Jhonny
 57
 tutuklanmak
-Özge
-Özge
+Ã–zge
+Ã–zge
 Semimembranosus
 Tom hanks
-Özge
-Perçinlemek
+Ã–zge
+PerÃ§inlemek
 Nurettin
 Pide
-Özge
-Fırat
+Ã–zge
+FÄ±rat
 CHE
-enfiye çukuru
+enfiye Ã§ukuru
 Trabzonspor
 Hatay
-Gülşah
+GÃ¼lÅŸah
 porsuk
-Hakan Şükür
-Eğim
-Kaplumbağa
+Hakan ÅÃ¼kÃ¼r
+EÄŸim
+KaplumbaÄŸa
 18
 20
 Pirana
-Boğa
-KÖPEK BALIĞI
-Palavracı
+BoÄŸa
+KÃ–PEK BALIÄI
+PalavracÄ±
 Samsun
 Samsun
-Abdülhey
+AbdÃ¼lhey
 Alan
 Laz Ziya
-Baldır
+BaldÄ±r
 46
 Duran emmi
-KİM MİN JAE
+KÄ°M MÄ°N JAE
 Burun
 kokain
-Şinasi
+Åinasi
 bencillik
-Karahanlı
+KarahanlÄ±
 Geyik
 ispanya
 Didaktik
 Kirchoff
 Kulun
 Sefil
-Yenidoğan
-Meçhule giden bir gemi kalkar bu limandan
-Mayıs
+YenidoÄŸan
+MeÃ§hule giden bir gemi kalkar bu limandan
+MayÄ±s
 HALO
-Fenerbahçe
+FenerbahÃ§e
 Istakoz
-Cüzzam
+CÃ¼zzam
 5
-Yanlış bastım nöbetteyim
+YanlÄ±ÅŸ bastÄ±m nÃ¶betteyim
 Ezber
 Leziz
-NİZAMETTİN
-Bükreş
-ığdır
+NÄ°ZAMETTÄ°N
+BÃ¼kreÅŸ
+Ä±ÄŸdÄ±r
 yalan
 Leziz
 Hamile
 Pembe
 Edward Munch
-KORNA NIN DİĞER ADI 🩸🩸🩸🩸🩸
+KORNA NIN DÄ°ÄER ADI ğŸ©¸ğŸ©¸ğŸ©¸ğŸ©¸ğŸ©¸
 Klavicula
 Muz
-Hoş laf
+HoÅŸ laf
 Nida
-Köprü üstü
+KÃ¶prÃ¼ Ã¼stÃ¼
 Erimek
 Zaruri
 Berrak
-Zühre
+ZÃ¼hre
 Anime
-Şeytan
-Ciğer
+Åeytan
+CiÄŸer
 Orcik
 Tong Yabgu
 Lens
 Firkat
 Cif
-Ağrı
-Merdüm
+AÄŸrÄ±
+MerdÃ¼m
 Beyza
 Atilla
 Kedi
 Sahur
-Sıkıcı
-Sançar
-En çok soyulan meslek
+SÄ±kÄ±cÄ±
+SanÃ§ar
+En Ã§ok soyulan meslek
 Kosova
-Ateş
-Gürbulak
+AteÅŸ
+GÃ¼rbulak
 Kupa
 Keklik
 Tekmil
 Amiral
-Aysın
+AysÄ±n
 Balon
 Evet
-cancık
-beşi bir yerde
-Aşure
-Gökhan
+cancÄ±k
+beÅŸi bir yerde
+AÅŸure
+GÃ¶khan
 Ozan
-Çay
+Ã‡ay
 Hayvan
 survivor
 Hayalet
 aysel
-şakayık
+ÅŸakayÄ±k
 Adana
 Ped
 Ped
 Soba
 Kemal Sunal
 87
-adıvar
-İbrahim Tatlıses
-UĞUR
-mareşal
+adÄ±var
+Ä°brahim TatlÄ±ses
+UÄUR
+mareÅŸal
 saltanat
 Ney
 laik
-bakır
+bakÄ±r
 Kertenkule
-Kırmızı ve turuncu karıştırılınca oluşan renk
-bakır
+KÄ±rmÄ±zÄ± ve turuncu karÄ±ÅŸtÄ±rÄ±lÄ±nca oluÅŸan renk
+bakÄ±r
 Prmbe
-Dikaçu
-Uğur
+DikaÃ§u
+UÄŸur
 Kahverengi
-Ötüken
+Ã–tÃ¼ken
 Kahverengi
 Pembe
 77
-Ateş
+AteÅŸ
 Mart
-Öğretmen
+Ã–ÄŸretmen
 Ermenistan
 Varolsun
 Patron
 Botlargereksizaydagerekli
-Başbuğ
+BaÅŸbuÄŸ
 Ekim
 Ekin
 Musab
 Kasa
-Ölüm
+Ã–lÃ¼m
 Caner Kara
 Gece
 Zelal
 769
-Recep Tayyip Erdoğan
+Recep Tayyip ErdoÄŸan
 Memati
 Aborjin
-Iğdır
+IÄŸdÄ±r
 133
 Bismillahirrahmanirrahim
-İletmek
+Ä°letmek
 Kars
 yalova
 Zigon
@@ -3815,73 +3654,73 @@ Cenk
 j
 Leyla
 78
-Südyen
+SÃ¼dyen
 Volkan
 Adolf Hitler
 Sivas
-Göbekli tepe
-Şaban
+GÃ¶bekli tepe
+Åaban
 Gizem
 367
-Abdülhamit han
-İçerde
+AbdÃ¼lhamit han
+Ä°Ã§erde
 Van
 Viski
 31
-Çiselemek
-Ortaç
-Büyüteç
+Ã‡iselemek
+OrtaÃ§
+BÃ¼yÃ¼teÃ§
 Vestiyer
-Rüya
+RÃ¼ya
 yirmi7
 Labirent
 Hicaz
-Böbürlenme
-Gökyüzü
+BÃ¶bÃ¼rlenme
+GÃ¶kyÃ¼zÃ¼
 Benimde
 Yaprak
 43
-Bartın
+BartÄ±n
 Alarm
 Parke
 Ses
 Vietnam
 Boz kurt
-Boş
-Bükreş
-Ateşkes
+BoÅŸ
+BÃ¼kreÅŸ
+AteÅŸkes
 Kerata
 Ajda Pekkan
 Berlin
 Katiyen
 Dingo
-Ğ
+Ä
 Paris
 N
 Geoit
-Üniversite
+Ãœniversite
 Beni seviyor musun
 Selanik
 Amsterdam
 Dikmek
 Bergen
-Çilek
+Ã‡ilek
 Samimi olmayan
-Yapmacık
+YapmacÄ±k
 Atik
 Siyah
 41
 Mutluluk hormonu
-Ağla
-Barış Manço
+AÄŸla
+BarÄ±ÅŸ ManÃ§o
 Pop
 Sagopa Kajmer
 Everest
 Antidepresan
-Şerefsiz
+Åerefsiz
 Bok
-Yeşil
-Ağrı Dağı
+YeÅŸil
+AÄŸrÄ± DaÄŸÄ±
 Dabbe
 Misafir
 Kral
@@ -3909,58 +3748,58 @@ Huri
 Arin
 Pencere
 Hayaller
-Ş
+Å
 profiterol
-🐫
-Köfte
+ğŸ«
+KÃ¶fte
 Hatay
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
-Özge
-Özge
+ğŸ´ó §ó ¢ó ¥ó ®ó §ó ¿
+Ã–zge
+Ã–zge
 Trabzon
 Kuymak
 278
-çinçin
-Bir şehir
-Bir şehir
-Bir şehir
-Bir şehir söyleyin
-Ağustos
+Ã§inÃ§in
+Bir ÅŸehir
+Bir ÅŸehir
+Bir ÅŸehir
+Bir ÅŸehir sÃ¶yleyin
+AÄŸustos
 687
 72
-PENDİK
+PENDÄ°K
 Baytar
-Canlı bir varlığın yapabileceği teknolojik aletler
-🇻🇨
-Ülkü
-🇹🇷
-🇳🇵
+CanlÄ± bir varlÄ±ÄŸÄ±n yapabileceÄŸi teknolojik aletler
+ğŸ‡»ğŸ‡¨
+ÃœlkÃ¼
+ğŸ‡¹ğŸ‡·
+ğŸ‡³ğŸ‡µ
 Franz kafka
-Söylev
+SÃ¶ylev
 Sanga
 Sayga
 Lahmacun
-Mücahit
-Mübrem
+MÃ¼cahit
+MÃ¼brem
 Malatya
-Lisanın lakabı
+LisanÄ±n lakabÄ±
 Bot bozan
 Naboland
 Kelebek
-Kömək
+KÃ¶mÉ™k
 1
 Dilhun
 Laubali
 ADANA KEBAP
 Murat
 Efdal
-Â
+Ã‚
 Orhan Gencebay
 Hemdem
 Edilgen
 Zevahir
 Leblebi
-Kaşar
+KaÅŸar
 Ketum
 68
 Rupo
@@ -3970,59 +3809,59 @@ Piri reis
 Su
 Azami
 Kavim
-İnşirah
+Ä°nÅŸirah
 Overlok
 Granit
 Kalimba
-Başlangıç
-Başlangıç
-Âvâre
-cennet çamuru
+BaÅŸlangÄ±Ã§
+BaÅŸlangÄ±Ã§
+Ã‚vÃ¢re
+cennet Ã§amuru
 Tezat
-Mağdur
-Zümer
+MaÄŸdur
+ZÃ¼mer
 Eflatun
 Yaprak
 Kripto
-Kaç cm seyin
-Sıla
+KaÃ§ cm seyin
+SÄ±la
 Police
 F
 pizza
-İftara
+Ä°ftara
 ayak
 harika
-Şövalye
+ÅÃ¶valye
 16
-💞
+ğŸ’
 sedrik
 En uzun hayvan
 kimseyi
 panda
 dua lipa
 trip
-Frankenstein Canavarı
+Frankenstein CanavarÄ±
 prenses
 mahvoldum
 beyin
-alt üst olmuşum
+alt Ã¼st olmuÅŸum
 Gestapo
 uyumak
-sıkılırsın
+sÄ±kÄ±lÄ±rsÄ±n
 Efor
-eğlenceli
+eÄŸlenceli
 Merve
 Ayna
-Şırnak
-Mücerred
+ÅÄ±rnak
+MÃ¼cerred
 panoramaa
 panorama
 Zaza
-İlete
+Ä°lete
 Ulefe
 Keskin
 1
-Çimento
+Ã‡imento
 Menemen
 Kuyu
 Ronida
@@ -4031,73 +3870,73 @@ Uzay
 Kelle
 Mahya
 Poyraz
-Uğur
+UÄŸur
 Ajda Pekkan
 /stat@combot
 Silgi
-Künefe
-Ağ bağlantısı
+KÃ¼nefe
+AÄŸ baÄŸlantÄ±sÄ±
 Divit
-İftar
+Ä°ftar
 Panda
 Hangar
 Minder
 Mala
 isfahan
-Kutup ayısı
+Kutup ayÄ±sÄ±
 cor
 Kova
 Fantazi
 Angara
-Bandıl
-Gösteriş
+BandÄ±l
+GÃ¶steriÅŸ
 5
 Ofsayt
-İçlik
+Ä°Ã§lik
 Hibe
-Çiçek
+Ã‡iÃ§ek
 Tundrs
 Tundra
-Yıldız tilbe
+YÄ±ldÄ±z tilbe
 Merhaba
 Hesap
 Erzak
 Madagaskar
 Pilot
 El Salvador
-Alparslan Türkeş
-Gönder
-Muhabbet kuşu
+Alparslan TÃ¼rkeÅŸ
+GÃ¶nder
+Muhabbet kuÅŸu
 36
 3t
 thelo
 Veliaht
-İmam hatipler kapatılsın
-Kore'nin başkenti
-Çimento
+Ä°mam hatipler kapatÄ±lsÄ±n
+Kore'nin baÅŸkenti
+Ã‡imento
 Stepme
 Stepne
 seri
-Kırbaç
+KÄ±rbaÃ§
 thelo
-Bilmem ne keçi derler
+Bilmem ne keÃ§i derler
 Akbaba
 Zenci
 Zemzeme
-Özlem
+Ã–zlem
 Bando
-Sergüzeşt
-Akraba evliliği
-Madımak olayı kaç yılında oldu
-Hayatta umut edip te değiştirmeyi umduğumuz şeyler  😉🙄
-Muhabbet kuşu
+SergÃ¼zeÅŸt
+Akraba evliliÄŸi
+MadÄ±mak olayÄ± kaÃ§ yÄ±lÄ±nda oldu
+Hayatta umut edip te deÄŸiÅŸtirmeyi umduÄŸumuz ÅŸeyler  ğŸ˜‰ğŸ™„
+Muhabbet kuÅŸu
 Britanya
-Uçak
+UÃ§ak
 Defter
 Pakt
 FIFA
 Avustralya
-Maliye Bakanı
+Maliye BakanÄ±
 Balkon
 Toprak
 Avam
@@ -4105,22 +3944,22 @@ Endonezya
 Yoyo
 Kamelya
 Nutuk
-Karakoçan
-Recep Tayyip Erdoğan
+KarakoÃ§an
+Recep Tayyip ErdoÄŸan
 Gelmez
-Kürt
+KÃ¼rt
 39
 Haymana
-Fransız
+FransÄ±z
 Katolik
-Ampül
+AmpÃ¼l
 Deniz
 Mal soner
 Heval
-Eşşek
+EÅŸÅŸek
 Terlik
 Teravih
-Çıkar göster
+Ã‡Ä±kar gÃ¶ster
 67
 Lahana
 F
@@ -4128,32 +3967,32 @@ Red kit
 Zengin koca
 Nemrut
 Musevilik
-Osman Paşa
+Osman PaÅŸa
 dengbej
 Plevne
-Cebelitarık
-En büyük rütbe
-Mareşal
-Ebesinin nikahı
-Bileşke
+CebelitarÄ±k
+En bÃ¼yÃ¼k rÃ¼tbe
+MareÅŸal
+Ebesinin nikahÄ±
+BileÅŸke
 Feto
 Kedicikler
 Mesi
-Muş
+MuÅŸ
 Parodi
 Kahraman
 Megalosaurus
 Tiha
 Helsinki
 Malezya
-Gökçe. Hocanın yaşı kaçç
+GÃ¶kÃ§e. HocanÄ±n yaÅŸÄ± kaÃ§Ã§
 Somali
 Kim
 Kara mizah
 299
 Kartal
 Deli
-Bingöl
+BingÃ¶l
 Bordo
 Seni seviyorum
 ekenek
@@ -4161,13 +4000,13 @@ lahana
 5
 itenek
 verd
-Uzaylı
+UzaylÄ±
 Aycan
 Bebek
 hissikablelvuku
-Çin
-kıranta
-İnek
+Ã‡in
+kÄ±ranta
+Ä°nek
 Sen
 Beygir
 nadan
@@ -4175,13 +4014,13 @@ Merve
 Avakado
 Akif abi
 Samsun
-Zeki müren
+Zeki mÃ¼ren
 Merve
 66
-Çatı
-Ağzımı aç
-Hızma
-Ağzımı aç
+Ã‡atÄ±
+AÄŸzÄ±mÄ± aÃ§
+HÄ±zma
+AÄŸzÄ±mÄ± aÃ§
 Ananas
 Alex
 Aykut
@@ -4194,174 +4033,174 @@ Musakka
 Makao
 Efes
 Viski
-Çakal
+Ã‡akal
 Ahtapot
 330
 Cennet mahallesi
 Cansu
-Sakız
+SakÄ±z
 Kronos
 Hamam
-Mantı
-Şeftali
+MantÄ±
+Åeftali
 Verem
 Volvo
 Belataguse
 ceket
 Keder
-Başbuğ
+BaÅŸbuÄŸ
 Estetik
-İkram
-Sarı
+Ä°kram
+SarÄ±
 Holi festivali
-Uludağ
-Jöle
+UludaÄŸ
+JÃ¶le
 Ekinoks
 Isparta
 Vampirr
 Dabbe
 Sadi
 Anakondo
-Gümüşhane
+GÃ¼mÃ¼ÅŸhane
 Avukat
-başkanlık
+baÅŸkanlÄ±k
 %150
 91
 Toros
-Başkurt
+BaÅŸkurt
 Hitit
 papatya
 Engellemek
 Reklam
-İnsanlık kaç yıl önce başladı dünyada
+Ä°nsanlÄ±k kaÃ§ yÄ±l Ã¶nce baÅŸladÄ± dÃ¼nyada
 200.000
 Silah
 Girit
 Always
 Merhaba
 Pastafaryanizm
-Yargı
-Kayınço
+YargÄ±
+KayÄ±nÃ§o
 Averaj
 KGB
 yaralasar
-Emniyet kemerinin ilk kullanan araç
+Emniyet kemerinin ilk kullanan araÃ§
 Mal ryuu
-dümbeleğilordu
+dÃ¼mbeleÄŸilordu
 Pele
-Ç
+Ã‡
 Mahkum
-Ülkemizde balık çeşitinin en çok olduğu bölge
-Çam
-Türkiye nin en tuzlu denizi
+Ãœlkemizde balÄ±k Ã§eÅŸitinin en Ã§ok olduÄŸu bÃ¶lge
+Ã‡am
+TÃ¼rkiye nin en tuzlu denizi
 gazap
 siyaset
 Heves
 Ekonomist
-2. Osmanlı padişahı kimdir?
+2. OsmanlÄ± padiÅŸahÄ± kimdir?
 Cevap orhan bey
-Barış
+BarÄ±ÅŸ
 Kabartma tozu
-Şili
+Åili
 Fatiha
-Huşu
+HuÅŸu
 Zeynam
 krampon
 Pisagor
 Akhenaton
-Japonya ya atlan atom bombasının ismi
+Japonya ya atlan atom bombasÄ±nÄ±n ismi
 Akraba
 Metallica
-Muş
+MuÅŸ
 Pars
 Selma
-Kübra
-Şiire gazele
+KÃ¼bra
+Åiire gazele
 Asit
-Şiire gazele kimin eseridir
+Åiire gazele kimin eseridir
 Mozambik
 Frontal
 Femur
 Faiz
-Ş
+Å
 Kalp
-şehremini
+ÅŸehremini
 optik form
-Diyarbakır
+DiyarbakÄ±r
 Adana
-KKTC'nin ikinci cumhurbaşkanı
+KKTC'nin ikinci cumhurbaÅŸkanÄ±
 Afrodizyak
-...leri yarıştırmak neye yarar aklını karıştırmaktan başka
+...leri yarÄ±ÅŸtÄ±rmak neye yarar aklÄ±nÄ± karÄ±ÅŸtÄ±rmaktan baÅŸka
 Coroner damarlar
 Kifoz
-İtt.... Devletleri
-Kürşad
+Ä°tt.... Devletleri
+KÃ¼rÅŸad
 Aybeg
-Doğalgaz
-Aşk
+DoÄŸalgaz
+AÅŸk
 Tulpar
-Muhammed akşit
-Para napılır
+Muhammed akÅŸit
+Para napÄ±lÄ±r
 Lolipop
 cihazat
 Salih bozok
 Naciye
-Şanlıurfa
-Büşra
+ÅanlÄ±urfa
+BÃ¼ÅŸra
 Kayra Han
 Budun
 Fuzuli
-🇮🇹
+ğŸ‡®ğŸ‡¹
 Gratis
 Hrr
 Yakup Cemil
 Fatiha
 Seher
-Şili
-Random güzeli
-vaşak
+Åili
+Random gÃ¼zeli
+vaÅŸak
 kaplan
 Lenin
-İsrail
+Ä°srail
 Alman
 10
 brokoli
-vaşak
+vaÅŸak
 Platonik
 Fatma
 Mardin
 Erlik Han
 alecranon
 Marangozluk
-balıkesir
-muhteşem
-Plevne marşı
+balÄ±kesir
+muhteÅŸem
+Plevne marÅŸÄ±
 Pozitif evre
-Fahreddin paşa
-Ömer muhtar
+Fahreddin paÅŸa
+Ã–mer muhtar
 Haya
-Sovyetler Birliği
+Sovyetler BirliÄŸi
 Musul
-Teodor Herzıl
+Teodor HerzÄ±l
 Mete Han
 Bahar
 moon
 Versay
-Darülerkam
-zümre
+DarÃ¼lerkam
+zÃ¼mre
 Bimar
-Bumin Kağan
+Bumin KaÄŸan
 Riba
-Şahabettin Sühreverdi
-Devşirme
-Şah İsmail
+Åahabettin SÃ¼hreverdi
+DevÅŸirme
+Åah Ä°smail
 Ordu
-İ
+Ä°
 Kivi
 Etsote
-Meşrutiyet
+MeÅŸrutiyet
 31 Mart
-Anayasal monarşi
+Anayasal monarÅŸi
 999
 Bira
 Sigara
@@ -4369,25 +4208,25 @@ Yarbay
 R
 Vites
 Ayna
-Yüzde
+YÃ¼zde
 Mana
-Hafız
+HafÄ±z
 3
 Hilal
 Erkek
-Yoğurt
+YoÄŸurt
 87
 Yok ya
 U
-Dansöz
+DansÃ¶z
 C
 Latife
-Yağmuş
+YaÄŸmuÅŸ
 P
-Kaan Tangöze
+Kaan TangÃ¶ze
 Miralay
 1
-Tütün
+TÃ¼tÃ¼n
 Su
 Hurma
 Su
@@ -4396,52 +4235,52 @@ Su
 Hurma
 Su
 Pide
-Dıgıdık
+DÄ±gÄ±dÄ±k
 Alican
 Veli
 Q
 0
-Yusufçuk
+YusufÃ§uk
 Oo
 Kalem
 Ban
 Ela
 Piyade
-Güvercin
+GÃ¼vercin
 C
 Madam
-Güllaç
-Uğur
+GÃ¼llaÃ§
+UÄŸur
 O
-Döşek
+DÃ¶ÅŸek
 Sincap
 Bal
 Orangutan
 U
-Çalkalamak
+Ã‡alkalamak
 Bayrak
 Dalin
-Buğday
+BuÄŸday
 Olta
 Bim
 Uzay
-Cırcır
+CÄ±rcÄ±r
 Laf
 Orman
-Düğünde
+DÃ¼ÄŸÃ¼nde
 Anlabeni
 Yarbende
 Ordunun
 Orhan
 Mahkum
-İrem
+Ä°rem
 Puma
-İrem
+Ä°rem
 Hilal
-Yağmur
+YaÄŸmur
 X
 Selami
-İmsak
+Ä°msak
 Cezayir
 Trabzon
 Bodrum
@@ -4457,55 +4296,55 @@ Hazar
 Havva
 yel
 Ahtapot
-İlyas hocam soru yazdım Şimdi anlatmam mı gerekiyor
+Ä°lyas hocam soru yazdÄ±m Åimdi anlatmam mÄ± gerekiyor
 Ahtapot
-Konya'nın meşhur yiyeceği
+Konya'nÄ±n meÅŸhur yiyeceÄŸi
 Afet
 Su
-Kelime türetme oyunu daha zevkli bence :)
+Kelime tÃ¼retme oyunu daha zevkli bence :)
 Harabe
 Berlin
 Duvar saati
 Reis
 ERCAN
-Yağmur
+YaÄŸmur
 Makyaj malzemesi
 Alya
 Kanat
-Satranç terimi
+SatranÃ§ terimi
 Pastafaryanizm
-Yurt dışı
+Yurt dÄ±ÅŸÄ±
 31
-Arkadaş
+ArkadaÅŸ
 52
-Kardeş
+KardeÅŸ
 Timsah
 Yavuz Sultan selim
-Ağrı
+AÄŸrÄ±
 As hg
-Pastırmalı kuru fasulye
-Yağmur
+PastÄ±rmalÄ± kuru fasulye
+YaÄŸmur
 Metraj
 Katyon
-İslam
-İslam'ın İlk şehidi
-52 katlı bina hangi ilimizdedir?
+Ä°slam
+Ä°slam'Ä±n Ä°lk ÅŸehidi
+52 katlÄ± bina hangi ilimizdedir?
 99
-Tümgeneral
+TÃ¼mgeneral
 31 Mart
-Kür şad
+KÃ¼r ÅŸad
 Kars
 Yavuz Sultan Selim
-Mükremin
-Alparslan Türkeş
+MÃ¼kremin
+Alparslan TÃ¼rkeÅŸ
 Ananas
 58
 Dondurma
 Nitrojen
 Musollini
-Ağlamak
-Her ilin şunu bunu ne deriz ?
-İrem
+AÄŸlamak
+Her ilin ÅŸunu bunu ne deriz ?
+Ä°rem
 Mahmut Tuncer
 Kahve
 Makbule
@@ -4516,52 +4355,52 @@ belki
 Yakamoz
 inmek
 TTK
-Rüya
+RÃ¼ya
 Tas
 Zindan
-Fenerbahçe
+FenerbahÃ§e
 Myanmar
-Ah bir ateş ver cigaramı yakayım, sen sallan gel ben x a bakayım
+Ah bir ateÅŸ ver cigaramÄ± yakayÄ±m, sen sallan gel ben x a bakayÄ±m
 Boyun
 Paravan
 Haya
 Fatih Sultan Mehmet
 Gizemli
 Y
-Turist Ömer
-BAŞKENTİ OTTOWA OLAN ÜLKENİN İSMİ ⁉️⁉️⁉️⁉️
+Turist Ã–mer
+BAÅKENTÄ° OTTOWA OLAN ÃœLKENÄ°N Ä°SMÄ° â‰ï¸â‰ï¸â‰ï¸â‰ï¸
 Kolsuz
 4.murat
-İtalya
-Boğa
+Ä°talya
+BoÄŸa
 Zehra
-Aşk
-çözücü
-Gül
+AÅŸk
+Ã§Ã¶zÃ¼cÃ¼
+GÃ¼l
 Bikinisinde astronomi
 Marka
-Marslı
-Et yemeği genel ismi arapca
+MarslÄ±
+Et yemeÄŸi genel ismi arapca
 Kebab
-Çorum
+Ã‡orum
 Bursa
 Hariciye
-Ajda Pekkan kaç yaşında
+Ajda Pekkan kaÃ§ yaÅŸÄ±nda
 Merve
 Delilo
 Menzeher
-Çin
-İftar
+Ã‡in
+Ä°ftar
 Kenan evren
-Şey
+Åey
 Fatma
 Nidas
 Batuhan
 Midas
 melek
 Fatih Sultan Mehmet
-İskitler
-Şeytan
+Ä°skitler
+Åeytan
 Protestan
 vatan
 Palamut
@@ -4571,18 +4410,18 @@ Sirayet
 Laktoz
 Hemdert
 Elektrik
-Muâşaka
+MuÃ¢ÅŸaka
 Dejavu
-El âlem
+El Ã¢lem
 Firdevs
 Hidrojen
-Kadın
+KadÄ±n
 Arabada olur
 Muamma
 Eyeliner
 kaymak
-Balıkçılar çok kullanır canlı ve t
-Bakırköy
+BalÄ±kÃ§Ä±lar Ã§ok kullanÄ±r canlÄ± ve t
+BakÄ±rkÃ¶y
 Zor
 Evet
 30000
@@ -4592,11 +4431,11 @@ takriben
 taksirat
 Cemaat
 Kezban
-Sik kafalı
-güllaç
-Sümük
+Sik kafalÄ±
+gÃ¼llaÃ§
+SÃ¼mÃ¼k
 Papatya
-Fırat
+FÄ±rat
 Lavanta
 Vatikan
 Mutlak
@@ -4604,23 +4443,23 @@ Kaisersoze
 Gambiya
 Pancar
 Barbados
-Büyük İskender
-sisveöfkesarayı
+BÃ¼yÃ¼k Ä°skender
+sisveÃ¶fkesarayÄ±
 Sakarya
 Koyunhisar
-ısırganotu çorbası
+Ä±sÄ±rganotu Ã§orbasÄ±
 Recaizade Mahmut Ekrem
 52
 Balkon
 Lamba
 beyti
-imamın sarığı
+imamÄ±n sarÄ±ÄŸÄ±
 kedi patisi
-maçakızı8
+maÃ§akÄ±zÄ±8
 3t
-Çello
+Ã‡ello
 Damla
-hanım göbeği
+hanÄ±m gÃ¶beÄŸi
 aglet
 Film izlenir
 Kendimden hallice
@@ -4632,176 +4471,176 @@ Sikke
 hexagon
 holding
 Teoman
-sütliman
+sÃ¼tliman
 Reddit
 40
 persephone
-Ampül
-Recep Tayyip Erdoğan
+AmpÃ¼l
+Recep Tayyip ErdoÄŸan
 Ahtapot
 Kedi
 Danino
 Suriye
-İnönü
+Ä°nÃ¶nÃ¼
 Ali bilir
 Cahil halk partisi
 Mutluga Sarcaios
 Matilda
 Anason
-Çaldıran
-Hafız Gamze
+Ã‡aldÄ±ran
+HafÄ±z Gamze
 Kayseri
 0
-akıtma
-İsim
+akÄ±tma
+Ä°sim
 Zincir
 Efendim
 Tomris
 Efendim
 Efendim
-Ötanazi okulu
-süper
-Boş bedenler
-Adıyaman
+Ã–tanazi okulu
+sÃ¼per
+BoÅŸ bedenler
+AdÄ±yaman
 Teravih
 A-101
 Kerhane
 Burjuva
 andrew
-Bahçeli
-Eşşek
-şefkat
+BahÃ§eli
+EÅŸÅŸek
+ÅŸefkat
 beynelminel
 Athena
-Yumurtalık
+YumurtalÄ±k
 Armutlu
 Keriz
 Kalimba
 tinsel
-muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine
-Namık Kemal
+muvaffakiyetsizleÅŸtiricileÅŸtiriveremeyebileceklerimizdenmiÅŸsinizcesine
+NamÄ±k Kemal
 No way home
 Korgan
 riyaset
 Gariban
 lethe
-Ayy bende erzurumluyum İzmir'de yaşıyorumm
+Ayy bende erzurumluyum Ä°zmir'de yaÅŸÄ±yorumm
 Kalem
 Kumkuat
 Beden
-Kıpçaklar
+KÄ±pÃ§aklar
 Uyumak
 Samanyolu
-Ketçap
-altmışbir
+KetÃ§ap
+altmÄ±ÅŸbir
 Safir
-Kudüs
+KudÃ¼s
 Eksik
 Aslan
 Kahve
 Yulaf
 Saat
-İntihar
+Ä°ntihar
 Oje
-İlk Osmanlı halifesi
+Ä°lk OsmanlÄ± halifesi
 Konya
 87
 Martin Luther
-Sözlükte
+SÃ¶zlÃ¼kte
 Metanet
 Makber
 Emoji
-Bir şehir söyleyin
-İrem
+Bir ÅŸehir sÃ¶yleyin
+Ä°rem
 Kavun
-Bir şehir söyleyin
-Şehir
+Bir ÅŸehir sÃ¶yleyin
+Åehir
 Nevresim
 1024
 Usman
 Koma
 Radyo sinyalleri
-Sırbistan
+SÄ±rbistan
 Zigon
 53
 baba
 Kahve
-Akraba evliliği
+Akraba evliliÄŸi
 Kavanoz
-Memati baş
+Memati baÅŸ
 Bahar
 Bitkisel
-Cüce olmayan
-Doğarkenağladıinsan
-Şalvar
+CÃ¼ce olmayan
+DoÄŸarkenaÄŸladÄ±insan
+Åalvar
 Sokrates
 Hokey
 Fransa
 Fermuar
 Yaramaz
-Ampül
+AmpÃ¼l
 Kurt
-Mıncıklamak
-14 Ağustos 1945
+MÄ±ncÄ±klamak
+14 AÄŸustos 1945
 Libya
 Efendim
-Sevişmek
-Çörekotu
+SeviÅŸmek
+Ã‡Ã¶rekotu
 Trajedi
 Tufan
 Aristo
-Gökhan
+GÃ¶khan
 Beril
-Azer bülbül
+Azer bÃ¼lbÃ¼l
 Felfena
 Efendim
-Muhabbet kuşu
+Muhabbet kuÅŸu
 Amerika
 299
 299
-Hatice'nin mesleği ne
+Hatice'nin mesleÄŸi ne
 Avustralya
 Kasaba
 Bel
-Cızırtı
+CÄ±zÄ±rtÄ±
 Paulo Coelho
 Hatice
-Hemşire
+HemÅŸire
 cik
-Boğaziçi
+BoÄŸaziÃ§i
 1415
-Zıbın
-Sabırlı
+ZÄ±bÄ±n
+SabÄ±rlÄ±
 Maydanoz
 seri
 supra
 Yarbay
 877
-Çaycı
-İki yüz elli
+Ã‡aycÄ±
+Ä°ki yÃ¼z elli
 Vaso
 mesele
 menhiyat
 Karamazov
-Yangın
+YangÄ±n
 seri
 Atik
 Gagarin
 Paralel evren
-Alininzekası
+AlininzekasÄ±
 Vespucci
 Sanayi
 iskender
 Thomas More
-Yeğen
-Çernobil
-Baskıcı
+YeÄŸen
+Ã‡ernobil
+BaskÄ±cÄ±
 Aikido
 Kelek
 Miting
 Salak
 Zoraki
-çoğunlukçu
+Ã§oÄŸunlukÃ§u
 Zeki
 Salak
 beyin
@@ -4809,97 +4648,97 @@ RTE
 Osiris
 Kolpa
 Kutsal Damacana
-Çikolata fabrikası
+Ã‡ikolata fabrikasÄ±
 Dikkat
 Ateist
 mesele
 Dehhak
-Zürafa
+ZÃ¼rafa
 Zeka dolu helin
 Johann Wolfgang von Goethe
-Yaratıcılık
-İndirim
-Bırçi
-Santranç
+YaratÄ±cÄ±lÄ±k
+Ä°ndirim
+BÄ±rÃ§i
+SantranÃ§
 Bellek
 Sitem
 Passat
-zümrüdüanka
+zÃ¼mrÃ¼dÃ¼anka
 Kimyon
 Kalp
 istirahat
 Dipper
 tablo
 feylesof
-Adım yok
+AdÄ±m yok
 Fatiha
 sonuncu
 Lavin
-Nası yazcaz
+NasÄ± yazcaz
 Pakistan
-At kafası
+At kafasÄ±
 Yusuf
-Fenerbahçe
+FenerbahÃ§e
 Okspital
-Nazım
+NazÄ±m
 senet
-flört
+flÃ¶rt
 File
 Karam
 Oturmak
 Nokta
-Savaşmak
+SavaÅŸmak
 Kars
-E beni bota yönlendiriyo bence siz sorun
-Ocean Zırhlısı
-Kraliyet Şövalyesi
-İnsanoğlu
+E beni bota yÃ¶nlendiriyo bence siz sorun
+Ocean ZÄ±rhlÄ±sÄ±
+Kraliyet ÅÃ¶valyesi
+Ä°nsanoÄŸlu
 Necla
 Darbe
 Ayak
 ergenekon
 Ali Sami yen
 Turan
-Çalıştı
-Yürüme
+Ã‡alÄ±ÅŸtÄ±
+YÃ¼rÃ¼me
 Burdur
 Rimel
-Bir idam mahkumunun son günü
+Bir idam mahkumunun son gÃ¼nÃ¼
 fatih
 Depresyon
 Anne
-Recep Tayyip Erdoğan
+Recep Tayyip ErdoÄŸan
 1914
 Ahmet Kaya
-Yılmaz Güney
+YÄ±lmaz GÃ¼ney
 Jandarma
 Cu
-çakır
-Güneşi gördüm
-Sanık
-Ferhat Tunç
+Ã§akÄ±r
+GÃ¼neÅŸi gÃ¶rdÃ¼m
+SanÄ±k
+Ferhat TunÃ§
 Bu bir meyve?
 Puro
 Birinci Ahmet
-Nötron yıldızı
+NÃ¶tron yÄ±ldÄ±zÄ±
 Interpol
 Senet
 90
 FantA
-Özçekim
+Ã–zÃ§ekim
 Ebubekir
-Nisan ayı
-Arda’nın en sevdiği rakam ?
-Askerlerin kullandığı araç
-Arda’nın yaşı kaç ?
-Sıla
-Yeraltı
+Nisan ayÄ±
+Ardaâ€™nÄ±n en sevdiÄŸi rakam ?
+Askerlerin kullandÄ±ÄŸÄ± araÃ§
+Ardaâ€™nÄ±n yaÅŸÄ± kaÃ§ ?
+SÄ±la
+YeraltÄ±
 Pearl harbor
 610
 .d
-İslam
-ASPİRATÖR
-Yalta konferansı
+Ä°slam
+ASPÄ°RATÃ–R
+Yalta konferansÄ±
 Kafir
 Kubilay
 Kahve
@@ -4911,64 +4750,64 @@ Allahfobi
 mor
 Kahve
 278
-Düşmanlık
+DÃ¼ÅŸmanlÄ±k
 Husumet
 konya
 Postit
-Nihat Hatipoğlu
+Nihat HatipoÄŸlu
 Morgana
-Aykırı
-Dumlupınar
-Heh birine acıma duygusyna sahip
+AykÄ±rÄ±
+DumlupÄ±nar
+Heh birine acÄ±ma duygusyna sahip
 Marsupilami
 Botoks
 Eminem
 Defolu
 Ordu
-Yastık
-Sümbül
+YastÄ±k
+SÃ¼mbÃ¼l
 Kordon
 Nimet
 Olmuyo
 Dondu
-Şimdi
+Åimdi
 Possot
-Üretmek
+Ãœretmek
 Cin Ali
 Cin biber
-Mor ve kırmızı rengin karışımı
+Mor ve kÄ±rmÄ±zÄ± rengin karÄ±ÅŸÄ±mÄ±
 Islak kek
 kibir
-Kalaycı
+KalaycÄ±
 Heraklitos
 Mami
 Buse
-Midasınkulakları
-Çinli
+MidasÄ±nkulaklarÄ±
+Ã‡inli
 Ankara
 Afferim
-Şükür
-Diyarbakır
+ÅÃ¼kÃ¼r
+DiyarbakÄ±r
 Zerdali
 Melek
 Klima
 Susamak
 Bitlis
 Gafil
-Ye iç yat
-Varşova
-En duygusal burç
-Mütevellit
+Ye iÃ§ yat
+VarÅŸova
+En duygusal burÃ§
+MÃ¼tevellit
 Hususi
-İzlemek
-En duygusal burç
-İfşa
-Vahçet
-Vahşet
-Şerefe
+Ä°zlemek
+En duygusal burÃ§
+Ä°fÅŸa
+VahÃ§et
+VahÅŸet
+Åerefe
 Bant
 Sinirli
-Ya bırak ya
+Ya bÄ±rak ya
 Ejderha
 Suzuki
 Freud
@@ -4977,27 +4816,27 @@ Kara
 As
 As
 Sa
-Selamünaleyküm
-müfekkir
+SelamÃ¼naleykÃ¼m
+mÃ¼fekkir
 0
-Yağmur
+YaÄŸmur
 manas
 Yozgat
 Patates
 Mandal
-Kokoreç
+KokoreÃ§
 Malatya
 1453
 1071
-Beşik
-Anneyle özdeşleşen
+BeÅŸik
+Anneyle Ã¶zdeÅŸleÅŸen
 Tantuni
-Özgecan aslan
+Ã–zgecan aslan
 Litre
 Farz
-Çakmak
+Ã‡akmak
 Adilcevaz
-Aşure
+AÅŸure
 Kahve
 Berrak
 389
@@ -5005,92 +4844,92 @@ Formal
 Gezmek
 Kalp
 Enkaz
-Çağ
-lübnan
+Ã‡aÄŸ
+lÃ¼bnan
 Nuray
-.... almanyası
+.... almanyasÄ±
 nazi
-Merkeziyetçilik
+MerkeziyetÃ§ilik
 Yaprak
 Atalet
 D
 Klor
 Obruk
 altimetre
-Söylev
+SÃ¶ylev
 Selin
-şeker
-danayır
+ÅŸeker
+danayÄ±r
 Ercan
 Q
-At hırsızı
+At hÄ±rsÄ±zÄ±
 kerim
 Karat
 Peru
-Zürafa
+ZÃ¼rafa
 Kemik
-Eyşan
+EyÅŸan
 Hakkari
-Üzgün degil
-Üzgün
-Arpacık
+ÃœzgÃ¼n degil
+ÃœzgÃ¼n
+ArpacÄ±k
 Y
 Cesur
-Kahramanmaraş
+KahramanmaraÅŸ
 Kapital
 Sucre
 Fil
-Arpacık
+ArpacÄ±k
 Kavite
 Oyun
-Güvercin
+GÃ¼vercin
 Pink floyd
 Toprak
-Sıfır
-Ayşe
-Fazıl Say
-Çimento
+SÄ±fÄ±r
+AyÅŸe
+FazÄ±l Say
+Ã‡imento
 Affetmek
-Z£¥N£P kelime  oyununa gelin
+ZÂ£Â¥NÂ£P kelime  oyununa gelin
 Meme
 Van
 Kanarya
-Mantı
+MantÄ±
 Din
 Eda
-Güneydoğu
+GÃ¼neydoÄŸu
 Elma
 99
-deveyi diken insanı
+deveyi diken insanÄ±
 Meksika
-istiklal marşı yazarı kimdir
-İstiklal marşı yazarı kimdir?
+istiklal marÅŸÄ± yazarÄ± kimdir
+Ä°stiklal marÅŸÄ± yazarÄ± kimdir?
 68
-Bi eğlence turu brezilya.....
+Bi eÄŸlence turu brezilya.....
 Kanuni
 Azerbaycan
-Tunç
-Saçma
-Kızılay
+TunÃ§
+SaÃ§ma
+KÄ±zÄ±lay
 Cenk
 Volkan
 soru
-19 Mayıs
+19 MayÄ±s
 silivri
 Tayt
-İskendername
-Koray Avcı
+Ä°skendername
+Koray AvcÄ±
 Kocaeli
 Sadakat
 Ayran
 Sanat
 Elif
-Mantı
-Bıyık
-Arpacık
-Tebeşir
-Betül
-Çakır
+MantÄ±
+BÄ±yÄ±k
+ArpacÄ±k
+TebeÅŸir
+BetÃ¼l
+Ã‡akÄ±r
 Fragman
 malatya
 Seksi
@@ -5101,43 +4940,43 @@ Saddam
 Karamel
 Ekonomist
 52
-Mantı
-Diyarbakır
-Çelik
+MantÄ±
+DiyarbakÄ±r
+Ã‡elik
 Nutuk
 Garson
-tatlı
+tatlÄ±
 Bedava
 Vuslat
-Kötü
+KÃ¶tÃ¼
 Belucistan
-üzgün
-mervenin 10 saatte çekemediği şeu
+Ã¼zgÃ¼n
+mervenin 10 saatte Ã§ekemediÄŸi ÅŸeu
 Bornoz
 Volkan
 soru
 Entrika
-bücür
-Qazi Muhammed bir nedir 😂
+bÃ¼cÃ¼r
+Qazi Muhammed bir nedir ğŸ˜‚
 Uykum var
 koza
-Peştunca
+PeÅŸtunca
 Ram
 .
 livasendromu
-tatlı
-İtina
+tatlÄ±
+Ä°tina
 limasendromu
 ihtisas
 Vichy
-Kalmıkya cumhuriyeti
-Şeytan
-AŞK
+KalmÄ±kya cumhuriyeti
+Åeytan
+AÅK
 dayak
-Kalmıkya cumhuriyeti
+KalmÄ±kya cumhuriyeti
 Kansas
 Kuzen
-Irak'ta bir şehir ismi
+Irak'ta bir ÅŸehir ismi
 Erbil
 su
 uzman
@@ -5146,165 +4985,163 @@ Kent
 Tmm
 salak
 Riyad
-Kötü kalpli
-🇩🇰
+KÃ¶tÃ¼ kalpli
+ğŸ‡©ğŸ‡°
 sevgili
-Bakırcı
+BakÄ±rcÄ±
 Caban El Kurd
 Fare
 Kimse
 Nefertiti
 Med
-Ön beyin
-Rüstem Zal
-köle
+Ã–n beyin
+RÃ¼stem Zal
+kÃ¶le
 MehDen
 Nefret
-kendini beğenmiş
-Çin alfabesi
-Ahmet Davutoğlu
+kendini beÄŸenmiÅŸ
+Ã‡in alfabesi
+Ahmet DavutoÄŸlu
 Elif
 Krem
-Bir tür tatlı
+Bir tÃ¼r tatlÄ±
 Kastamonu
-Mülga
+MÃ¼lga
 Silecek
-🦋
+ğŸ¦‹
 Mardin
 pasta
 Baran
-Fen edebiyat bölümü
+Fen edebiyat bÃ¶lÃ¼mÃ¼
 Skala
 Bengalca
 lens
 Soymak
-Düzce
+DÃ¼zce
 622
 Matematik
 enaktar
 Kemik
-2¹⁴
+2Â¹â´
 Mektep
 Bala
 Memati
-TEŞBİH
+TEÅBÄ°H
 Estet
 Ester
 Seviye
 Nida
 Ardahan
-İstavrit
-ARTVİN
-saatleriayarlamaenstitüsü
-Boğaçhab
+Ä°stavrit
+ARTVÄ°N
+saatleriayarlamaenstitÃ¼sÃ¼
+BoÄŸaÃ§hab
 Kazandibi
-Sen kimsin kardeş
-Ya bune
-Mülga
-Kızmak
-İlçe
+MÃ¼lga
+KÄ±zmak
+Ä°lÃ§e
 badem
 Amor
 Antalya
-Eyüpsultan
-Molekül
+EyÃ¼psultan
+MolekÃ¼l
 Bel
 Obama
 Asi nehri
 Delhi
-Balıkkesir
-Alıç
-Muş
-🦋
+BalÄ±kkesir
+AlÄ±Ã§
+MuÅŸ
+ğŸ¦‹
 Makarna
 Epoksi
 Osman Gazi
 Korku
 Barfiks
 Samsun
-Gençlerbirliği
-aziz yıldırım
-Nankörlük
-eşref hamamcıoğlu
+GenÃ§lerbirliÄŸi
+aziz yÄ±ldÄ±rÄ±m
+NankÃ¶rlÃ¼k
+eÅŸref hamamcÄ±oÄŸlu
 Kilo
 tarhana
 Arnavutluk
 Fatma
 Anemometre
-Mırra
+MÄ±rra
 Mucize
 Ahkam kesmek
 Semaver
-Damat halayı
+Damat halayÄ±
 Otto Von Bismarck
-Türkiye
-Delikanlı
-Süt
-Şımarık
-oruç
-Saç
+TÃ¼rkiye
+DelikanlÄ±
+SÃ¼t
+ÅÄ±marÄ±k
+oruÃ§
+SaÃ§
 kalp
-Siz başlatın benim int sıkıntılı
+Siz baÅŸlatÄ±n benim int sÄ±kÄ±ntÄ±lÄ±
 Beyin
-yürek
+yÃ¼rek
 Akrep
-sınav
+sÄ±nav
 Parmak
 trablusgarp
 beyaz
 Bitlis
 his
 Sohbet
-Güzellik
-Koşmak
-altıbinyüzaltmışsekiz
-Küfür
+GÃ¼zellik
+KoÅŸmak
+altÄ±binyÃ¼zaltmÄ±ÅŸsekiz
+KÃ¼fÃ¼r
 bacak
-karı
-Portföy
-Şeker portakalı
+karÄ±
+PortfÃ¶y
+Åeker portakalÄ±
 66
-Çiçek
+Ã‡iÃ§ek
 helikopter
-yağmur
+yaÄŸmur
 takatukalamam
 Hull city
-kıyamet
-sıfır
+kÄ±yamet
+sÄ±fÄ±r
 Oje
 Kalem
-ölmek istiyorum
+Ã¶lmek istiyorum
 Sugar daddy
 ay
-Sansür
-Aşk
+SansÃ¼r
+AÅŸk
 Okul
-Kitaplık
+KitaplÄ±k
 Limonata
 uyanmak
 Priz
-Süleyman Demirel
+SÃ¼leyman Demirel
 Beyincik
-sabır
-Karaciğer
+sabÄ±r
+KaraciÄŸer
 Noodle
-�akas�
-Geleneksel k���k karde�e yap�lan biz seni sokakta bulduk sen e.....
-Çiçek
+Şakası
+Geleneksel küçük kardeşe yapılan biz seni sokakta bulduk sen e.....
+Ã‡iÃ§ek
 Erciyes
 Balya
 Kanser
 Hain
-Kalleş
+KalleÅŸ
 54
-Kalleş
+KalleÅŸ
 afratafra
-çakır
+Ã§akÄ±r
 animatronik
 Viyana
 No1
 Nuh
-Ahmet Haşim
+Ahmet HaÅŸim
 31
 Q
 Kiraz
@@ -5315,113 +5152,113 @@ Rakip
 Kalem
 Soba
 Bodoslama
-halilinalcık
-gül esin
+halilinalcÄ±k
+gÃ¼l esin
 cahitarf
 belleten
-Cümbüş
-sabiha gökçen
-tansuçiller
+CÃ¼mbÃ¼ÅŸ
+sabiha gÃ¶kÃ§en
+tansuÃ§iller
 10
-Bayılmak
+BayÄ±lmak
 pasta
-zümeristan
+zÃ¼meristan
 Mehter
 Messi
 hal dili
 davul
-İnkılap
+Ä°nkÄ±lap
 Namaz
-İşkence
-İçki içene ne deriz
-İhmal
+Ä°ÅŸkence
+Ä°Ã§ki iÃ§ene ne deriz
+Ä°hmal
 Elfida
-Sayın
+SayÄ±n
 Klavuz
 Semud
 34
-Menengiç
+MenengiÃ§
 Kanepe
 Kongo
-Suşi
-Ünite
-şeytanb
+SuÅŸi
+Ãœnite
+ÅŸeytanb
 kedi
 Beraat
-Part İmparatorluğu
-Eskişehir
+Part Ä°mparatorluÄŸu
+EskiÅŸehir
 Angola
 18
-Naaş
+NaaÅŸ
 Semaver
-Güllaç
+GÃ¼llaÃ§
 numara
-Eskişehir
+EskiÅŸehir
 Bulutlu
-Aybaşı
+AybaÅŸÄ±
 Koridor
 Yorgan
 Atakan
 Kemal
 Hazar
-İcazet
-Çernezyom
-Burhan Haldun Dağı
+Ä°cazet
+Ã‡ernezyom
+Burhan Haldun DaÄŸÄ±
 Terane
-İstiridye
-Mayıs
+Ä°stiridye
+MayÄ±s
 Mada
-Kalaycı
+KalaycÄ±
 Porto riko
 erikli
-Göbekli tepe
-Eşhedu en la ilahe illallah ve eşhedü enne muhammeden abduhu ve resuluh
-Mıhellemiler
-gülhane
-Müfreze
+GÃ¶bekli tepe
+EÅŸhedu en la ilahe illallah ve eÅŸhedÃ¼ enne muhammeden abduhu ve resuluh
+MÄ±hellemiler
+gÃ¼lhane
+MÃ¼freze
 soru
-Müfettiş
+MÃ¼fettiÅŸ
 Mayoz
-İbn Ravendi
-Şerefsiz insan
-İbn Ravendi
+Ä°bn Ravendi
+Åerefsiz insan
+Ä°bn Ravendi
 Pastafaryanizm
 Popeyes
-Menduh Büyükkılıç
-İbranice
+Menduh BÃ¼yÃ¼kkÄ±lÄ±Ã§
+Ä°branice
 Boyoz
-Menduh büyükkılıç
+Menduh bÃ¼yÃ¼kkÄ±lÄ±Ã§
 Platon
-Yalancı
+YalancÄ±
 Gandi
-Şamil Basayev
+Åamil Basayev
 Otlu peynir
 Sisi
 Maklube
 50
 balikesir
-balıkesir
+balÄ±kesir
 kingston
-Barış
-Su takı
-Kalaycı
+BarÄ±ÅŸ
+Su takÄ±
+KalaycÄ±
 simsiyah
-Ha bu rizeden emicen mefat etmiş
-Monarşik
-dönence
-Selamın aleyküm
+Ha bu rizeden emicen mefat etmiÅŸ
+MonarÅŸik
+dÃ¶nence
+SelamÄ±n aleykÃ¼m
 telgraf
 maksat
 Evet
-Yusuf Akçura
-Ben giderim o gider arkamda tın tın eder
-Öd
+Yusuf AkÃ§ura
+Ben giderim o gider arkamda tÄ±n tÄ±n eder
+Ã–d
 Kenndy
 Friedrich Engels
-Gümüş
-Yeni başlayan bi dizi yanlız kurt
+GÃ¼mÃ¼ÅŸ
+Yeni baÅŸlayan bi dizi yanlÄ±z kurt
 Plank
-Göbek taşı
+GÃ¶bek taÅŸÄ±
 Dogma
 25
 Ahududu
@@ -5430,12 +5267,12 @@ Kopernikyum
 Vatikan
 cennet
 Srilanka
-İ
+Ä°
 23
 Bedros Keresteciyan
 3
 Zindan
-Milleti Sadıka
+Milleti SadÄ±ka
 Palamut
 domuz
 Hasan
@@ -5445,23 +5282,23 @@ Ararat
 Dolma kalem
 cellat
 mesafe
-Zümer
+ZÃ¼mer
 /
-Çeçenistan
-Çin
-Şamil basayev
-zümeristan
+Ã‡eÃ§enistan
+Ã‡in
+Åamil basayev
+zÃ¼meristan
 elif kurtul
-Faşist rose
+FaÅŸist rose
 Kara kutu
 Basilisk
-Ayşe
+AyÅŸe
 Zor
 98
 Urfa
 Kar
 Sosyete
-İkizler
+Ä°kizler
 Rica
 Cezayie
 Elaman
@@ -5470,10 +5307,10 @@ City
 Su
 Kestane
 Ocak
-Dünya
+DÃ¼nya
 Saat
 Ferditayfur
-Zeki Müren
+Zeki MÃ¼ren
 Olur
 Kesmek
 Kas
@@ -5483,21 +5320,21 @@ Nar
 Sincap
 Fabrika
 P
-Aslı
+AslÄ±
 22
 21
 Oyun
-Kemençe
+KemenÃ§e
 Bana
-Yavaş
+YavaÅŸ
 Gergin
 Nijerya
-Cebelitarık
+CebelitarÄ±k
 ne
 Sivas
 Mikrofon
 Q
-Sakız
+SakÄ±z
 Mustafa
 Rica
 Kamikaze
@@ -5509,13 +5346,13 @@ Leva
 Ok
 Maltoz
 Farmakoloji
-Şamil basayev
+Åamil basayev
 Manisa
 Sucre
-istibdat dönemi padişahı
+istibdat dÃ¶nemi padiÅŸahÄ±
 Kozalak
 Peristaltik
-Ösym
+Ã–sym
 Canan
 23
 sadece
@@ -5523,30 +5360,30 @@ sadece
 Bir organ
 Elma
 Mal
-...... Tövbesi
+...... TÃ¶vbesi
 Dadanmak
-İncil
-İzlanda
+Ä°ncil
+Ä°zlanda
 478
 Uyku
-1844 Yılında İngilterede İşci Sınıfının Koşulları
-İhlas
-İshak
+1844 YÄ±lÄ±nda Ä°ngilterede Ä°ÅŸci SÄ±nÄ±fÄ±nÄ±n KoÅŸullarÄ±
+Ä°hlas
+Ä°shak
 Nazmi
 Pruva
 tirrek
 Hasan El Benna
-Riyazüssalihin
-İbni sina
-Ayşe Tatile çıksın
-Bağırsak
+RiyazÃ¼ssalihin
+Ä°bni sina
+AyÅŸe Tatile Ã§Ä±ksÄ±n
+BaÄŸÄ±rsak
 Kolonya
 Dove
 Sincap
 Bordo
 Naciye
 Xiomi
-Çiğer
+Ã‡iÄŸer
 Rimel
 Fransa
 Bu bir yemek
@@ -5556,95 +5393,95 @@ Teodor Herzl
 Biberiye
 Osman Batur
 X
-Bir içecek
+Bir iÃ§ecek
 32
 Said Nursi
-Batman ilçe
+Batman ilÃ§e
 Musab
-Batman ilçe kozluk
+Batman ilÃ§e kozluk
 Faiz
-Bu bir araba markası
+Bu bir araba markasÄ±
 Beraat
 muayyen
 Evet
 Jitem
 Hermano
 Bit
-Avşar
+AvÅŸar
 Avrupahundevleti
-İkinci Abdülhamid
+Ä°kinci AbdÃ¼lhamid
 68
 Bergen
 Kerbela
-Pınar
-Kızıl Elma
-Bartın
-Uçak
-Kıl
-Sümeyye
+PÄ±nar
+KÄ±zÄ±l Elma
+BartÄ±n
+UÃ§ak
+KÄ±l
+SÃ¼meyye
 Patates
 378
 Yelkovan
-Darülerkam
+DarÃ¼lerkam
 Hilafet
 Nur
 Platon Akademisi
 LP
 Melike
-Olum yanlışlıkla bildik
+Olum yanlÄ±ÅŸlÄ±kla bildik
 Ezel
 42
 Sternocleidomastoid
-Kardeş
+KardeÅŸ
 Minor
-Pectroaliss minör
-Acıkmak
+Pectroaliss minÃ¶r
+AcÄ±kmak
 Oyun
 Koltuk
-Öğrenmek
-Oruç
-Boğaz
+Ã–ÄŸrenmek
+OruÃ§
+BoÄŸaz
 Sezar
-Yaratık
-Sızmak
-Yağ
-Pixel savaşı
+YaratÄ±k
+SÄ±zmak
+YaÄŸ
+Pixel savaÅŸÄ±
 Emir
-Şanlıurfa
+ÅanlÄ±urfa
 Kalem
-Pamuk şeker
+Pamuk ÅŸeker
 Sessiz sinema
 Kum
 Nutuk
-Sınav
+SÄ±nav
 Kara
 Turuncu
-muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine
-Yargıtay
+muvaffakiyetsizleÅŸtiricileÅŸtiriveremeyebileceklerimizdenmiÅŸsinizcesine
+YargÄ±tay
 Y
-İkinci
+Ä°kinci
 Erkek
 Aile fertlerinden biri  (anne
 Sevgi
-Cilvegözü
+CilvegÃ¶zÃ¼
 Toz
-Şirk
+Åirk
 Mont
 Hukuk
-Halı
+HalÄ±
 Tezgah
 Muharrem
-Nikte yazıyo
+Nikte yazÄ±yo
 Nikte
-Balıkesir
+BalÄ±kesir
 Rockstar games
 Elma
-Fok balığı
+Fok balÄ±ÄŸÄ±
 Tuhaf?
-Buzdolabı
+BuzdolabÄ±
 Ampul
-Müthiş olan şeye ne deriz
-Diş
+MÃ¼thiÅŸ olan ÅŸeye ne deriz
+DiÅŸ
 Torpil
 Sivas
 Batman
@@ -5655,117 +5492,117 @@ Elif
 Naber
 Merhaba
 Seni seviyorum
-Kapı
+KapÄ±
 Hamsi
 Barbarossa
 Bal
-Yeşil
-Aşk bahçem
+YeÅŸil
+AÅŸk bahÃ§em
 Hazer
 Film
 Mainz
 Sevgilim
-Götalp
-ilişki
+GÃ¶talp
+iliÅŸki
 Hades
-Köle
+KÃ¶le
 Ha pardon
-Çorum
-Bişey bişey oturma derler
-Şarj
-Sütanne
-Otobüs
-Milföy
+Ã‡orum
+BiÅŸey biÅŸey oturma derler
+Åarj
+SÃ¼tanne
+OtobÃ¼s
+MilfÃ¶y
 Sivir
 Kalp
 Ezidiler
 Clavicula
-Ağrı
+AÄŸrÄ±
 Erivan
-Muş
+MuÅŸ
 Asma
 Bergamot
-Deniz altı
+Deniz altÄ±
 Nasa
-Karnıyarık
+KarnÄ±yarÄ±k
 Demografik
 Efe
 Asker
-Parfüm
+ParfÃ¼m
 Tanzimat
 Saksafon
 Degaj
-Alışveriş
-Oruç tutmak
+AlÄ±ÅŸveriÅŸ
+OruÃ§ tutmak
 Akaid
 Bulutlu
 Helikopter
-Entelektüel
+EntelektÃ¼el
 nisan
-Çorap
-Kadın
+Ã‡orap
+KadÄ±n
 Klima
 oppo
 Oyun
 Makara
-Gökyüzü mavisi
+GÃ¶kyÃ¼zÃ¼ mavisi
 Kandil
-tendürek
-Algı
+tendÃ¼rek
+AlgÄ±
 sisli
-🇺🇸
+ğŸ‡ºğŸ‡¸
 Enternasyonalizm
 blender
 Eyeliner
 Rockefeller
 Makara
 Okul
-Abaküs
+AbakÃ¼s
 Makarna
-Yedigün
+YedigÃ¼n
 Koltuk
-İncir
+Ä°ncir
 Ultra Ortodoks
-antik mısırda güneş tanrısı
-3 Mayıs
+antik mÄ±sÄ±rda gÃ¼neÅŸ tanrÄ±sÄ±
+3 MayÄ±s
 Aziz Sancar
-Reşat Nuri Güntekin
+ReÅŸat Nuri GÃ¼ntekin
 bir yemek
 bir yemek
 yahni
 Karavana
 Rutin
-Türkü
+TÃ¼rkÃ¼
 Tekerlek
-menkıbe
+menkÄ±be
 Kimyon
-Kıyafet
+KÄ±yafet
 Seher
-İlmihâl
-Gırgır
-Bahşiş
+Ä°lmihÃ¢l
+GÄ±rgÄ±r
+BahÅŸiÅŸ
 Difriz
 Fizyoterapi
-Ziya Gökalp
-Şabah
-Şaban
-Osman paşa
+Ziya GÃ¶kalp
+Åabah
+Åaban
+Osman paÅŸa
 kentrilyon
 ali
-Altmışdört
+AltmÄ±ÅŸdÃ¶rt
 gripin
 lig
 Siber
-Gökyüzü
-Jüpiter
+GÃ¶kyÃ¼zÃ¼
+JÃ¼piter
 36
 Almanya
 kursak
 Yemek yemek
-Açlık
+AÃ§lÄ±k
 Q
-Menü
-Ölmek
+MenÃ¼
+Ã–lmek
 Yaprak sarma
 Lez miyiz
 Leziz
@@ -5773,42 +5610,42 @@ Prenses
 Amonyak
 Tas kafa
 Sevgi
-Hayırlı
-Bıçak
-Çamaşır makinesi
+HayÄ±rlÄ±
+BÄ±Ã§ak
+Ã‡amaÅŸÄ±r makinesi
 Sars
-Atatürk
-Bağdat
-Ürolog
+AtatÃ¼rk
+BaÄŸdat
+Ãœrolog
 Fil
-Ü
-İmam hatip
-Asılmak
+Ãœ
+Ä°mam hatip
+AsÄ±lmak
 Araba
 Pranga
 Otuz
 Develi
 32
-Sıfır
-Yağmur
+SÄ±fÄ±r
+YaÄŸmur
 Dogma
-Yasından
+YasÄ±ndan
 Hav
 49
-Şarkı
-Kuzey Atlantik Antlaşması Örgütü 
-Kuzey Atlantik Antlaşması Örgütü 
+ÅarkÄ±
+Kuzey Atlantik AntlaÅŸmasÄ± Ã–rgÃ¼tÃ¼Â 
+Kuzey Atlantik AntlaÅŸmasÄ± Ã–rgÃ¼tÃ¼Â 
 Serious
 Sam
-Rögar
+RÃ¶gar
 Birey
-Sarhoş
+SarhoÅŸ
 78
 Kedi
-Kürtçe merhaba
+KÃ¼rtÃ§e merhaba
 Ergen
 Manolya
-Gıcık
+GÄ±cÄ±k
 Nerden
 Jin
 Kilis
@@ -5818,27 +5655,27 @@ Berk
 Amerika
 Bu bir ikileme 
 Yol ......
-♥️♥️♥️♥️♥️♥️♥️♥️
-Üçlemek
-Mısır
+â™¥ï¸â™¥ï¸â™¥ï¸â™¥ï¸â™¥ï¸â™¥ï¸â™¥ï¸â™¥ï¸
+ÃœÃ§lemek
+MÄ±sÄ±r
 Zaviye
 43
 Semenin
 Kiraz
 Yeter
-Ağrı
+AÄŸrÄ±
 Nutella
 Eray
 Aysun
 Dur ya
-Kül
+KÃ¼l
 Erciyes
-Göktürkler
+GÃ¶ktÃ¼rkler
 Eeeee
 Adana
-Büyücülük
-Kahvaltı ne yenen bir şey
-Burun deliği
+BÃ¼yÃ¼cÃ¼lÃ¼k
+KahvaltÄ± ne yenen bir ÅŸey
+Burun deliÄŸi
 Dinazor
 Bit
 Dinazor
@@ -5846,35 +5683,35 @@ Ankara
 300
 Ece
 salam
-Bebeğim
+BebeÄŸim
 Memati
 Polat
 Elif
-Polat’ın arabası
+Polatâ€™Ä±n arabasÄ±
 Biyolog
 Fatma
 Okul
 Adam
-Çizme
+Ã‡izme
 Soprano
 hayalet
-Tapınakçı
-Bülent Ersoy
-Yanılır
+TapÄ±nakÃ§Ä±
+BÃ¼lent Ersoy
+YanÄ±lÄ±r
 Bardo
 Varis
 alibarokas
 Deribilim
-İki dakika
+Ä°ki dakika
 Muhtar
-Çorap
+Ã‡orap
 Kel
-Cıvıklı
-Halikarnas balıkçısı
+CÄ±vÄ±klÄ±
+Halikarnas balÄ±kÃ§Ä±sÄ±
 Klor
-Arı
-Arı
-Avcı
+ArÄ±
+ArÄ±
+AvcÄ±
 psikoloji
 Selef
 merdiven
@@ -5882,50 +5719,50 @@ Kurt
 Tatvan
 Deniz
 Meryem
-röportaj
+rÃ¶portaj
 Olta
 Mario Gomez
 Efes
-öktem
+Ã¶ktem
 Polat
 grey
-İsmihan
-Örgülü
+Ä°smihan
+Ã–rgÃ¼lÃ¼
 Aslan
-İnziva
+Ä°nziva
 Kickbox
-tükenmişlik
-viyana kuşatması
+tÃ¼kenmiÅŸlik
+viyana kuÅŸatmasÄ±
 Ticari
 Ferman
 Umut
-Dünyanıneniyiinsanı
-Darı
+DÃ¼nyanÄ±neniyiinsanÄ±
+DarÄ±
 Fransa
-Diyarbakır
-şahi top
-Şehir
-jüpiter
-Şehir
+DiyarbakÄ±r
+ÅŸahi top
+Åehir
+jÃ¼piter
+Åehir
 Sohbet etmek
 Nibelungen
 seni seviyorum
 20
 Sevgili
-Nötr
+NÃ¶tr
 leningrad
 Kerpeten
-Ağlamak
+AÄŸlamak
 Aramak
 Yavuz Sultan Selim
 Gelgit
-..... Attı ve şampiyonluk geldi denilen futbolcu kimdir ?
+..... AttÄ± ve ÅŸampiyonluk geldi denilen futbolcu kimdir ?
 Timsal
-..... Attı ve şampiyonluk geldi denilen futbolcu kimdir ?
-Son İslam halifesi
-Recep Tayyip Erdoğan
+..... AttÄ± ve ÅŸampiyonluk geldi denilen futbolcu kimdir ?
+Son Ä°slam halifesi
+Recep Tayyip ErdoÄŸan
 Mal Ali
-Emülsiyon
+EmÃ¼lsiyon
 Kupa
 Perde
 Zeliha
@@ -5933,44 +5770,44 @@ Bogota
 Etiket
 Sefer
 Dram
-hayır
+hayÄ±r
 Diretmek
-Öğrenmek
+Ã–ÄŸrenmek
 Nispet
-Çarmıh
-İkiz kuleler
+Ã‡armÄ±h
+Ä°kiz kuleler
 Soba
 Eftalya
 Avni
 iyi geceler
 eski
-Düğme
-Fön
+DÃ¼ÄŸme
+FÃ¶n
 Carmen
 Baro
 Seriyye
 bok
-Aptallaşmak
+AptallaÅŸmak
 Gazve
 sevelimsevilelim
-Öküz
-Şeriat
+Ã–kÃ¼z
+Åeriat
 Mal sude
-Eşofman
+EÅŸofman
 V for vendetta
 Oku
 Yarrak
 Valetta
-amaç
+amaÃ§
 Abazan
 Ezel
 Bidat
-Kürt
+KÃ¼rt
 Pipi
-sevişmek
-Ömer
+seviÅŸmek
+Ã–mer
 Gelinlik
-Süryaniler
+SÃ¼ryaniler
 giysi
 Ship
 Mala vurmak
@@ -5981,82 +5818,82 @@ Sorimmi
 Ravi
 El Cezeri
 Meram
-Ekşi
-Şeddad
+EkÅŸi
+Åeddad
 Sor
 Ney
 evet
 Memati
-çekirge
+Ã§ekirge
 Kumral
 Nebula
 Eccedentesiast
-Cayır cayır
+CayÄ±r cayÄ±r
 Richard dawkins
 Kazak
-Kabir anlaminda bir şiir de de geciyor
+Kabir anlaminda bir ÅŸiir de de geciyor
 At
-Yer çekimi
-Yer çekimi
+Yer Ã§ekimi
+Yer Ã§ekimi
 Reaya
 seyyar
-Ateş
+AteÅŸ
 Yok
 Elon Musk
-İntibah
-İbrahim şinasi
-aşık olmak
+Ä°ntibah
+Ä°brahim ÅŸinasi
+aÅŸÄ±k olmak
 Olta
-Halepçe
+HalepÃ§e
 Togg
-Mustafa Kemal Atatürk
+Mustafa Kemal AtatÃ¼rk
 Weimar Cumhuriyeti
 Gergin
-Köstebek
-Şampuan
+KÃ¶stebek
+Åampuan
 Spacex
 Kendall
 Kulak
-öpüşmek
+Ã¶pÃ¼ÅŸmek
 Amude
 Hadi
-Mütemadiyen
+MÃ¼temadiyen
 Ekran
-göğüs
+gÃ¶ÄŸÃ¼s
 Psikiyatrist
 Devlet
-6 gün savaşları
-Köhne
+6 gÃ¼n savaÅŸlarÄ±
+KÃ¶hne
 Furkan
-Sırp
+SÄ±rp
 Bok
 bikarbonat
 Ahmed-i Hani
 Serseri
-Isırmak
+IsÄ±rmak
 Damak
 At
 Attila
-Çekirge
+Ã‡ekirge
 Romen diyojen
 Bodrum
-düzenbaz
+dÃ¼zenbaz
 Medler
 Gana
-kafasız
+kafasÄ±z
 Amme
-Yeşil kırmızı karışımı
+YeÅŸil kÄ±rmÄ±zÄ± karÄ±ÅŸÄ±mÄ±
 Olmuyor
-Sümerler
+SÃ¼merler
 otuzbir
 Santo Domingo
 n
 Asi
-Lidyalılar
+LidyalÄ±lar
 Friends
 Elcezeri
 yemek yapmak
-müteşabih
+mÃ¼teÅŸabih
 Ezidi
 Ezidi
 Felfese
@@ -6064,56 +5901,56 @@ Elif
 Muhalif
 mikrop
 Kar tanesi
-Bırakmak
-Boşlamak
-Arabanın jantına takılır
-şifre
+BÄ±rakmak
+BoÅŸlamak
+ArabanÄ±n jantÄ±na takÄ±lÄ±r
+ÅŸifre
 Yener
-Atatürk
+AtatÃ¼rk
 ayna
-allık
-Saklambaç
+allÄ±k
+SaklambaÃ§
 Zamir
 Arcane
 samimi
-merve özbey
+merve Ã¶zbey
 merve
 Muharrem
-Öf ya
+Ã–f ya
 Lavin
-senden başka
-öcü
-Alçak puşt
+senden baÅŸka
+Ã¶cÃ¼
+AlÃ§ak puÅŸt
 Sedef
-İsmet özel
-Gül
-Umut Sarıkaya
+Ä°smet Ã¶zel
+GÃ¼l
+Umut SarÄ±kaya
 Kafile
-Çelik Yelek
-çıkma teklifi
+Ã‡elik Yelek
+Ã§Ä±kma teklifi
 Dinar
 Kibar feyzo
-Romayı kim yaktı?
+RomayÄ± kim yaktÄ±?
 Mutualizm
-Üçüncü murat
+ÃœÃ§Ã¼ncÃ¼ murat
 Taci
 Maydau
 Mayday
-Süleyman Çakır
+SÃ¼leyman Ã‡akÄ±r
 Uno
 Mevlana
 Klor
 Elti
 Churchill
-Eltisinin kardeşi
-İskele alabanda
+Eltisinin kardeÅŸi
+Ä°skele alabanda
 Mor
 Galleon
 Piti
-Her insana has verilen irade hakimiyet i kendine ait olan şey
+Her insana has verilen irade hakimiyet i kendine ait olan ÅŸey
 Her insana has verilen irade hakimiyet
-Harita ve pusula ile koşarak hedef bulma sporu
-Eshabı keyf
+Harita ve pusula ile koÅŸarak hedef bulma sporu
+EshabÄ± keyf
 Selami
 87
 Ece
@@ -6123,32 +5960,32 @@ Zelenski
 Karamel
 louis wain
 Mikail
-Menekşe
+MenekÅŸe
 Bakara
-Azgın
+AzgÄ±n
 C
 Damar
 345
 Darbeci
 Stent
-İsviçre
-Boğa
+Ä°sviÃ§re
+BoÄŸa
 Bismillahirrahmanirrahim
 Harun
-söyleyeceklerini  suya yaz
+sÃ¶yleyeceklerini  suya yaz
 Votka
 Suit
 Thalus
-Çay ocağı
-Fındık
+Ã‡ay ocaÄŸÄ±
+FÄ±ndÄ±k
 Safevi
 Zeta
-Çizik
+Ã‡izik
 Zeta
 Talas
-Şinasi
-Rümeysa
-58 nerenin pılakası
+Åinasi
+RÃ¼meysa
+58 nerenin pÄ±lakasÄ±
 Vahdettin
 Habil  Kabil
 Suit oda
@@ -6157,21 +5994,21 @@ Malabadi
 Soy metal
 Platin
 Hakiki
-Sümeyye
+SÃ¼meyye
 Mutluluk veren bilgi
 Esnek olan ?
 bilim
-Islahat Fermanı
+Islahat FermanÄ±
 Mal
 Mustafa Denizli
-Karlofça Antlaşması
-Münker nekir
-Ingilizce gün batımı manasına gelen bir terim
+KarlofÃ§a AntlaÅŸmasÄ±
+MÃ¼nker nekir
+Ingilizce gÃ¼n batÄ±mÄ± manasÄ±na gelen bir terim
 Doktor
-Süleyman Çakır
+SÃ¼leyman Ã‡akÄ±r
 42
 Rabat
-💡
+ğŸ’¡
 Beyaz Toros
 Herbokolog
 Mutlka
@@ -6179,17 +6016,16 @@ Sor
 Miyav
 Kahya
 J
-Goşa
-Sünnet
-İşci bayrami
-1 mayıs
+GoÅŸa
+SÃ¼nnet
+Ä°ÅŸci bayrami
+1 mayÄ±s
 46
 Rijeka
-Saksağan
-Aracın ayakkabısı
-👍 Artık yeni sorun: Aracın ayakkabısı
-Sarı
-Kek neyle kabarır
+SaksaÄŸan
+AracÄ±n ayakkabÄ±sÄ±
+SarÄ±
+Kek neyle kabarÄ±r
 Ezici
 Yox
 Psikiyastrist
