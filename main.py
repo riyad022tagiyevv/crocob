@@ -2741,15 +2741,15 @@ def haftalik_reset():
 
 
 def reset_kontrol():
-    reset_zamani = f(f"reset-zamanı")
+    reset_zamani = f("reset-zamanı")
 
-    # Əgər reset_zamani boşdursa və ya rəqəm deyilsə, 0 götür
-    if not reset_zamani or not reset_zamani.isdigit():
+    # Əgər reset_zamani boşdursa və ya rəqəm deyilsə, "0" götür
+    if not reset_zamani or not str(reset_zamani).isdigit():
         reset_zamani = "0"
 
-    if time.time() - int(reset_zamani) > 7 * 86_400:
+    if time.time() - float(reset_zamani) > 7 * 86_400:
         haftalik_reset()
-        f(f"reset-zamanı", time.time())
+        f("reset-zamanı", time.time())
 
 async def yedek_kontrol():
     yedek_zamani = f("yedek-zamanı")
