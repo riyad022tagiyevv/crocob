@@ -22,16 +22,16 @@ import traceback
 import requests
 
 
-bot_adi = "CrocodileGame_Robot"
+bot_adi = "TerrorgameRobot"
 
 if hex(getnode()) in ["0xdc7b23bb434e"]:
     print("kyb")
-    bot_adi = "bit tagin yaz @bunsuz"
-    bot_token = "tokeni bura yaz"
+    bot_adi = "TerrorgameRobot"
+    bot_token = "8097493050:AAHODcBgRI0F-KnhH8adKGFg6o7e-pHMZwg"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 else:
-    bot_adi = "bot tagi"
-    bot_token =  "bot tokeni"
+    bot_adi = "TerrorgameRobot"
+    bot_token =  "8097493050:AAHODcBgRI0F-KnhH8adKGFg6o7e-pHMZwg"
     bot = AsyncTeleBot(bot_token, parse_mode="html")
 
 temp = {}
@@ -413,9 +413,9 @@ def draw_graph(x,y, **kwargs):
         plt.scatter(x, y, marker='x', color='red')
     plt.savefig('base.jpg', format='jpg')
 
-    if (kwargs.get("chat_id", "-1002119059079")!="-1002119059079"):
+    if (kwargs.get("chat_id", "-1002432414281")!="-1002432414281"):
         #bot.send_photo(kwargs.get("chat_id", ""), photo=open('base.jpg', 'rb'))
-        bot.send_document(kwargs.get("chat_id", "-1002119059079"), document=open('base.jpg', 'rb'))
+        bot.send_document(kwargs.get("chat_id", "-1002432414281"), document=open('base.jpg', 'rb'))
         os.remove("base.jpg")
 
 def skor_arttir(neyi,artis=1, **kwargs):
@@ -430,7 +430,7 @@ def skor_arttir(neyi,artis=1, **kwargs):
         return skor_getir
 
 async def log_gonder(**kwargs):
-    chat_id = kwargs.get("chat_id","-1002119059079")
+    chat_id = kwargs.get("chat_id","-1002432414281")
 
 
     oyunlar = f("games")
@@ -439,7 +439,7 @@ async def log_gonder(**kwargs):
 
 
     try:
-        await bot.send_message(-1002119059079, f"""
+        await bot.send_message(-1002432414281, f"""
 <b> ~~ 📢 Log ~~</b>
 
 💬: <code>{f(f"groups.{chat_id}.username")}</code>
@@ -454,7 +454,7 @@ Fəaliyyət: <code>{kwargs.get('eylem','')}</code>
         #else:
         #    bot.send_message(kurucu_id, str(e))
     try:
-        await bot.set_chat_title(-1002119059079, f"Bot Log - {len(oyunlar)}")
+        await bot.set_chat_title(-1002432414281, f"Bot Log - {len(oyunlar)}")
     except Exception as e:
         if "chat not found" in str(e):
             pass
@@ -600,7 +600,7 @@ async def sessiz_sinema_baslat(message, **kwargs):
             if first_name in ayir[a]:
                 ayir[a] = "• " + ayir[a] # + " 🔥"
         text = "\n".join(ayir)
-    elif user_id==5898049921 or user_id==5898049921:
+    elif user_id==6276057244 or user_id==6276057244:
         ayir = text.split("\n")
         for a in range(len(ayir)):
             if first_name in ayir[a]:
