@@ -36,7 +36,7 @@ else:
 
 temp = {}
 
-kurucu_id = #owneridyaz
+kurucu_id = 6276057244
 admins = [kurucu_id, #useridyazbura]
 zaman_hassasiyeti = pow(10,6)
 
