@@ -2741,12 +2741,24 @@ def haftalik_reset():
 
 
 def reset_kontrol():
-    if time.time() - int(f(f"reset-zamanÄ±")) > 7 * 86_400:
+    reset_zamani = f(f"reset-zamanı")
+
+    # Əgər reset_zamani boşdursa və ya rəqəm deyilsə, 0 götür
+    if not reset_zamani or not reset_zamani.isdigit():
+        reset_zamani = "0"
+
+    if time.time() - int(reset_zamani) > 7 * 86_400:
         haftalik_reset()
-        f(f"reset-zamanÄ±",time.time())
+        f(f"reset-zamanı", time.time())
 
 async def yedek_kontrol():
-    if time.time() - int(f(f"yedek-zamanÄ±")) > 3600 * 1 : #bir saat 3600 sn
+    yedek_zamani = f("yedek-zamanı")
+
+    # Əgər yedek_zamani boşdursa və ya rəqəm deyilsə, 0 götür
+    if not yedek_zamani or not yedek_zamani.isdigit():
+        yedek_zamani = "0"
+
+    if time.time() - int(yedek_zamani) > 3600 * 1:
         for _ in range(5):
             try:
                 await telegram_yedek_al()
